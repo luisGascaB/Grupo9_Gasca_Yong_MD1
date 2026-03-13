@@ -92,7 +92,8 @@ etl-weatherstack/
 
 ## 👨‍💻 Autor
 
-Tu Nombre - Ingeniería de Sistemas - CORHUILA
+SEAM YONG AGUDELO
+LUIS EDUARDO GASCA BONILLA
 
 ## 📝 Licencia
 
