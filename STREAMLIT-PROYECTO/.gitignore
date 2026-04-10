@@ -12,9 +12,11 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Datos locales
-data/
+# Logs
 logs/
+
+# Ignorar JSON crudo
+data/*.json
 
 # IDE
 .vscode/
