@@ -1,0 +1,15 @@
+2026-03-05 22:41:17,410 - INFO - 🌍 Iniciando extracción de países desde RestCountries...
+2026-03-05 22:41:18,298 - INFO - ✅ Se extrajeron 250 registros de países
+2026-03-05 22:41:18,302 - INFO - ✅ Se procesaron 250 países correctamente
+2026-03-05 22:41:18,310 - INFO - 📁 Datos guardados en data/paises_raw.json
+2026-03-05 22:41:18,323 - INFO - 📁 Datos guardados en data/paises.csv
+2026-03-06 14:32:38,262 - INFO - 🌍 Iniciando extracción de países desde RestCountries...
+2026-03-06 14:32:39,325 - INFO - ✅ Se extrajeron 250 registros de países
+2026-03-06 14:32:39,332 - INFO - ✅ Se procesaron 250 países correctamente
+2026-03-06 14:32:39,352 - INFO - 📁 Datos guardados en data/paises_raw.json
+2026-03-06 14:32:39,390 - INFO - 📁 Datos guardados en data/paises.csv
+2026-04-10 17:04:47,382 - INFO - 🌍 Iniciando extracción de países desde RestCountries...
+2026-04-10 17:04:48,111 - INFO - ✅ Se extrajeron 250 registros de países
+2026-04-10 17:04:48,113 - INFO - ✅ Se procesaron 250 países correctamente
+2026-04-10 17:04:48,120 - INFO - 📁 Datos guardados en data/paises_raw.json
+2026-04-10 17:04:48,139 - INFO - 📁 Datos guardados en data/paises.csv

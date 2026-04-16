@@ -11,9 +11,9 @@ logging.basicConfig(level=logging.INFO)
 
 if __name__ == "__main__":
 
-    print("\n" + "="*50)
+    print("\n" + "=" * 50)
     print("PRUEBA DE CONEXIÓN A POSTGRESQL")
-    print("="*50)
+    print("=" * 50)
 
     if test_connection():
         print("✅ Conexión exitosa a la base de datos")
@@ -24,8 +24,8 @@ if __name__ == "__main__":
         print("❌ No se pudo conectar a la base de datos")
 
         print("\nVerifica:")
-        print("- PostgreSQL está corriendo")
-        print("- Variables en .env son correctas")
-        print("- Base de datos existe")
+        print("- La URL de conexión en .env es correcta")
+        print("- La base de datos remota está disponible")
+        print("- El usuario y contraseña son correctos")
 
-    print("="*50 + "\n")
+    print("=" * 50 + "\n")

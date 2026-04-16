@@ -1,0 +1,1001 @@
+nombre_comun,nombre_oficial,codigo_cca2,codigo_cca3,capital,region,subregion,poblacion,area_km2,latitud,longitud,continentes,fecha_extraccion
+Santa Libertad 1,Federación de Santa Libertad 1,GJ,ALF,Altavista,Africa,Northern Africa,116229240,898992.7,17.8506,0.7219,Africa,2026-01-17T12:52:57.940614+00:00
+Bajo Novaterra 2,Federación de Bajo Novaterra 2,OE,FOL,Santa Marina,Oceania,Australia and New Zealand,110273354,11945103.86,-28.87,137.6709,Oceania,2026-03-04T00:29:36.940646+00:00
+Rio Venturia 3,Estado de Rio Venturia 3,PX,PKS,Nueva Capital,Oceania,Australia and New Zealand,109649057,12318432.12,-19.9391,144.0376,Oceania,2025-12-17T14:53:03.940661+00:00
+Sur Cordelia 4,República de Sur Cordelia 4,FQ,ONX,San Aurelio,Americas,South America,94878111,6795851.89,-44.3862,-73.7226,America,2026-01-05T23:56:39.940673+00:00
+Santa Monteluz 5,Reino de Santa Monteluz 5,KU,GBO,Río Blanco,Asia,Western Asia,48663017,17221310.88,66.9216,168.2745,Asia,2026-04-12T17:35:44.940683+00:00
+Villa Aurora 6,Reino de Villa Aurora 6,OW,QMX,Altavista,Europe,Northern Europe,19243867,6202409.19,70.8833,-12.7062,Europe,2026-04-12T06:56:59.940692+00:00
+Isla Cordelia 7,Estado de Isla Cordelia 7,SW,EEN,Puerto Azul,Europe,Northern Europe,240450526,4962126.62,56.6464,54.1869,Europe,2026-03-28T19:48:04.940703+00:00
+Norte Lunaria 8,Federación de Norte Lunaria 8,BU,TUF,Puerto Central,Americas,North America,43568167,16392205.6,-41.2364,-35.0429,America,2026-03-03T19:13:43.940712+00:00
+San Monteluz 9,Estado de San Monteluz 9,DJ,FSZ,Santa Marina,Asia,Western Asia,248642972,7885465.42,62.5365,99.7957,Asia,2026-04-14T04:13:36.940721+00:00
+Gran Verdevia 10,Reino de Gran Verdevia 10,OV,CWY,Río Blanco,Europe,Southern Europe,54928353,15322045.6,61.5692,-11.3022,Europe,2026-02-22T13:36:48.940729+00:00
+Gran Brisalia 11,República de Gran Brisalia 11,VX,BYC,Ciudad del Sol,Oceania,Australia and New Zealand,20222980,16912839.31,-14.5828,155.2279,Oceania,2026-02-08T13:28:55.940738+00:00
+Santa Cordelia 12,Estado de Santa Cordelia 12,RP,KSV,Río Blanco,Asia,Western Asia,185641073,13534951.7,32.608,162.4325,Asia,2025-12-27T15:33:18.940746+00:00
+Puerto Novaterra 13,Estado de Puerto Novaterra 13,HO,VAD,Río Blanco,Europe,Southern Europe,110648627,16642482.03,52.0051,55.9118,Europe,2026-01-25T14:01:27.940755+00:00
+Rio Brisalia 14,Reino de Rio Brisalia 14,XK,USD,Nueva Capital,Oceania,Australia and New Zealand,18745745,2370415.12,-8.9594,159.5771,Oceania,2026-02-07T23:20:25.940763+00:00
+Monte Cedral 15,Federación de Monte Cedral 15,LC,LXR,Villa Norte,Americas,Central America,35327994,7589432.66,-15.2313,-38.8108,America,2026-01-08T12:31:05.940771+00:00
+Lago Monteluz 16,Reino de Lago Monteluz 16,ZE,QFZ,Ciudad del Sol,Europe,Western Europe,211796377,5981067.86,52.781,41.8066,Europe,2026-03-14T19:44:51.940779+00:00
+Alto Marfilia 17,Federación de Alto Marfilia 17,KC,YVY,Villa Norte,Africa,Middle Africa,20721612,2248704.02,12.1539,33.7555,Africa,2026-03-03T18:50:24.940789+00:00
+Norte Solaria 18,Estado de Norte Solaria 18,QT,LOI,Puerto Azul,Europe,Southern Europe,95301071,14595044.92,54.7175,19.8464,Europe,2026-04-05T19:22:54.940798+00:00
+San Lunaria 19,República de San Lunaria 19,IC,AZD,Capital Nova,Asia,Southeast Asia,7075122,3643456.32,17.9498,128.0373,Asia,2026-04-13T16:38:44.940806+00:00
+Isla Andina 20,Estado de Isla Andina 20,MP,DKZ,San Aurelio,Europe,Eastern Europe,11217804,17302051.13,62.5295,-4.2601,Europe,2026-01-10T01:21:18.940814+00:00
+Costa Aurora 21,República de Costa Aurora 21,SX,VNM,Ciudad del Sol,Asia,Southern Asia,17281277,12434853.91,-1.4227,149.2464,Asia,2026-04-13T19:34:50.940823+00:00
+Puerto Aurora 22,República de Puerto Aurora 22,DW,SDE,Río Blanco,Americas,Caribbean,111212804,16454384.51,-12.6414,-85.3573,America,2026-02-22T11:33:58.940832+00:00
+Bajo Pacifica 23,República de Bajo Pacifica 23,ZQ,LFQ,Altavista,Oceania,Micronesia,89067791,9097021.62,-28.5533,125.3622,Oceania,2026-01-09T20:32:07.940840+00:00
+Lago Novaterra 24,Estado de Lago Novaterra 24,TC,LQI,Capital Nova,Asia,Eastern Asia,107087267,8561476.01,-2.8953,55.6844,Asia,2026-01-15T16:33:24.940849+00:00
+Alto Brisalia 25,Federación de Alto Brisalia 25,GZ,BED,Altavista,Oceania,Micronesia,200306542,9236594.24,-30.8453,154.9586,Oceania,2026-04-10T14:43:34.940857+00:00
+Valle Libertad 26,Estado de Valle Libertad 26,SP,NKZ,San Aurelio,Europe,Southern Europe,13988050,7342690.0,53.2186,-11.1126,Europe,2026-02-08T14:29:18.940865+00:00
+Rio Centralia 27,Federación de Rio Centralia 27,TA,BRW,Nueva Capital,Oceania,Polynesia,155070718,16594131.85,-13.8065,170.3288,Oceania,2026-02-27T20:12:55.940875+00:00
+Puerto Aurora 28,República de Puerto Aurora 28,LU,VHW,Río Blanco,Africa,Northern Africa,182429165,7640315.45,27.4935,14.8424,Africa,2026-03-23T11:55:07.940884+00:00
+Puerto Brisalia 29,Federación de Puerto Brisalia 29,WD,QYJ,San Aurelio,Americas,South America,134708426,5555893.99,-15.9963,-147.3325,America,2026-03-15T11:26:45.940892+00:00
+Santa Bosqueland 30,República de Santa Bosqueland 30,WO,MAA,Río Blanco,Asia,Eastern Asia,170310937,5615855.17,51.6313,103.3906,Asia,2026-02-16T08:25:19.940901+00:00
+Puerto Estrella 31,Estado de Puerto Estrella 31,GN,WJR,Río Blanco,Oceania,Micronesia,23321239,16551322.19,-23.376,126.6467,Oceania,2026-01-10T07:55:08.940957+00:00
+Costa Terranova 32,Federación de Costa Terranova 32,YR,MYY,Río Blanco,Americas,North America,236407726,2214299.75,60.3611,-152.0686,America,2025-12-16T19:03:13.940971+00:00
+Norte Novaterra 33,República de Norte Novaterra 33,EM,NAY,Ciudad Esperanza,Americas,North America,189620388,9107779.6,7.0681,-114.1762,America,2026-04-05T14:31:50.940981+00:00
+Nueva Lunaria 34,Federación de Nueva Lunaria 34,QM,QYB,Río Blanco,Oceania,Melanesia,35653277,6575939.31,-21.0068,159.6208,Oceania,2026-02-25T18:49:55.940991+00:00
+San Brisalia 35,Estado de San Brisalia 35,EK,SKC,Ciudad Esperanza,Asia,Central Asia,95114285,4563621.17,38.845,159.7524,Asia,2026-01-18T16:41:39.941000+00:00
+Rio Claridad 36,República de Rio Claridad 36,VT,MGB,Capital Nova,Oceania,Polynesia,219393561,2818155.51,-30.2583,140.1533,Oceania,2026-04-04T03:11:54.941010+00:00
+Puerto Altamira 37,República de Puerto Altamira 37,JK,YSK,Ciudad Esperanza,Americas,Central America,61436409,8953225.34,53.2066,-62.8607,America,2025-12-23T17:04:33.941020+00:00
+Rio Claridad 38,República de Rio Claridad 38,CB,WEV,Capital Nova,Europe,Southern Europe,102249230,4728191.87,45.7557,52.233,Europe,2026-02-01T12:55:52.941028+00:00
+Alto Estrella 39,Federación de Alto Estrella 39,KO,YVA,Río Blanco,Americas,South America,162233878,6122134.09,26.7527,-38.3686,America,2026-01-18T18:15:14.941037+00:00
+Lago Claridad 40,Reino de Lago Claridad 40,JL,QFE,Altavista,Africa,Northern Africa,6661789,3885761.58,13.6023,46.8371,Africa,2025-12-16T17:24:40.941045+00:00
+Valle Aurora 41,Reino de Valle Aurora 41,LY,BZZ,Ciudad Esperanza,Americas,North America,29442599,15134493.67,37.9697,-159.8446,America,2026-03-19T12:46:04.941054+00:00
+Isla Verdevia 42,Estado de Isla Verdevia 42,ZM,WVR,Monte Claro,Americas,Caribbean,130779931,1226599.68,65.4766,-112.4802,America,2026-04-11T06:09:33.941062+00:00
+Isla Bosqueland 43,Estado de Isla Bosqueland 43,JD,EMW,Monte Claro,Africa,Western Africa,166246572,2005592.46,-15.3457,47.7101,Africa,2026-01-31T06:47:21.941072+00:00
+San Estrella 44,Estado de San Estrella 44,LI,PKU,Puerto Central,Oceania,Polynesia,65837809,14660490.9,-48.7544,169.4407,Oceania,2026-01-25T18:10:22.941080+00:00
+Puerto Brisalia 45,República de Puerto Brisalia 45,PI,HVH,Ciudad Esperanza,Africa,Western Africa,184902752,1039652.29,4.7937,48.9097,Africa,2026-03-05T02:27:12.941089+00:00
+Isla Novaterra 46,Estado de Isla Novaterra 46,IH,QDS,San Aurelio,Africa,Middle Africa,154498146,9562245.27,10.5937,-7.8643,Africa,2026-03-18T16:30:42.941097+00:00
+Gran Cedral 47,Reino de Gran Cedral 47,FF,CVE,Puerto Azul,Europe,Western Europe,216585596,16810829.37,42.1936,26.4544,Europe,2026-02-08T08:44:47.941106+00:00
+Nueva Solaria 48,Reino de Nueva Solaria 48,KH,WSQ,Monte Claro,Oceania,Polynesia,222175356,864428.93,-9.7895,176.0046,Oceania,2026-04-13T12:41:09.941115+00:00
+Valle Estrella 49,Federación de Valle Estrella 49,LX,VVA,Puerto Central,Oceania,Micronesia,248260769,6687946.58,-10.0483,145.3575,Oceania,2026-02-08T17:11:40.941123+00:00
+Villa Pacifica 50,Reino de Villa Pacifica 50,OK,EFC,Villa Norte,Americas,Caribbean,179749106,10947743.5,71.8906,-67.0331,America,2026-01-02T11:58:51.941132+00:00
+Rio Cordelia 51,Federación de Rio Cordelia 51,SQ,KWP,Capital Nova,Americas,South America,234200101,9400332.96,-30.2199,-156.8353,America,2026-03-19T01:17:10.941141+00:00
+Valle Monteluz 52,Estado de Valle Monteluz 52,MO,YUV,Ciudad Esperanza,Oceania,Melanesia,140608828,8253931.19,-2.2587,148.4777,Oceania,2026-02-07T17:29:49.941149+00:00
+Nueva Venturia 53,Federación de Nueva Venturia 53,QM,JNV,Altavista,Asia,Southern Asia,58521619,15833306.03,35.2446,124.6484,Asia,2026-03-14T00:18:23.941158+00:00
+San Terranova 54,Reino de San Terranova 54,KP,YRT,Altavista,Europe,Eastern Europe,166156905,17491315.08,68.521,7.5205,Europe,2025-12-25T13:12:55.941167+00:00
+Alto Florencia 55,República de Alto Florencia 55,ZI,DRE,Villa Norte,Americas,Caribbean,79509841,1307081.98,39.3953,-56.945,America,2026-02-22T09:45:36.941176+00:00
+Valle Bosqueland 56,Estado de Valle Bosqueland 56,VV,LSP,Nueva Capital,Asia,Southeast Asia,216916738,6408020.8,13.1195,126.0663,Asia,2026-03-16T03:13:38.941184+00:00
+Norte Altamira 57,Federación de Norte Altamira 57,OT,TOT,Puerto Central,Europe,Southern Europe,77019456,16924499.93,47.2089,56.4014,Europe,2026-01-23T16:12:31.941204+00:00
+Costa Rivania 58,Federación de Costa Rivania 58,CG,USS,San Aurelio,Europe,Western Europe,76051975,8557356.69,57.7356,-4.1839,Europe,2026-01-19T14:39:17.941218+00:00
+Monte Estrella 59,Estado de Monte Estrella 59,OH,QLR,Monte Claro,Asia,Southern Asia,171550031,9805655.82,37.1948,71.3482,Asia,2026-04-15T14:31:57.941227+00:00
+Puerto Brisalia 60,Reino de Puerto Brisalia 60,CN,KYC,Nueva Capital,Oceania,Polynesia,3029492,14503416.57,-39.3396,140.2724,Oceania,2026-04-14T20:11:01.941236+00:00
+Bajo Monteluz 61,Estado de Bajo Monteluz 61,SS,LCY,Nueva Capital,Africa,Southern Africa,195172181,16658370.33,36.6015,17.0004,Africa,2026-01-16T08:30:34.941245+00:00
+Isla Estrella 62,Reino de Isla Estrella 62,SC,IFM,Puerto Azul,Europe,Southern Europe,238393738,16121576.15,59.0198,-20.6959,Europe,2026-02-15T17:39:23.941253+00:00
+Costa Florencia 63,Reino de Costa Florencia 63,LR,NVW,Río Blanco,Americas,Central America,149141840,6134044.82,-22.6983,-130.6649,America,2026-01-12T00:24:35.941264+00:00
+Sur Verdevia 64,Reino de Sur Verdevia 64,EX,NWK,Capital Nova,Asia,Western Asia,209482249,14899643.44,54.9975,83.9258,Asia,2026-01-25T22:31:53.941273+00:00
+Rio Monteluz 65,Federación de Rio Monteluz 65,HX,XUF,Puerto Central,Americas,Central America,198705997,8183510.51,-5.9967,-89.1253,America,2026-01-19T05:31:11.941282+00:00
+Alto Aurora 66,Federación de Alto Aurora 66,GG,NFH,Ciudad Esperanza,Americas,North America,237879777,15491279.96,13.1086,-53.9168,America,2026-02-06T05:07:14.941291+00:00
+Lago Brisalia 67,Federación de Lago Brisalia 67,NC,UCQ,San Aurelio,Africa,Western Africa,248312889,14116658.54,22.3362,50.4676,Africa,2025-12-26T02:55:29.941301+00:00
+Costa Florencia 68,Reino de Costa Florencia 68,DN,UAN,Ciudad Esperanza,Africa,Southern Africa,164875556,14464659.81,-2.2421,47.0338,Africa,2026-03-03T10:07:59.941310+00:00
+Isla Esperanza 69,Reino de Isla Esperanza 69,BR,DZR,Altavista,Africa,Southern Africa,223067661,14535087.68,-0.47,40.9767,Africa,2026-04-08T13:07:09.941319+00:00
+Valle Bosqueland 70,República de Valle Bosqueland 70,RA,FCI,Villa Norte,Africa,Middle Africa,11136281,70255.47,16.6482,20.8109,Africa,2026-03-03T20:15:19.941327+00:00
+Lago Marfilia 71,República de Lago Marfilia 71,GQ,IDV,Monte Claro,Europe,Southern Europe,242745164,3002237.49,35.4455,7.2492,Europe,2026-02-20T12:13:10.941336+00:00
+Nueva Claridad 72,Federación de Nueva Claridad 72,VB,ZDS,Nueva Capital,Africa,Western Africa,214423685,6402586.2,10.4151,30.6655,Africa,2025-12-25T11:15:28.941345+00:00
+Lago Florencia 73,Reino de Lago Florencia 73,HY,GPX,Río Blanco,Europe,Western Europe,49556242,6223803.55,58.3006,39.1244,Europe,2026-02-04T05:36:59.941353+00:00
+Rio Estrella 74,República de Rio Estrella 74,GE,SCR,Santa Marina,Europe,Northern Europe,208287555,1242659.76,40.7894,21.3168,Europe,2025-12-25T23:31:53.941362+00:00
+Santa Claridad 75,República de Santa Claridad 75,IY,TSD,Puerto Central,Europe,Northern Europe,22118805,513429.44,56.1454,14.1337,Europe,2026-01-08T23:49:25.941372+00:00
+Gran Cedral 76,Estado de Gran Cedral 76,CJ,FRA,Ciudad del Sol,Asia,Eastern Asia,6829363,15530594.22,33.1127,90.044,Asia,2026-03-05T18:45:05.941380+00:00
+Isla Libertad 77,Reino de Isla Libertad 77,AC,NCC,Villa Norte,Americas,North America,72524334,16223801.61,46.5863,-71.3108,America,2025-12-16T19:31:28.941389+00:00
+Costa Pacifica 78,República de Costa Pacifica 78,XE,DBD,San Aurelio,Asia,Southern Asia,69272157,11690321.02,22.1914,140.9603,Asia,2026-01-29T13:30:08.941398+00:00
+Villa Cedral 79,República de Villa Cedral 79,MQ,GVV,San Aurelio,Asia,Southern Asia,69387309,13045358.68,33.3054,108.1858,Asia,2026-04-05T19:36:40.941406+00:00
+Gran Altamira 80,República de Gran Altamira 80,MF,SCH,San Aurelio,Africa,Western Africa,125128720,6499645.68,-32.4005,-4.749,Africa,2026-02-02T07:28:28.941415+00:00
+Santa Monteluz 81,Reino de Santa Monteluz 81,XP,CKP,Altavista,Asia,Southeast Asia,38141853,14270438.11,21.1915,28.237,Asia,2026-04-08T18:25:15.941423+00:00
+Valle Bosqueland 82,Reino de Valle Bosqueland 82,PR,RPZ,Villa Norte,Europe,Southern Europe,93361258,6452119.08,54.5654,13.2742,Europe,2026-03-07T02:34:53.941433+00:00
+Nueva Bosqueland 83,Estado de Nueva Bosqueland 83,ZB,BIV,Río Blanco,Americas,North America,121590854,4606448.24,-23.6498,-95.3562,America,2026-01-03T08:43:40.941443+00:00
+Sur Aurora 84,Federación de Sur Aurora 84,OX,KKD,Villa Norte,Oceania,Micronesia,47458613,1378759.0,-29.8808,162.4958,Oceania,2026-01-25T13:07:06.941452+00:00
+Nueva Altamira 85,República de Nueva Altamira 85,XN,ARX,Ciudad del Sol,Europe,Western Europe,211385068,16479676.6,62.8608,10.3728,Europe,2026-04-09T12:20:30.941461+00:00
+Rio Verdevia 86,Estado de Rio Verdevia 86,CE,LRU,Ciudad Esperanza,Europe,Southern Europe,138558876,12766065.69,62.87,43.7522,Europe,2026-01-16T08:18:06.941469+00:00
+Norte Brisalia 87,Federación de Norte Brisalia 87,VX,XTB,Puerto Central,Africa,Western Africa,163188569,3605892.62,-9.8973,39.4047,Africa,2026-02-05T16:37:40.941479+00:00
+Costa Monteluz 88,República de Costa Monteluz 88,KJ,AXK,Puerto Central,Oceania,Melanesia,121171601,3161369.5,-25.1399,113.902,Oceania,2026-03-09T20:32:37.941488+00:00
+Isla Florencia 89,Estado de Isla Florencia 89,TV,RMY,Río Blanco,Europe,Western Europe,52871592,14988189.74,42.6153,52.739,Europe,2026-03-30T05:09:21.941496+00:00
+Bajo Verdevia 90,Estado de Bajo Verdevia 90,GW,PNP,San Aurelio,Africa,Middle Africa,51468308,6759340.68,-6.9671,-14.1689,Africa,2026-02-15T04:28:10.941504+00:00
+Costa Lunaria 91,Reino de Costa Lunaria 91,LO,VLQ,Río Blanco,Africa,Northern Africa,122981305,12253268.87,-31.3774,39.6498,Africa,2026-01-26T19:22:16.941513+00:00
+Monte Novaterra 92,Reino de Monte Novaterra 92,IX,VFL,Capital Nova,Oceania,Micronesia,106380093,11051201.95,-18.616,169.8845,Oceania,2026-02-18T05:03:10.941521+00:00
+Lago Claridad 93,Reino de Lago Claridad 93,OA,DZU,Río Blanco,Africa,Eastern Africa,117653572,8394555.29,25.4847,-5.0503,Africa,2026-04-05T02:29:51.941529+00:00
+Bajo Altamira 94,Reino de Bajo Altamira 94,MO,DVX,Nueva Capital,Asia,Southeast Asia,64383143,16077186.8,79.4212,28.6652,Asia,2026-02-27T13:04:44.941538+00:00
+San Libertad 95,Reino de San Libertad 95,SL,QYQ,Capital Nova,Americas,Caribbean,153657361,2355106.22,-47.7955,-142.6546,America,2026-01-31T21:15:12.941546+00:00
+Monte Aurora 96,República de Monte Aurora 96,GC,LXM,Villa Norte,Oceania,Polynesia,159525915,7620047.64,-49.3629,161.368,Oceania,2026-01-20T17:22:11.941557+00:00
+Rio Verdevia 97,Federación de Rio Verdevia 97,TS,VAW,Nueva Capital,Europe,Northern Europe,175887157,8058184.92,43.2086,39.2233,Europe,2026-02-01T14:36:50.941566+00:00
+Santa Claridad 98,República de Santa Claridad 98,QW,AWP,Monte Claro,Europe,Northern Europe,233503156,10306537.15,47.8929,-18.8528,Europe,2026-01-01T20:55:59.941575+00:00
+Nueva Rivania 99,Estado de Nueva Rivania 99,PQ,LRO,Ciudad del Sol,Asia,Western Asia,170945607,7143578.09,44.0489,140.1995,Asia,2025-12-28T01:01:32.941583+00:00
+Sur Venturia 100,Federación de Sur Venturia 100,OE,LJC,Puerto Azul,Asia,Central Asia,181247280,4938481.67,53.7263,53.2098,Asia,2026-02-18T03:54:07.941593+00:00
+Costa Nubaria 101,República de Costa Nubaria 101,TG,QZE,Ciudad del Sol,Asia,Southeast Asia,134262675,1105651.04,49.3742,113.7591,Asia,2026-01-04T14:00:39.941601+00:00
+Alto Nubaria 102,Reino de Alto Nubaria 102,JM,SHU,Villa Norte,Europe,Eastern Europe,200736776,3414525.72,62.4108,17.9253,Europe,2026-02-19T04:48:30.941609+00:00
+Lago Cedral 103,Reino de Lago Cedral 103,NV,ANA,Villa Norte,Americas,Central America,20640010,11532519.66,38.2662,-111.1759,America,2026-03-05T12:22:38.941618+00:00
+Sur Lunaria 104,Estado de Sur Lunaria 104,FY,VYS,San Aurelio,Asia,Southern Asia,37541677,6204158.42,-8.049,121.9703,Asia,2026-03-01T18:14:36.941626+00:00
+Costa Libertad 105,Federación de Costa Libertad 105,PL,CNC,San Aurelio,Americas,Central America,59277820,9946018.9,53.0025,-101.4311,America,2026-02-21T17:53:25.941634+00:00
+Norte Cordelia 106,Reino de Norte Cordelia 106,GA,MRD,Altavista,Americas,Caribbean,212848884,9041930.72,-27.5846,-82.427,America,2026-03-27T04:11:35.941643+00:00
+San Esperanza 107,Reino de San Esperanza 107,GE,DPO,Villa Norte,Africa,Northern Africa,123295953,13507781.69,-30.034,47.094,Africa,2026-01-22T02:10:54.941653+00:00
+Valle Andina 108,Reino de Valle Andina 108,VW,VTX,Villa Norte,Europe,Eastern Europe,39819574,15112721.4,42.69,48.2783,Europe,2026-03-26T02:56:32.941662+00:00
+Alto Libertad 109,Reino de Alto Libertad 109,AR,VJZ,Monte Claro,Asia,Western Asia,19366993,10191578.0,59.8543,96.7386,Asia,2026-03-05T15:11:33.941670+00:00
+Nueva Esperanza 110,Federación de Nueva Esperanza 110,TO,VVQ,Monte Claro,Americas,North America,161230507,13747295.48,-35.4169,-112.0476,America,2026-02-27T08:36:53.941679+00:00
+Valle Bosqueland 111,Federación de Valle Bosqueland 111,LV,ASK,Puerto Azul,Europe,Western Europe,11648969,7725444.24,47.6406,47.6286,Europe,2026-02-25T19:39:58.941687+00:00
+San Centralia 112,República de San Centralia 112,QT,FMM,Villa Norte,Americas,South America,154801082,10907380.64,21.7961,-63.361,America,2026-01-04T21:14:55.941695+00:00
+Nueva Rivania 113,Reino de Nueva Rivania 113,RP,YXS,Capital Nova,Oceania,Polynesia,183264338,11499169.55,-10.6779,152.082,Oceania,2026-04-03T05:55:53.941704+00:00
+San Brisalia 114,Reino de San Brisalia 114,DI,HAK,Río Blanco,Oceania,Polynesia,106012181,6624899.42,-13.1903,156.989,Oceania,2026-01-24T14:49:33.941712+00:00
+Costa Claridad 115,Federación de Costa Claridad 115,GN,TXZ,Monte Claro,Americas,Caribbean,194432445,3930140.09,-24.9764,-61.3709,America,2026-02-19T10:45:00.941720+00:00
+Santa Monteluz 116,Reino de Santa Monteluz 116,MZ,QYR,Santa Marina,Asia,Central Asia,8410353,9856827.61,38.9606,84.4983,Asia,2026-01-25T08:54:39.941729+00:00
+Monte Esperanza 117,Estado de Monte Esperanza 117,IF,NRW,Puerto Central,Asia,Southeast Asia,160053378,7144747.29,78.7258,131.605,Asia,2026-01-06T13:45:21.941742+00:00
+Santa Lunaria 118,Reino de Santa Lunaria 118,YN,ZFK,Ciudad Esperanza,Asia,Central Asia,231437100,17274878.34,-4.9203,140.7847,Asia,2026-01-15T17:59:04.941772+00:00
+Villa Lunaria 119,Reino de Villa Lunaria 119,MA,IJW,Puerto Central,Americas,North America,227942439,5560376.77,-21.4925,-125.4597,America,2026-03-31T06:27:35.941781+00:00
+Isla Centralia 120,Reino de Isla Centralia 120,ZS,WGS,Santa Marina,Asia,Eastern Asia,163820950,16009321.54,1.4622,111.2533,Asia,2026-02-06T18:31:41.941791+00:00
+Isla Cordelia 121,Reino de Isla Cordelia 121,GZ,POZ,Santa Marina,Oceania,Micronesia,230136224,11875735.27,-37.5909,168.3738,Oceania,2026-03-08T19:54:06.941799+00:00
+Santa Lunaria 122,República de Santa Lunaria 122,FE,JDC,Puerto Central,Americas,North America,64599424,8326217.79,24.2792,-143.9217,America,2026-02-05T14:15:18.941808+00:00
+Nueva Andina 123,Reino de Nueva Andina 123,KS,DLG,Ciudad del Sol,Europe,Northern Europe,62749068,5588364.93,59.3656,8.2825,Europe,2026-01-26T03:10:50.941817+00:00
+San Florencia 124,República de San Florencia 124,RE,OOM,Nueva Capital,Americas,Central America,102510954,15583947.32,41.8776,-44.7645,America,2026-01-04T07:08:47.941825+00:00
+Nueva Florencia 125,Reino de Nueva Florencia 125,MU,NVK,Río Blanco,Asia,Central Asia,196654747,3620022.01,-4.7065,36.645,Asia,2025-12-17T15:19:05.941833+00:00
+Lago Novaterra 126,Estado de Lago Novaterra 126,OP,ZCK,Ciudad del Sol,Asia,Southern Asia,199702437,5560856.19,22.9754,173.3132,Asia,2026-04-01T11:44:00.941844+00:00
+Sur Florencia 127,República de Sur Florencia 127,ZC,DPR,Capital Nova,Asia,Eastern Asia,141026933,15637841.87,53.7588,90.323,Asia,2026-04-05T05:56:19.941854+00:00
+Sur Terranova 128,República de Sur Terranova 128,HD,NBA,Capital Nova,Europe,Western Europe,86390483,11567159.2,67.1636,0.4146,Europe,2026-03-03T21:52:21.941865+00:00
+Gran Monteluz 129,República de Gran Monteluz 129,JP,CRD,Puerto Central,Africa,Southern Africa,46476614,8329751.88,6.4117,10.4556,Africa,2026-01-05T05:07:30.941873+00:00
+Valle Terranova 130,Federación de Valle Terranova 130,SB,UIO,Nueva Capital,Oceania,Melanesia,162906928,15891474.72,-22.238,142.5509,Oceania,2026-02-23T15:11:41.941882+00:00
+San Monteluz 131,Estado de San Monteluz 131,RH,PCX,Monte Claro,Oceania,Polynesia,188681190,1134407.66,-47.0602,176.3579,Oceania,2025-12-20T12:15:52.941890+00:00
+Santa Nubaria 132,Federación de Santa Nubaria 132,JZ,NFA,Puerto Azul,Oceania,Polynesia,30896586,4451582.29,-20.2949,119.1549,Oceania,2026-01-11T10:09:04.941901+00:00
+Lago Cordelia 133,Reino de Lago Cordelia 133,ZM,HOJ,Capital Nova,Africa,Eastern Africa,196002944,13707037.28,-6.9666,7.5755,Africa,2026-02-17T04:31:11.941909+00:00
+Norte Monteluz 134,Estado de Norte Monteluz 134,BW,LSZ,Puerto Central,Oceania,Australia and New Zealand,218886650,16331673.35,-30.7895,149.0158,Oceania,2026-01-01T08:36:37.941918+00:00
+Costa Monteluz 135,Reino de Costa Monteluz 135,IL,EMU,Altavista,Oceania,Polynesia,174617239,13908993.1,-32.5091,162.6075,Oceania,2026-01-07T06:44:53.941926+00:00
+Santa Marfilia 136,República de Santa Marfilia 136,SJ,JWM,Villa Norte,Europe,Southern Europe,167590929,8986628.28,58.4533,0.9772,Europe,2026-04-09T18:39:52.941934+00:00
+Bajo Brisalia 137,Reino de Bajo Brisalia 137,RV,HLD,Puerto Azul,Europe,Northern Europe,121852193,7601882.53,61.6508,26.4862,Europe,2026-03-09T01:26:53.941944+00:00
+Sur Andina 138,República de Sur Andina 138,MW,GHZ,Puerto Azul,Oceania,Micronesia,235547834,187806.34,-4.3653,171.3787,Oceania,2025-12-22T18:39:57.941953+00:00
+Sur Cedral 139,Reino de Sur Cedral 139,DH,HBX,Nueva Capital,Europe,Northern Europe,133863424,15413956.83,48.2409,15.0138,Europe,2026-01-16T16:35:44.941962+00:00
+Isla Florencia 140,República de Isla Florencia 140,OZ,BAI,Capital Nova,Africa,Western Africa,15449436,6210904.93,-12.0837,-16.7342,Africa,2026-04-03T14:33:11.941971+00:00
+San Estrella 141,Estado de San Estrella 141,BM,BJZ,Altavista,Oceania,Micronesia,208918989,10170165.18,-12.3769,119.5796,Oceania,2026-01-26T17:46:26.941979+00:00
+Puerto Brisalia 142,Reino de Puerto Brisalia 142,PA,FBL,Ciudad Esperanza,Europe,Northern Europe,73180306,6972381.34,66.8946,31.7699,Europe,2026-03-13T09:32:18.941988+00:00
+Nueva Andina 143,República de Nueva Andina 143,YX,OFV,Santa Marina,Americas,Central America,19064996,12264237.49,-0.6446,-166.1719,America,2025-12-30T03:51:16.941996+00:00
+Sur Solaria 144,Reino de Sur Solaria 144,US,QBF,Puerto Azul,Europe,Western Europe,2623851,11034707.16,48.9804,51.3613,Europe,2026-04-12T11:11:57.942004+00:00
+Santa Andina 145,República de Santa Andina 145,IH,VMO,Ciudad Esperanza,Europe,Eastern Europe,212781512,13966089.85,43.4838,7.7339,Europe,2026-01-16T22:53:20.942013+00:00
+Gran Marfilia 146,República de Gran Marfilia 146,EF,OYE,San Aurelio,Europe,Northern Europe,47222442,4401343.49,60.8759,43.965,Europe,2026-03-03T11:04:19.942021+00:00
+San Centralia 147,Reino de San Centralia 147,GP,AZB,Puerto Azul,Americas,North America,72705376,5980684.32,-52.7332,-69.4275,America,2026-01-03T10:41:41.942033+00:00
+Rio Esperanza 148,Federación de Rio Esperanza 148,MQ,OYH,Santa Marina,Americas,Central America,185770062,11819877.2,-15.6867,-88.6722,America,2026-02-06T15:57:10.942042+00:00
+San Florencia 149,República de San Florencia 149,ZK,IEN,Altavista,Americas,North America,190945730,8975254.87,31.7306,-135.0204,America,2026-03-15T13:35:36.942051+00:00
+Villa Novaterra 150,Federación de Villa Novaterra 150,YC,XOT,Capital Nova,Americas,Caribbean,162991616,5622280.36,8.0385,-115.7707,America,2026-03-22T12:12:53.942061+00:00
+Rio Verdevia 151,Estado de Rio Verdevia 151,YY,XOA,Capital Nova,Americas,Central America,161479281,4808805.35,14.7458,-73.7011,America,2026-01-04T04:22:14.942070+00:00
+Sur Cedral 152,Federación de Sur Cedral 152,NT,RVS,Monte Claro,Americas,Central America,211912156,11663221.62,28.1188,-50.6091,America,2026-04-16T04:08:11.942079+00:00
+Isla Florencia 153,Estado de Isla Florencia 153,PR,BUG,San Aurelio,Asia,Southeast Asia,150973923,13917796.18,19.812,38.0165,Asia,2026-03-29T12:52:48.942087+00:00
+Bajo Monteluz 154,Estado de Bajo Monteluz 154,QX,UBW,Villa Norte,Europe,Northern Europe,220724559,14940455.16,48.9855,5.9602,Europe,2026-03-23T18:17:56.942095+00:00
+Santa Libertad 155,Reino de Santa Libertad 155,VS,DWD,Nueva Capital,Africa,Eastern Africa,65183769,6191945.76,-8.9998,27.0642,Africa,2026-01-18T02:02:57.942103+00:00
+Sur Libertad 156,Reino de Sur Libertad 156,YQ,ODP,Santa Marina,Oceania,Melanesia,106105355,6686583.12,-0.3942,147.113,Oceania,2026-02-06T18:42:16.942113+00:00
+Nueva Cordelia 157,República de Nueva Cordelia 157,YR,NHJ,Ciudad del Sol,Asia,Southeast Asia,164563409,12673087.14,64.8028,130.0922,Asia,2026-01-18T18:34:20.942122+00:00
+Santa Marfilia 158,República de Santa Marfilia 158,FG,XRK,Capital Nova,Europe,Southern Europe,46713028,11063397.54,67.3599,28.2268,Europe,2026-04-13T08:02:40.942131+00:00
+Lago Marfilia 159,Reino de Lago Marfilia 159,BG,YZG,Ciudad Esperanza,Africa,Southern Africa,99360512,12994758.17,-25.1687,-12.6328,Africa,2026-03-13T20:32:50.942139+00:00
+Valle Solaria 160,República de Valle Solaria 160,AJ,CNJ,Ciudad del Sol,Europe,Eastern Europe,12165302,14077584.93,37.5739,50.5455,Europe,2026-01-01T02:23:58.942149+00:00
+Villa Nubaria 161,Estado de Villa Nubaria 161,AC,CFI,Ciudad del Sol,Europe,Northern Europe,13239683,6554349.01,38.8079,42.2928,Europe,2025-12-23T02:57:28.942158+00:00
+Nueva Marfilia 162,Federación de Nueva Marfilia 162,AK,PIE,Altavista,Oceania,Polynesia,203770417,4055117.94,-20.8279,149.3294,Oceania,2025-12-30T01:11:57.942167+00:00
+Santa Altamira 163,Reino de Santa Altamira 163,UA,CQI,Puerto Azul,Americas,Caribbean,17599156,1869023.3,-32.5201,-32.8466,America,2026-03-05T02:55:11.942177+00:00
+Gran Marfilia 164,Federación de Gran Marfilia 164,WB,RKW,Villa Norte,Americas,South America,221615375,1727434.2,40.4011,-123.6059,America,2026-03-12T12:56:41.942195+00:00
+Valle Venturia 165,Estado de Valle Venturia 165,QN,RVW,Puerto Azul,Europe,Northern Europe,211323605,15940911.69,36.7248,-24.1717,Europe,2026-04-05T23:58:40.942205+00:00
+Puerto Nubaria 166,Reino de Puerto Nubaria 166,SJ,XAM,Ciudad Esperanza,Americas,Central America,232340248,9223767.88,-30.076,-93.827,America,2026-01-13T06:20:09.942225+00:00
+Rio Pacifica 167,República de Rio Pacifica 167,SG,ADP,San Aurelio,Africa,Northern Africa,139345988,7045084.81,-14.0063,44.8981,Africa,2026-03-11T17:09:40.942240+00:00
+Lago Novaterra 168,República de Lago Novaterra 168,LQ,HHZ,Nueva Capital,Americas,South America,225585278,7982548.78,-34.9291,-135.701,America,2025-12-25T23:35:13.942249+00:00
+Puerto Lunaria 169,Reino de Puerto Lunaria 169,IU,VWL,Santa Marina,Europe,Northern Europe,93436043,7610259.22,40.123,-20.754,Europe,2026-04-11T20:41:49.942258+00:00
+Puerto Venturia 170,Estado de Puerto Venturia 170,CG,JWD,Ciudad Esperanza,Europe,Eastern Europe,179085989,13315092.39,70.4061,26.1702,Europe,2025-12-19T00:33:35.942268+00:00
+Sur Venturia 171,Federación de Sur Venturia 171,YP,XMD,Nueva Capital,Asia,Eastern Asia,223335990,14789239.99,13.0529,47.0808,Asia,2026-02-18T00:25:59.942276+00:00
+San Terranova 172,Federación de San Terranova 172,XH,CPM,Puerto Central,Europe,Western Europe,102516340,1378151.57,42.8808,13.4035,Europe,2026-02-10T02:59:05.942285+00:00
+Gran Pacifica 173,República de Gran Pacifica 173,WP,ENC,Ciudad Esperanza,Africa,Middle Africa,150452732,9941806.51,0.499,18.2632,Africa,2026-02-23T00:47:51.942294+00:00
+Santa Nubaria 174,Estado de Santa Nubaria 174,JJ,ZEE,Santa Marina,Africa,Western Africa,36675353,5294480.04,-21.513,10.0025,Africa,2026-01-03T04:42:46.942302+00:00
+Gran Aurora 175,Estado de Gran Aurora 175,ES,KZP,Monte Claro,Europe,Southern Europe,197477214,4790123.09,38.1012,44.0967,Europe,2026-03-11T03:20:05.942310+00:00
+Alto Pacifica 176,Estado de Alto Pacifica 176,XG,BBY,Villa Norte,Oceania,Polynesia,140901064,12762196.77,-24.8419,172.416,Oceania,2026-03-26T12:50:24.942319+00:00
+Monte Solaria 177,República de Monte Solaria 177,HB,OYL,Ciudad del Sol,Americas,North America,157331787,9486997.82,45.7554,-73.8427,America,2025-12-27T17:41:49.942328+00:00
+Bajo Florencia 178,Estado de Bajo Florencia 178,WA,VUK,Río Blanco,Asia,Southeast Asia,23188040,2224619.03,5.4906,74.6038,Asia,2026-02-03T06:25:11.942337+00:00
+Monte Andina 179,Federación de Monte Andina 179,WR,WSA,Puerto Central,Asia,Eastern Asia,155258488,2568137.88,14.4441,138.5388,Asia,2026-03-18T12:49:16.942345+00:00
+Valle Claridad 180,Estado de Valle Claridad 180,GR,TUH,San Aurelio,Africa,Western Africa,82698123,16782721.19,-9.1974,25.905,Africa,2026-01-22T03:24:04.942353+00:00
+Puerto Andina 181,Estado de Puerto Andina 181,IU,WXU,Villa Norte,Americas,South America,197940929,12292519.54,11.3122,-36.6867,America,2026-01-16T10:28:14.942362+00:00
+Alto Rivania 182,Reino de Alto Rivania 182,OH,XDF,San Aurelio,Europe,Southern Europe,134210756,6286567.96,35.6063,6.932,Europe,2026-01-14T13:35:26.942371+00:00
+Rio Florencia 183,Estado de Rio Florencia 183,UP,PUY,Santa Marina,Europe,Eastern Europe,80946767,11601492.53,68.4405,45.4142,Europe,2026-04-02T00:22:05.942380+00:00
+Isla Altamira 184,Reino de Isla Altamira 184,XM,XBH,Santa Marina,Americas,North America,208139358,6410574.49,-23.2162,-91.2175,America,2026-02-28T08:37:51.942389+00:00
+Lago Esperanza 185,Estado de Lago Esperanza 185,RL,LPM,Puerto Central,Africa,Middle Africa,185990337,2230378.98,20.6943,26.6872,Africa,2026-02-05T09:08:08.942397+00:00
+Sur Estrella 186,República de Sur Estrella 186,LF,MNR,San Aurelio,Africa,Northern Africa,86435492,10046412.91,-6.4382,27.5391,Africa,2026-01-05T09:59:49.942405+00:00
+Monte Altamira 187,Federación de Monte Altamira 187,VR,NRC,San Aurelio,Asia,Eastern Asia,127795104,14303665.6,22.4376,123.27,Asia,2026-02-14T00:39:49.942415+00:00
+Nueva Aurora 188,Federación de Nueva Aurora 188,WG,OAS,Ciudad del Sol,Africa,Eastern Africa,160820312,3952855.09,26.7277,14.7885,Africa,2026-01-20T15:06:34.942423+00:00
+Alto Marfilia 189,Reino de Alto Marfilia 189,GW,WYX,San Aurelio,Americas,Central America,148534477,9846758.96,39.0042,-153.4082,America,2025-12-18T00:19:42.942431+00:00
+Norte Libertad 190,Federación de Norte Libertad 190,FR,DSX,Nueva Capital,Americas,North America,219104794,14687384.59,-38.8189,-107.5367,America,2026-02-25T12:32:45.942439+00:00
+Santa Novaterra 191,República de Santa Novaterra 191,RM,JZR,Ciudad Esperanza,Africa,Southern Africa,217479270,1044570.54,-8.0371,33.8642,Africa,2025-12-21T11:27:39.942448+00:00
+San Claridad 192,Reino de San Claridad 192,AD,VKA,Río Blanco,Africa,Northern Africa,148757136,739371.71,14.7623,27.0111,Africa,2026-01-07T19:27:49.942456+00:00
+Valle Aurora 193,República de Valle Aurora 193,YQ,MKB,Ciudad del Sol,Oceania,Polynesia,36461037,3389421.36,-37.6606,160.2811,Oceania,2026-03-07T16:19:18.942464+00:00
+Rio Brisalia 194,Reino de Rio Brisalia 194,FV,YXT,San Aurelio,Oceania,Melanesia,146985397,12432080.16,-20.546,120.5059,Oceania,2026-01-09T11:39:18.942473+00:00
+Villa Terranova 195,República de Villa Terranova 195,QY,XZL,Villa Norte,Americas,Caribbean,167418591,11301661.45,-38.8233,-55.8211,America,2026-04-06T20:47:14.942482+00:00
+Lago Altamira 196,Federación de Lago Altamira 196,DY,EOY,San Aurelio,Africa,Southern Africa,193689263,14660257.49,-6.0048,23.9287,Africa,2026-01-16T20:11:40.942492+00:00
+Puerto Andina 197,Reino de Puerto Andina 197,GI,IRL,Santa Marina,Americas,South America,153793653,8593422.08,-0.6222,-145.6899,America,2026-01-02T00:29:46.942501+00:00
+Costa Novaterra 198,Reino de Costa Novaterra 198,ZU,JVP,Río Blanco,Oceania,Micronesia,43235164,7950730.91,-37.378,111.1887,Oceania,2026-03-30T20:23:41.942510+00:00
+Alto Brisalia 199,Estado de Alto Brisalia 199,VB,OFF,Nueva Capital,Americas,North America,47167955,15638439.55,2.089,-130.219,America,2026-01-19T07:02:20.942519+00:00
+San Florencia 200,Reino de San Florencia 200,BB,IWR,Ciudad Esperanza,Africa,Western Africa,82047687,6542190.95,0.8984,8.0919,Africa,2026-03-07T17:39:45.942527+00:00
+Lago Rivania 201,República de Lago Rivania 201,AJ,LXM,Ciudad del Sol,Americas,Central America,64953034,7379429.42,58.1328,-79.9944,America,2026-04-04T15:24:25.942535+00:00
+Norte Aurora 202,Estado de Norte Aurora 202,UU,EDP,Nueva Capital,Americas,Caribbean,86787847,9281470.43,71.2794,-131.9192,America,2026-02-11T19:07:27.942544+00:00
+San Estrella 203,Reino de San Estrella 203,FG,VYL,Villa Norte,Africa,Northern Africa,13987924,13902028.31,24.2067,4.8615,Africa,2026-01-27T11:38:34.942553+00:00
+Santa Estrella 204,República de Santa Estrella 204,BJ,ZQE,San Aurelio,Americas,South America,16991362,15758342.95,-52.7544,-168.6005,America,2026-01-19T21:44:45.942561+00:00
+Norte Centralia 205,Reino de Norte Centralia 205,AP,NJA,Puerto Central,Europe,Eastern Europe,44990702,12277637.97,49.5335,-0.7929,Europe,2026-03-25T18:59:44.942569+00:00
+Bajo Solaria 206,Federación de Bajo Solaria 206,RJ,QXB,Nueva Capital,Americas,South America,96213496,11352072.68,25.1524,-78.4775,America,2026-01-09T22:46:13.942577+00:00
+Sur Andina 207,República de Sur Andina 207,MO,IYP,Altavista,Oceania,Australia and New Zealand,25249652,14575724.37,-41.6483,119.6224,Oceania,2026-02-02T07:45:00.942587+00:00
+Villa Cordelia 208,República de Villa Cordelia 208,TJ,WBL,Capital Nova,Asia,Eastern Asia,180374912,11211839.21,62.0123,52.8757,Asia,2026-02-20T08:22:18.942596+00:00
+Costa Cedral 209,República de Costa Cedral 209,GE,HTY,Altavista,Africa,Middle Africa,71731153,15157995.61,-24.6666,23.2137,Africa,2026-02-09T07:37:57.942604+00:00
+Santa Venturia 210,Estado de Santa Venturia 210,IX,WUZ,Nueva Capital,Asia,Southeast Asia,174522708,14577016.26,24.6918,178.406,Asia,2026-01-23T12:45:47.942613+00:00
+Alto Verdevia 211,República de Alto Verdevia 211,RM,TKP,Villa Norte,Asia,Central Asia,99325303,10839472.72,14.7519,25.9478,Asia,2026-03-14T07:42:06.942621+00:00
+Norte Rivania 212,Estado de Norte Rivania 212,UE,FBH,Nueva Capital,Asia,Southeast Asia,134306742,10803698.59,34.0875,92.1263,Asia,2025-12-24T03:58:55.942629+00:00
+Nueva Monteluz 213,Federación de Nueva Monteluz 213,PI,YUQ,Nueva Capital,Oceania,Melanesia,134648009,4068443.83,-16.9634,125.7299,Oceania,2026-03-24T21:06:33.942638+00:00
+Monte Rivania 214,Reino de Monte Rivania 214,SV,RXC,Ciudad Esperanza,Americas,Caribbean,42065877,14365015.51,39.1691,-98.4431,America,2026-03-03T08:39:50.942647+00:00
+Rio Cordelia 215,Estado de Rio Cordelia 215,BJ,TRG,Nueva Capital,Americas,North America,68949626,13526335.03,38.0977,-105.2027,America,2026-01-13T23:49:37.942655+00:00
+Costa Lunaria 216,República de Costa Lunaria 216,FR,JRH,Villa Norte,Africa,Southern Africa,149141650,17049186.15,23.8089,47.5132,Africa,2026-04-01T09:54:58.942663+00:00
+Nueva Verdevia 217,Federación de Nueva Verdevia 217,AZ,LTV,Ciudad del Sol,Africa,Southern Africa,40603129,9589143.3,-23.5497,24.3162,Africa,2026-03-20T20:37:16.942672+00:00
+Costa Terranova 218,República de Costa Terranova 218,IX,CHU,Monte Claro,Americas,Caribbean,141872442,6919172.57,12.7566,-164.5948,America,2026-03-21T05:41:06.942681+00:00
+Nueva Rivania 219,Reino de Nueva Rivania 219,LO,MZQ,Ciudad Esperanza,Africa,Northern Africa,181379458,15236469.44,16.9283,28.1729,Africa,2026-03-08T23:36:24.942689+00:00
+Monte Florencia 220,Reino de Monte Florencia 220,WK,HGY,Nueva Capital,Africa,Western Africa,142244248,15645942.95,14.3392,4.6295,Africa,2026-02-19T09:30:05.942697+00:00
+Valle Rivania 221,Reino de Valle Rivania 221,PJ,HXT,Altavista,Africa,Eastern Africa,217037635,1143509.18,-24.7703,-9.4511,Africa,2026-01-10T23:45:24.942705+00:00
+Isla Solaria 222,Reino de Isla Solaria 222,SM,TKZ,Río Blanco,Oceania,Melanesia,222387597,8394252.55,-34.2841,121.9727,Oceania,2026-03-11T10:49:46.942713+00:00
+Gran Pacifica 223,Estado de Gran Pacifica 223,RT,GAB,Ciudad del Sol,Africa,Western Africa,19234950,10304290.57,-1.1322,45.0819,Africa,2026-04-15T20:08:21.942721+00:00
+Bajo Nubaria 224,Federación de Bajo Nubaria 224,BB,EWJ,Puerto Central,Asia,Western Asia,169860097,6503614.89,22.3669,101.6579,Asia,2025-12-21T19:52:46.942730+00:00
+Norte Libertad 225,República de Norte Libertad 225,RG,PBK,Capital Nova,Asia,Southern Asia,30338015,6037963.1,1.3945,89.1059,Asia,2026-04-03T04:55:05.942738+00:00
+Alto Venturia 226,República de Alto Venturia 226,FZ,DLU,Puerto Central,Oceania,Polynesia,10108368,12547120.92,-15.4752,114.964,Oceania,2026-04-13T06:03:47.942746+00:00
+Santa Cordelia 227,Reino de Santa Cordelia 227,ZP,SUR,Villa Norte,Oceania,Polynesia,227643222,14352324.55,-15.9857,174.4758,Oceania,2026-04-16T04:31:22.942757+00:00
+Lago Libertad 228,Federación de Lago Libertad 228,ZL,TFY,Altavista,Europe,Western Europe,193011058,15783866.59,36.4598,27.6013,Europe,2026-04-12T10:34:10.942765+00:00
+Monte Novaterra 229,República de Monte Novaterra 229,LD,MQH,Altavista,Oceania,Australia and New Zealand,172236395,12885634.87,-39.9006,132.1319,Oceania,2026-01-28T16:51:45.942774+00:00
+Lago Andina 230,República de Lago Andina 230,YW,SDC,Puerto Azul,Oceania,Polynesia,213715837,272411.4,-14.0013,173.1774,Oceania,2026-03-22T21:28:26.942783+00:00
+Gran Libertad 231,Federación de Gran Libertad 231,EW,CSY,Altavista,Americas,North America,104617874,1028512.22,12.7767,-163.2771,America,2026-01-24T07:15:44.942792+00:00
+San Pacifica 232,Estado de San Pacifica 232,NI,MYW,Río Blanco,Oceania,Australia and New Zealand,182785022,8079124.19,-17.2023,143.0156,Oceania,2026-01-23T20:52:41.942801+00:00
+San Libertad 233,República de San Libertad 233,JD,OBO,Puerto Central,Asia,Southern Asia,76941740,10420805.6,-8.6947,97.1657,Asia,2026-03-13T06:41:56.942810+00:00
+Monte Brisalia 234,Federación de Monte Brisalia 234,OP,TOT,Altavista,Americas,South America,173983825,1247996.94,65.2153,-72.6428,America,2025-12-24T18:21:20.942818+00:00
+Isla Libertad 235,República de Isla Libertad 235,XP,PKT,Puerto Central,Oceania,Micronesia,78036216,6436645.52,-45.1009,151.8786,Oceania,2026-01-15T02:47:50.942826+00:00
+Norte Brisalia 236,Federación de Norte Brisalia 236,ZK,EIR,Monte Claro,Europe,Northern Europe,157582574,5573861.16,40.1169,13.2874,Europe,2026-02-15T08:11:07.942834+00:00
+Alto Andina 237,Reino de Alto Andina 237,SQ,OTF,Altavista,Oceania,Melanesia,184062416,17021449.1,-14.404,168.1042,Oceania,2026-03-23T19:12:58.942844+00:00
+Monte Aurora 238,Federación de Monte Aurora 238,YR,VXY,Río Blanco,Africa,Eastern Africa,37180771,15254404.9,-18.7898,39.379,Africa,2026-02-13T03:04:39.942852+00:00
+Villa Centralia 239,Reino de Villa Centralia 239,XN,MKJ,Santa Marina,Africa,Southern Africa,137162320,233065.42,17.4145,16.4034,Africa,2026-03-23T18:06:31.942860+00:00
+Costa Esperanza 240,Federación de Costa Esperanza 240,MC,EBZ,Monte Claro,Asia,Eastern Asia,242777015,2895736.44,0.032,104.4996,Asia,2025-12-28T00:55:22.942870+00:00
+Alto Pacifica 241,Federación de Alto Pacifica 241,EW,DLQ,Puerto Azul,Oceania,Polynesia,45591333,6495836.46,-11.4619,140.7953,Oceania,2026-02-07T22:52:56.942878+00:00
+San Aurora 242,Federación de San Aurora 242,JV,XUM,Ciudad Esperanza,Oceania,Polynesia,18538675,6006032.49,-29.3425,129.3139,Oceania,2026-02-25T00:37:31.942886+00:00
+Puerto Verdevia 243,Estado de Puerto Verdevia 243,MJ,TTJ,Santa Marina,Asia,Southern Asia,202572233,756836.27,41.7637,113.2629,Asia,2026-01-16T10:55:00.942895+00:00
+Villa Verdevia 244,Federación de Villa Verdevia 244,DR,EQK,San Aurelio,Oceania,Polynesia,168860877,13160223.5,-35.0531,126.0133,Oceania,2025-12-17T20:20:30.942903+00:00
+Valle Monteluz 245,Estado de Valle Monteluz 245,RY,SPH,Monte Claro,Americas,South America,220666553,7026898.88,-22.0075,-94.0071,America,2026-03-31T08:01:31.942911+00:00
+San Claridad 246,Estado de San Claridad 246,PP,NSC,Río Blanco,Oceania,Micronesia,248249454,10618234.04,-3.0625,156.2126,Oceania,2026-04-05T20:16:25.942919+00:00
+Norte Altamira 247,Federación de Norte Altamira 247,RR,SHU,Nueva Capital,Americas,North America,7402135,12663469.96,2.8026,-30.8899,America,2025-12-26T23:25:44.942928+00:00
+Monte Marfilia 248,Estado de Monte Marfilia 248,PG,TEH,Villa Norte,Africa,Western Africa,12847178,4669480.18,31.705,2.1948,Africa,2026-03-11T03:13:27.942937+00:00
+Sur Pacifica 249,Federación de Sur Pacifica 249,TW,NNX,Ciudad del Sol,Oceania,Australia and New Zealand,68259783,11357355.37,-23.2517,125.9517,Oceania,2026-03-22T21:31:54.942945+00:00
+Lago Marfilia 250,Estado de Lago Marfilia 250,WC,WMD,Puerto Central,Americas,Central America,44663138,17069414.46,-36.4319,-117.2765,America,2025-12-27T12:59:50.942953+00:00
+Norte Altamira 251,República de Norte Altamira 251,DF,KRB,Santa Marina,Americas,Caribbean,155837341,8775665.29,63.7585,-58.4671,America,2026-01-19T01:50:07.942961+00:00
+Costa Claridad 252,Estado de Costa Claridad 252,NV,PYW,Santa Marina,Americas,Caribbean,64206030,3324824.83,-17.5734,-116.8432,America,2026-01-16T13:59:14.942970+00:00
+Nueva Brisalia 253,Reino de Nueva Brisalia 253,XC,XGF,Ciudad Esperanza,Asia,Eastern Asia,39025223,5325709.73,61.07,99.9655,Asia,2026-03-29T22:09:34.942978+00:00
+Nueva Cedral 254,República de Nueva Cedral 254,IM,XXH,San Aurelio,Americas,South America,63684156,13878180.57,-41.2735,-30.2658,America,2026-03-14T04:46:36.942986+00:00
+Santa Esperanza 255,Reino de Santa Esperanza 255,KU,UCO,Monte Claro,Americas,North America,7825995,16827746.71,27.4818,-96.3343,America,2026-01-26T09:01:09.942995+00:00
+Norte Bosqueland 256,Federación de Norte Bosqueland 256,WL,ZUK,Ciudad Esperanza,Africa,Western Africa,117586072,3010707.24,16.688,50.449,Africa,2026-01-04T16:07:15.943006+00:00
+Gran Libertad 257,Federación de Gran Libertad 257,VV,HRI,Capital Nova,Europe,Eastern Europe,186795445,11337143.52,37.3328,-9.1523,Europe,2026-03-28T15:41:37.943016+00:00
+Nueva Novaterra 258,Reino de Nueva Novaterra 258,PC,BZF,Nueva Capital,Africa,Southern Africa,22138049,15322653.28,9.548,10.4853,Africa,2026-04-01T20:35:48.943025+00:00
+Bajo Esperanza 259,República de Bajo Esperanza 259,PM,ORR,Puerto Central,Asia,Southern Asia,161465888,13743573.04,-2.4496,114.3513,Asia,2026-01-13T07:24:08.943036+00:00
+Gran Nubaria 260,Federación de Gran Nubaria 260,AU,BGJ,Altavista,Asia,Central Asia,32152496,7227641.64,53.011,173.2976,Asia,2026-01-25T21:36:00.943045+00:00
+Puerto Nubaria 261,Reino de Puerto Nubaria 261,EJ,UDS,Monte Claro,Oceania,Polynesia,80937096,5893054.89,-26.9747,144.2791,Oceania,2026-03-14T05:33:35.943054+00:00
+Norte Claridad 262,Reino de Norte Claridad 262,SF,MQZ,Altavista,Oceania,Australia and New Zealand,12881926,2538256.9,-24.0879,121.6181,Oceania,2026-03-22T02:10:37.943062+00:00
+Nueva Verdevia 263,Federación de Nueva Verdevia 263,NC,XDM,Puerto Azul,Oceania,Melanesia,63577944,4608999.33,-30.6883,114.3363,Oceania,2025-12-17T05:04:10.943071+00:00
+Costa Florencia 264,Federación de Costa Florencia 264,OZ,AWS,Villa Norte,Europe,Northern Europe,86549389,6328298.74,55.1943,40.8395,Europe,2026-03-08T15:50:49.943079+00:00
+Santa Monteluz 265,República de Santa Monteluz 265,FU,GVI,Capital Nova,Oceania,Micronesia,194287353,8498562.99,-37.9392,142.3057,Oceania,2026-01-27T03:04:36.943087+00:00
+San Brisalia 266,Federación de San Brisalia 266,IN,FYU,Santa Marina,Americas,South America,158848776,6089820.04,26.8797,-126.8569,America,2026-03-02T16:37:03.943095+00:00
+Monte Esperanza 267,Federación de Monte Esperanza 267,MT,XGH,Río Blanco,Americas,South America,19954531,12230530.16,-35.4213,-57.9681,America,2026-02-08T21:36:49.943105+00:00
+Valle Solaria 268,Estado de Valle Solaria 268,YJ,LWJ,Puerto Central,Africa,Eastern Africa,49280686,9475940.81,29.6732,43.7509,Africa,2026-02-12T11:53:29.943114+00:00
+Gran Novaterra 269,República de Gran Novaterra 269,QX,ZQC,Monte Claro,Oceania,Polynesia,36731442,16821720.73,-14.4619,161.1567,Oceania,2026-01-28T22:17:26.943122+00:00
+Isla Marfilia 270,Federación de Isla Marfilia 270,FT,NAH,Río Blanco,Africa,Middle Africa,121906909,527490.54,-21.218,14.6974,Africa,2025-12-26T23:08:42.943130+00:00
+Rio Solaria 271,República de Rio Solaria 271,ZN,XDX,Santa Marina,Europe,Western Europe,70253781,13511666.04,41.521,19.6703,Europe,2026-04-09T08:37:36.943139+00:00
+Gran Rivania 272,Estado de Gran Rivania 272,LT,BRR,Villa Norte,Europe,Northern Europe,212497806,1510765.7,57.9568,22.6391,Europe,2026-03-31T14:13:54.943148+00:00
+Nueva Cedral 273,Reino de Nueva Cedral 273,GN,RQZ,Ciudad Esperanza,Asia,Southern Asia,137987521,3773072.59,7.523,84.6642,Asia,2026-03-18T03:44:49.943157+00:00
+Rio Claridad 274,Federación de Rio Claridad 274,VO,TKL,Santa Marina,Oceania,Melanesia,7794200,16007788.95,-44.3523,178.9643,Oceania,2026-02-02T19:48:24.943165+00:00
+Isla Aurora 275,República de Isla Aurora 275,TM,ZAT,Santa Marina,Asia,Southeast Asia,170505109,13581158.27,2.1354,176.3763,Asia,2026-03-24T18:19:45.943174+00:00
+Sur Florencia 276,República de Sur Florencia 276,RB,XKZ,San Aurelio,Europe,Eastern Europe,56925531,12572433.06,57.533,1.3144,Europe,2026-04-15T09:30:35.943182+00:00
+Sur Centralia 277,Estado de Sur Centralia 277,XV,RJA,Monte Claro,Asia,Central Asia,106426093,7305117.49,5.909,32.5529,Asia,2026-01-16T03:47:34.943192+00:00
+Norte Florencia 278,República de Norte Florencia 278,WB,ZKI,Capital Nova,Africa,Northern Africa,76995111,1023222.85,9.114,-11.2697,Africa,2026-03-30T02:20:42.943200+00:00
+Costa Verdevia 279,Federación de Costa Verdevia 279,EC,GAT,Capital Nova,Asia,Southern Asia,34828424,12220682.31,-3.967,95.4179,Asia,2026-03-04T03:35:54.943209+00:00
+Norte Bosqueland 280,Federación de Norte Bosqueland 280,YZ,SIQ,Santa Marina,Asia,Eastern Asia,113330879,4657323.4,22.6814,110.3012,Asia,2026-02-05T13:08:57.943229+00:00
+Villa Altamira 281,Estado de Villa Altamira 281,LG,ZYM,Monte Claro,Europe,Eastern Europe,59709014,9498502.72,49.8729,-19.0711,Europe,2026-02-07T21:20:22.943241+00:00
+Bajo Cordelia 282,República de Bajo Cordelia 282,WS,VCF,Villa Norte,Europe,Eastern Europe,49846108,17212712.27,43.746,4.0453,Europe,2026-03-09T14:47:36.943250+00:00
+Isla Rivania 283,República de Isla Rivania 283,WA,SXH,Ciudad del Sol,Africa,Eastern Africa,52463088,5690404.89,-12.0994,24.5889,Africa,2026-01-08T10:59:43.943259+00:00
+Nueva Marfilia 284,Federación de Nueva Marfilia 284,PZ,OSF,Ciudad del Sol,Africa,Middle Africa,160960033,6579527.51,-9.7384,38.2179,Africa,2026-02-16T22:51:07.943267+00:00
+Villa Florencia 285,República de Villa Florencia 285,MA,QIF,Río Blanco,Europe,Northern Europe,35567284,3001856.45,44.2064,58.1135,Europe,2025-12-31T19:30:27.943275+00:00
+Isla Altamira 286,República de Isla Altamira 286,ER,DHF,Santa Marina,Americas,Central America,182754824,9361509.0,37.332,-94.8382,America,2025-12-30T16:05:02.943283+00:00
+Santa Monteluz 287,Reino de Santa Monteluz 287,VU,YCO,Puerto Azul,Europe,Southern Europe,122505047,6420195.61,58.6056,38.2534,Europe,2026-01-02T20:30:07.943293+00:00
+Valle Marfilia 288,República de Valle Marfilia 288,LT,GJQ,Villa Norte,Americas,Central America,88079319,8237287.08,47.9295,-73.5595,America,2026-02-11T15:36:49.943302+00:00
+Nueva Aurora 289,Estado de Nueva Aurora 289,CA,TNQ,Puerto Azul,Oceania,Australia and New Zealand,207771441,7278883.61,-19.8338,151.2786,Oceania,2025-12-26T03:54:59.943310+00:00
+Valle Aurora 290,Reino de Valle Aurora 290,RN,YCH,Puerto Central,Africa,Eastern Africa,197015105,11282259.22,1.9823,-3.7456,Africa,2026-03-02T23:34:46.943320+00:00
+Monte Solaria 291,República de Monte Solaria 291,MR,JDS,Río Blanco,Oceania,Micronesia,167298854,6929226.87,-0.1327,165.0372,Oceania,2026-02-26T08:15:33.943328+00:00
+San Bosqueland 292,Federación de San Bosqueland 292,MJ,CRS,Villa Norte,Americas,South America,166828535,3441408.92,12.1464,-148.6596,America,2026-01-27T03:51:42.943337+00:00
+Santa Venturia 293,Reino de Santa Venturia 293,WP,DGP,San Aurelio,Africa,Eastern Africa,168850716,4136692.75,2.5214,43.561,Africa,2026-03-18T02:32:27.943345+00:00
+Costa Cedral 294,Reino de Costa Cedral 294,KE,EBU,Villa Norte,Americas,Central America,210372891,5778146.5,-3.4301,-124.4026,America,2026-03-14T03:03:40.943354+00:00
+Isla Centralia 295,Reino de Isla Centralia 295,WF,LTZ,Puerto Central,Asia,Southern Asia,247527675,11866514.12,32.3045,86.3362,Asia,2026-01-18T14:02:13.943362+00:00
+Nueva Andina 296,Reino de Nueva Andina 296,OS,EKY,Puerto Azul,Asia,Southeast Asia,27478064,1085913.3,66.6731,145.9234,Asia,2026-03-23T22:33:03.943370+00:00
+Villa Solaria 297,República de Villa Solaria 297,XN,KXY,Ciudad del Sol,Africa,Middle Africa,159716096,9252753.8,12.7916,38.0737,Africa,2026-01-19T04:04:49.943379+00:00
+Alto Solaria 298,República de Alto Solaria 298,BS,BXT,Ciudad del Sol,Americas,North America,192079443,13276413.05,-24.9672,-48.5757,America,2026-02-12T22:38:12.943389+00:00
+Santa Cedral 299,República de Santa Cedral 299,DE,AGD,Puerto Azul,Oceania,Polynesia,220106600,16586531.55,-24.2815,145.8705,Oceania,2026-02-04T06:07:12.943397+00:00
+Bajo Novaterra 300,Reino de Bajo Novaterra 300,DJ,YVY,Monte Claro,Africa,Southern Africa,187924492,14732019.58,31.2768,-6.0371,Africa,2026-03-18T11:33:26.943407+00:00
+Puerto Nubaria 301,Estado de Puerto Nubaria 301,CL,CXS,Ciudad del Sol,Oceania,Melanesia,202807888,16408461.51,-40.4902,120.0366,Oceania,2026-03-10T09:12:02.943415+00:00
+Costa Florencia 302,Federación de Costa Florencia 302,CQ,EWH,Santa Marina,Americas,South America,62643184,6917861.75,19.6885,-167.1646,America,2026-01-26T05:58:40.943423+00:00
+Bajo Centralia 303,Reino de Bajo Centralia 303,WP,UAT,Villa Norte,Europe,Eastern Europe,198218818,3372432.64,51.0379,51.8384,Europe,2025-12-29T09:39:31.943431+00:00
+Gran Lunaria 304,Estado de Gran Lunaria 304,DK,XWA,Río Blanco,Americas,South America,242810759,3717123.78,52.5457,-84.5153,America,2026-04-14T09:27:25.943443+00:00
+Rio Rivania 305,República de Rio Rivania 305,LP,QGN,Ciudad del Sol,Oceania,Polynesia,240648647,8036098.96,-6.4569,154.0375,Oceania,2026-03-10T15:10:00.943452+00:00
+Costa Marfilia 306,República de Costa Marfilia 306,LQ,UPB,Río Blanco,Africa,Western Africa,22230715,3553400.63,-21.8053,-12.9384,Africa,2026-03-22T17:08:29.943461+00:00
+Bajo Aurora 307,Reino de Bajo Aurora 307,HQ,ZXN,Monte Claro,Americas,North America,31849176,4536038.04,-29.8054,-110.3302,America,2026-01-13T16:38:27.943471+00:00
+Rio Nubaria 308,República de Rio Nubaria 308,QU,SBR,Monte Claro,Asia,Central Asia,92699916,2950000.88,-5.5636,76.7278,Asia,2026-04-16T06:30:00.943480+00:00
+Santa Florencia 309,Federación de Santa Florencia 309,BI,GHK,Monte Claro,Oceania,Micronesia,223389446,14625206.76,-49.9287,156.2339,Oceania,2026-04-06T09:29:41.943488+00:00
+Villa Solaria 310,Federación de Villa Solaria 310,NU,KZX,Villa Norte,Americas,North America,28515634,6313905.56,-1.466,-138.442,America,2026-01-03T17:58:47.943497+00:00
+Puerto Lunaria 311,Reino de Puerto Lunaria 311,VV,JEU,Ciudad del Sol,Oceania,Polynesia,39760869,6652096.81,-32.5111,165.7927,Oceania,2026-02-04T09:46:40.943505+00:00
+Villa Altamira 312,Estado de Villa Altamira 312,IS,DSF,Puerto Central,Americas,North America,34625745,7602465.5,-44.3425,-139.6595,America,2026-04-16T12:07:07.943514+00:00
+Bajo Altamira 313,Reino de Bajo Altamira 313,AB,XAO,Puerto Central,Europe,Northern Europe,245678718,7453611.73,39.5397,6.1505,Europe,2026-01-25T04:39:08.943522+00:00
+Puerto Pacifica 314,Reino de Puerto Pacifica 314,UH,IBO,Nueva Capital,Africa,Eastern Africa,70090375,11660522.67,-13.9075,50.883,Africa,2026-02-13T23:31:44.943530+00:00
+Lago Verdevia 315,Federación de Lago Verdevia 315,PP,QWJ,Puerto Central,Oceania,Micronesia,176356195,4692348.18,-23.7893,140.7303,Oceania,2026-01-18T20:29:54.943538+00:00
+Gran Lunaria 316,Federación de Gran Lunaria 316,EE,ZZO,Monte Claro,Africa,Northern Africa,105132394,7867914.79,-21.6392,31.4344,Africa,2026-01-06T19:39:25.943547+00:00
+Norte Andina 317,Reino de Norte Andina 317,IC,UIX,Ciudad del Sol,Oceania,Melanesia,104433996,12526564.18,-11.9242,114.6062,Oceania,2026-03-08T04:37:20.943557+00:00
+San Lunaria 318,Federación de San Lunaria 318,AB,UHN,Capital Nova,Americas,South America,105146641,9921522.0,-43.3248,-57.2297,America,2026-01-18T21:13:28.943566+00:00
+Norte Florencia 319,Estado de Norte Florencia 319,CY,MHA,Ciudad Esperanza,Africa,Northern Africa,223533209,15704652.69,-16.4233,10.9174,Africa,2025-12-30T16:44:27.943574+00:00
+Nueva Andina 320,Federación de Nueva Andina 320,UN,LQL,Río Blanco,Americas,Central America,248379349,14648138.99,-20.3843,-46.7716,America,2026-02-28T11:55:42.943582+00:00
+Rio Esperanza 321,Federación de Rio Esperanza 321,KD,ZMU,Ciudad Esperanza,Europe,Western Europe,59704418,11717775.24,60.8992,-0.6434,Europe,2026-02-25T09:29:02.943590+00:00
+Santa Pacifica 322,República de Santa Pacifica 322,TI,GCA,Capital Nova,Asia,Western Asia,80513112,4257027.71,57.9575,159.591,Asia,2026-04-01T14:29:40.943599+00:00
+Isla Altamira 323,Reino de Isla Altamira 323,IG,TIJ,Santa Marina,Europe,Western Europe,116942517,8980689.26,70.3605,3.6965,Europe,2026-03-05T02:33:39.943607+00:00
+Monte Verdevia 324,Federación de Monte Verdevia 324,AE,GIB,San Aurelio,Oceania,Polynesia,55093608,13888300.45,-25.9569,164.4055,Oceania,2026-04-16T10:41:07.943615+00:00
+Isla Terranova 325,Estado de Isla Terranova 325,HI,HLF,Ciudad Esperanza,Africa,Western Africa,131946714,3380121.05,19.4278,41.8759,Africa,2026-02-26T11:35:23.943623+00:00
+Alto Aurora 326,Federación de Alto Aurora 326,BI,ZPD,Monte Claro,Africa,Northern Africa,201556597,10165631.09,-20.839,5.1754,Africa,2026-03-16T16:06:26.943631+00:00
+Costa Florencia 327,Federación de Costa Florencia 327,XA,BQP,Río Blanco,Africa,Western Africa,188014947,8592137.34,23.9779,39.4093,Africa,2026-04-02T19:53:50.943641+00:00
+Sur Marfilia 328,Federación de Sur Marfilia 328,JM,SNO,Santa Marina,Europe,Northern Europe,248694994,7803285.86,61.9342,50.3848,Europe,2026-04-03T03:44:25.943649+00:00
+Isla Cordelia 329,Estado de Isla Cordelia 329,KU,FUL,Capital Nova,Asia,Eastern Asia,124059426,8220446.72,35.5057,171.1883,Asia,2026-02-16T12:22:47.943657+00:00
+Sur Venturia 330,Reino de Sur Venturia 330,JS,FIB,Altavista,Asia,Western Asia,95938138,2979075.26,17.9254,137.8122,Asia,2026-04-13T15:01:05.943665+00:00
+Lago Estrella 331,República de Lago Estrella 331,QQ,GYR,Santa Marina,Europe,Northern Europe,167709294,2073114.11,69.4888,-23.1367,Europe,2026-02-18T19:53:15.943674+00:00
+Costa Rivania 332,República de Costa Rivania 332,IQ,EMW,Ciudad Esperanza,Europe,Eastern Europe,8113134,192067.88,49.7665,11.2507,Europe,2026-01-10T06:08:14.943682+00:00
+Bajo Florencia 333,Reino de Bajo Florencia 333,WQ,IVZ,Altavista,Europe,Southern Europe,111094327,5476647.55,39.2632,20.7935,Europe,2026-01-27T16:42:32.943690+00:00
+Nueva Terranova 334,Estado de Nueva Terranova 334,GY,RUN,Capital Nova,Europe,Northern Europe,64349575,10798796.46,41.3035,38.4311,Europe,2026-02-05T22:10:29.943698+00:00
+Norte Cordelia 335,Reino de Norte Cordelia 335,HH,ATC,San Aurelio,Europe,Western Europe,132379161,17001148.14,41.8971,23.1986,Europe,2026-02-16T09:07:44.943706+00:00
+Valle Bosqueland 336,República de Valle Bosqueland 336,JK,JGK,Ciudad del Sol,Europe,Western Europe,194693463,7830095.52,60.7911,-7.2972,Europe,2026-02-18T07:47:38.943716+00:00
+Bajo Terranova 337,Reino de Bajo Terranova 337,HF,NHL,Ciudad del Sol,Asia,Eastern Asia,89640654,10356357.38,34.8815,91.3672,Asia,2025-12-17T18:29:07.943725+00:00
+Gran Brisalia 338,República de Gran Brisalia 338,ET,YKN,Ciudad Esperanza,Africa,Middle Africa,62396512,7514383.71,18.0775,1.364,Africa,2026-03-15T16:56:38.943735+00:00
+Villa Libertad 339,Reino de Villa Libertad 339,IC,HBE,Altavista,Europe,Western Europe,40998359,8957331.99,46.2624,37.2746,Europe,2026-03-17T00:08:53.943743+00:00
+Gran Altamira 340,Federación de Gran Altamira 340,PN,GYD,Villa Norte,Americas,Central America,206701730,2188997.08,-24.3859,-40.3256,America,2026-01-05T15:22:39.943753+00:00
+Norte Venturia 341,Federación de Norte Venturia 341,RJ,VQR,Santa Marina,Africa,Northern Africa,113800820,16742461.19,-8.8632,17.8684,Africa,2026-01-01T10:33:22.943761+00:00
+Santa Andina 342,Reino de Santa Andina 342,PH,EGI,Nueva Capital,Oceania,Polynesia,205204334,4402345.68,-48.5882,117.0424,Oceania,2026-01-29T20:29:20.943769+00:00
+Santa Venturia 343,Estado de Santa Venturia 343,QB,UWM,Santa Marina,Europe,Eastern Europe,145460982,8269177.9,50.9509,-15.2693,Europe,2026-01-06T13:43:13.943778+00:00
+Sur Venturia 344,Federación de Sur Venturia 344,OI,EHS,Ciudad Esperanza,Africa,Southern Africa,7162215,8761642.59,-1.5337,30.9172,Africa,2026-03-06T21:54:09.943786+00:00
+Alto Terranova 345,República de Alto Terranova 345,ZO,YLJ,Nueva Capital,Africa,Middle Africa,156250231,9284238.83,-23.2314,38.1265,Africa,2026-03-18T08:00:33.943794+00:00
+Norte Libertad 346,Reino de Norte Libertad 346,HO,ODR,Villa Norte,Americas,North America,28288406,9110116.53,20.3948,-66.4668,America,2026-03-28T19:49:24.943802+00:00
+Norte Monteluz 347,República de Norte Monteluz 347,WS,LGM,Altavista,Americas,Caribbean,38251173,3874926.01,55.0035,-100.6341,America,2026-04-06T12:45:51.943812+00:00
+Costa Novaterra 348,Reino de Costa Novaterra 348,OT,HAD,Nueva Capital,Africa,Eastern Africa,222220836,5861992.9,9.5699,15.787,Africa,2026-02-04T11:27:33.943821+00:00
+Valle Pacifica 349,República de Valle Pacifica 349,NU,EIY,Ciudad del Sol,Asia,Eastern Asia,231066129,16583603.93,59.7679,109.8553,Asia,2026-01-31T00:09:32.943829+00:00
+Costa Claridad 350,Federación de Costa Claridad 350,LR,WMG,Ciudad del Sol,Oceania,Melanesia,29010116,4606963.93,-25.0569,153.094,Oceania,2026-03-02T17:24:56.943837+00:00
+Monte Cedral 351,República de Monte Cedral 351,BZ,GVB,Puerto Central,Oceania,Polynesia,128446930,7249266.55,-43.2444,175.3592,Oceania,2026-01-04T15:39:54.943846+00:00
+San Solaria 352,Reino de San Solaria 352,FT,RMB,San Aurelio,Oceania,Australia and New Zealand,213379221,26644.35,-10.1412,172.3477,Oceania,2026-02-10T16:03:00.943854+00:00
+Nueva Venturia 353,Federación de Nueva Venturia 353,HZ,ZSI,Río Blanco,Asia,Eastern Asia,98653439,3742091.12,41.2736,113.9078,Asia,2025-12-26T07:35:23.943862+00:00
+Lago Marfilia 354,Federación de Lago Marfilia 354,PR,CNN,Ciudad del Sol,Africa,Northern Africa,224870539,15269827.43,24.4459,33.8235,Africa,2026-01-27T01:18:18.943871+00:00
+Sur Cedral 355,República de Sur Cedral 355,XH,XMT,Puerto Central,Europe,Western Europe,111716477,16083707.53,66.2697,2.6694,Europe,2025-12-30T10:07:16.943880+00:00
+Rio Aurora 356,Reino de Rio Aurora 356,FM,ZHD,Ciudad del Sol,Oceania,Melanesia,230652410,5209459.91,-13.9687,175.4207,Oceania,2026-01-29T09:00:08.943888+00:00
+Bajo Andina 357,Estado de Bajo Andina 357,AB,XOT,Capital Nova,Oceania,Australia and New Zealand,230127730,3001230.49,-30.1,172.1291,Oceania,2026-02-04T17:06:06.943898+00:00
+Santa Pacifica 358,Estado de Santa Pacifica 358,UW,GYN,Río Blanco,Oceania,Australia and New Zealand,54426300,13350516.99,-48.7226,118.0008,Oceania,2026-01-06T16:40:55.943906+00:00
+Lago Lunaria 359,Estado de Lago Lunaria 359,ZH,BSA,Capital Nova,Africa,Northern Africa,225559370,801310.24,35.4443,26.5992,Africa,2026-01-07T01:42:23.943914+00:00
+Valle Libertad 360,República de Valle Libertad 360,II,EDE,Nueva Capital,Europe,Northern Europe,154545363,7659262.77,39.6638,-13.2498,Europe,2026-04-09T23:51:03.943922+00:00
+Villa Novaterra 361,Federación de Villa Novaterra 361,FB,NYJ,Ciudad del Sol,Asia,Western Asia,166938260,6440357.84,1.2837,40.7494,Asia,2026-03-01T10:26:36.943930+00:00
+Lago Lunaria 362,Federación de Lago Lunaria 362,EM,BNK,Altavista,Africa,Middle Africa,88283922,15979914.67,-9.5538,23.8218,Africa,2026-02-16T19:12:01.943938+00:00
+Gran Florencia 363,Federación de Gran Florencia 363,KC,FCN,San Aurelio,Oceania,Polynesia,245751457,7445069.66,-28.9393,143.3342,Oceania,2026-01-07T15:10:23.943947+00:00
+Gran Claridad 364,Reino de Gran Claridad 364,WM,RUP,Altavista,Oceania,Australia and New Zealand,242193783,7579169.87,-2.0248,153.8722,Oceania,2026-01-29T11:17:58.943955+00:00
+Gran Cedral 365,Federación de Gran Cedral 365,MM,XTW,Puerto Azul,Oceania,Australia and New Zealand,240269127,10324838.05,-23.3904,138.5774,Oceania,2025-12-28T21:00:18.943963+00:00
+San Cordelia 366,Federación de San Cordelia 366,WW,EKE,Puerto Central,Europe,Northern Europe,210276850,7981976.39,70.2374,-16.3246,Europe,2026-02-03T05:15:34.943971+00:00
+Lago Pacifica 367,Reino de Lago Pacifica 367,DZ,ASW,Altavista,Asia,Southern Asia,189886077,15314265.16,72.6165,125.9526,Asia,2026-01-28T22:59:09.943982+00:00
+San Novaterra 368,Federación de San Novaterra 368,UT,LZX,Nueva Capital,Europe,Northern Europe,135905971,9788296.3,44.3032,43.2131,Europe,2026-01-23T10:16:55.943990+00:00
+Norte Estrella 369,República de Norte Estrella 369,WR,VEB,Villa Norte,Europe,Western Europe,244088478,11246418.91,58.092,-24.3488,Europe,2026-04-06T08:39:29.943998+00:00
+Puerto Andina 370,Reino de Puerto Andina 370,QN,OCJ,Capital Nova,Asia,Southeast Asia,236494302,16180592.5,12.128,145.2373,Asia,2025-12-27T20:45:42.944007+00:00
+Monte Andina 371,Reino de Monte Andina 371,XH,HGE,Río Blanco,Americas,South America,240293363,15880451.01,54.8806,-65.1391,America,2026-04-15T01:27:48.944015+00:00
+Puerto Terranova 372,República de Puerto Terranova 372,XE,ZZZ,Nueva Capital,Africa,Middle Africa,130449255,16737857.3,19.1934,-14.8685,Africa,2026-01-03T02:32:06.944023+00:00
+Nueva Cedral 373,República de Nueva Cedral 373,HK,QHJ,Puerto Azul,Oceania,Polynesia,95116895,454448.01,-10.1902,118.7545,Oceania,2026-01-10T08:42:09.944031+00:00
+Santa Libertad 374,Federación de Santa Libertad 374,SR,XOK,Villa Norte,Europe,Northern Europe,208677560,3012943.27,62.501,30.084,Europe,2026-04-12T06:50:28.944039+00:00
+Costa Florencia 375,Federación de Costa Florencia 375,WB,ICL,San Aurelio,Asia,Southern Asia,190617518,2893866.7,3.1594,171.9916,Asia,2026-02-23T02:05:09.944047+00:00
+Sur Cordelia 376,Estado de Sur Cordelia 376,UJ,NQO,Villa Norte,Oceania,Polynesia,178900879,16967685.34,-24.7552,138.1328,Oceania,2026-03-05T01:09:27.944057+00:00
+Villa Libertad 377,Estado de Villa Libertad 377,SW,DSY,Villa Norte,Europe,Eastern Europe,27698801,12568865.38,67.9142,10.175,Europe,2025-12-22T19:15:19.944067+00:00
+Puerto Libertad 378,Federación de Puerto Libertad 378,KE,RAY,Nueva Capital,Africa,Northern Africa,85930632,3123501.46,-2.1797,-7.0069,Africa,2026-01-25T14:38:41.944075+00:00
+San Pacifica 379,Reino de San Pacifica 379,WB,WAC,Río Blanco,Asia,Central Asia,117777106,10518840.86,-0.3811,136.1684,Asia,2026-03-06T12:43:41.944083+00:00
+Gran Centralia 380,Estado de Gran Centralia 380,LJ,WLY,Puerto Central,Europe,Southern Europe,7042539,1620256.38,50.1685,19.1778,Europe,2026-02-16T22:14:24.944092+00:00
+San Nubaria 381,Reino de San Nubaria 381,BB,VPA,Puerto Central,Africa,Western Africa,191743808,17208560.73,9.0175,-6.8146,Africa,2025-12-28T08:20:20.944100+00:00
+Alto Monteluz 382,República de Alto Monteluz 382,NN,GSO,Altavista,Asia,Western Asia,145163438,1477075.91,-7.0047,37.0771,Asia,2026-04-13T05:49:02.944108+00:00
+Bajo Lunaria 383,Estado de Bajo Lunaria 383,OC,QHA,Nueva Capital,Africa,Middle Africa,81537121,5765970.14,-27.7084,-11.2622,Africa,2026-01-26T09:25:24.944118+00:00
+Santa Florencia 384,República de Santa Florencia 384,ZJ,UVM,Ciudad del Sol,Oceania,Melanesia,96656436,12414800.69,-40.2403,175.5025,Oceania,2026-01-07T08:05:54.944126+00:00
+Isla Andina 385,Federación de Isla Andina 385,BH,OBW,Ciudad del Sol,Americas,South America,54760831,10405034.74,-14.857,-115.336,America,2026-01-13T18:41:34.944134+00:00
+Alto Libertad 386,Federación de Alto Libertad 386,CS,JTM,San Aurelio,Europe,Western Europe,111061303,1441959.31,47.7136,45.1789,Europe,2026-02-21T19:29:52.944147+00:00
+Villa Lunaria 387,Reino de Villa Lunaria 387,AA,YTV,Río Blanco,Europe,Northern Europe,219209746,2882037.4,65.3297,31.0959,Europe,2025-12-22T18:40:33.944157+00:00
+Gran Estrella 388,Estado de Gran Estrella 388,YG,PXD,Santa Marina,Europe,Eastern Europe,135904615,6654675.19,51.5265,36.4235,Europe,2026-03-02T06:29:10.944166+00:00
+Isla Cedral 389,República de Isla Cedral 389,EB,AZZ,Capital Nova,Americas,North America,214117652,5715621.3,54.4392,-44.8931,America,2026-01-15T04:05:37.944174+00:00
+Alto Rivania 390,Federación de Alto Rivania 390,NP,MDA,Puerto Central,Europe,Western Europe,180908898,5720946.06,51.8787,-11.2507,Europe,2025-12-28T19:03:11.944182+00:00
+Isla Cordelia 391,Estado de Isla Cordelia 391,WB,MGL,Ciudad del Sol,Europe,Eastern Europe,198232203,5623903.74,52.2368,44.8191,Europe,2026-03-25T04:46:25.944191+00:00
+San Cedral 392,Estado de San Cedral 392,UO,QIO,San Aurelio,Oceania,Australia and New Zealand,184393283,11753952.58,-22.0333,160.2634,Oceania,2026-02-19T21:02:38.944199+00:00
+Lago Aurora 393,Estado de Lago Aurora 393,HU,NBZ,Ciudad Esperanza,Oceania,Australia and New Zealand,106367244,2658596.55,-33.2349,163.2058,Oceania,2025-12-19T23:34:37.944215+00:00
+Valle Novaterra 394,República de Valle Novaterra 394,PS,TRO,Ciudad del Sol,Africa,Southern Africa,139341483,3151102.78,13.5437,7.4169,Africa,2025-12-29T13:09:02.944230+00:00
+Valle Altamira 395,Estado de Valle Altamira 395,ZU,COH,Monte Claro,Americas,Central America,234911810,16937579.8,-8.0494,-52.3759,America,2026-03-05T13:37:38.944240+00:00
+Valle Terranova 396,Estado de Valle Terranova 396,JE,LUG,Monte Claro,Oceania,Micronesia,7402494,1604879.5,-9.7683,111.0543,Oceania,2026-04-13T23:29:06.944249+00:00
+Puerto Cedral 397,Reino de Puerto Cedral 397,TW,QFO,Nueva Capital,Asia,Southeast Asia,200412621,5884511.83,73.3075,30.1165,Asia,2026-03-16T17:47:02.944259+00:00
+Costa Estrella 398,Reino de Costa Estrella 398,MF,LZU,Villa Norte,Africa,Northern Africa,97269277,4039261.25,12.1627,31.1172,Africa,2026-01-19T08:43:41.944267+00:00
+Villa Terranova 399,Estado de Villa Terranova 399,CS,FIE,Puerto Azul,Americas,South America,217048146,15437414.3,53.3004,-44.6078,America,2025-12-30T08:51:36.944277+00:00
+Puerto Libertad 400,República de Puerto Libertad 400,BW,VZK,Capital Nova,Asia,Eastern Asia,44693711,9407681.78,-1.9702,94.0939,Asia,2026-03-19T17:36:22.944286+00:00
+Gran Claridad 401,Estado de Gran Claridad 401,JG,NMA,Nueva Capital,Europe,Western Europe,41324157,8866822.92,69.8105,55.1394,Europe,2026-04-11T11:54:55.944294+00:00
+Santa Centralia 402,Reino de Santa Centralia 402,MB,QGO,Puerto Azul,Oceania,Melanesia,89706575,6694723.61,-24.1534,139.0512,Oceania,2026-03-05T11:54:01.944303+00:00
+Isla Terranova 403,Estado de Isla Terranova 403,EC,ELN,Capital Nova,Asia,Southern Asia,236493778,15989812.93,36.0025,39.2012,Asia,2025-12-28T02:50:59.944311+00:00
+Alto Rivania 404,República de Alto Rivania 404,NT,MHU,Puerto Azul,Americas,South America,206188798,9760458.55,-46.3442,-128.4934,America,2026-04-05T00:24:47.944320+00:00
+Bajo Terranova 405,República de Bajo Terranova 405,WW,PLE,San Aurelio,Europe,Western Europe,178861772,1679814.6,57.4299,-22.2682,Europe,2026-01-21T16:54:59.944328+00:00
+Gran Cordelia 406,Reino de Gran Cordelia 406,IA,QQU,Ciudad del Sol,Asia,Central Asia,126045583,5012810.55,40.3755,52.9842,Asia,2026-03-10T07:57:21.944336+00:00
+Norte Cordelia 407,Federación de Norte Cordelia 407,JZ,EGK,Puerto Central,Oceania,Melanesia,13397042,5868258.81,-42.458,130.5936,Oceania,2026-03-04T19:44:26.944346+00:00
+Santa Libertad 408,Estado de Santa Libertad 408,UJ,RTL,Capital Nova,Africa,Western Africa,53766077,11336029.23,-9.3385,44.5865,Africa,2026-02-19T22:44:18.944355+00:00
+Bajo Terranova 409,Estado de Bajo Terranova 409,YZ,UYJ,Santa Marina,Asia,Southeast Asia,125691916,2563992.89,18.4023,51.7285,Asia,2026-02-26T03:33:51.944363+00:00
+Rio Novaterra 410,Estado de Rio Novaterra 410,IW,NRM,Ciudad Esperanza,Europe,Western Europe,166511704,5085935.93,41.1392,4.6342,Europe,2026-04-14T12:57:09.944371+00:00
+San Estrella 411,Federación de San Estrella 411,JY,DTQ,Monte Claro,Europe,Eastern Europe,178670824,8672367.85,36.4093,10.6717,Europe,2026-02-06T19:27:34.944380+00:00
+Puerto Cedral 412,Federación de Puerto Cedral 412,OE,THA,Villa Norte,Americas,North America,228476245,8282150.9,68.4001,-134.0985,America,2026-04-03T05:09:45.944388+00:00
+Villa Esperanza 413,Estado de Villa Esperanza 413,SV,ICD,Río Blanco,Oceania,Micronesia,140355666,8603519.77,-49.9127,130.6597,Oceania,2026-03-22T21:51:16.944396+00:00
+Villa Centralia 414,Estado de Villa Centralia 414,GY,EXJ,Nueva Capital,Africa,Southern Africa,165939604,8407763.8,15.5157,0.1604,Africa,2026-03-21T22:08:09.944404+00:00
+Gran Venturia 415,Federación de Gran Venturia 415,TW,FIB,Puerto Central,Americas,Central America,60224392,12075779.71,69.5423,-127.0009,America,2026-04-14T13:17:54.944412+00:00
+Gran Andina 416,Reino de Gran Andina 416,WU,DWU,Monte Claro,Oceania,Melanesia,179807204,11422526.81,-46.1706,139.1463,Oceania,2026-03-05T12:05:55.944421+00:00
+Gran Florencia 417,República de Gran Florencia 417,VX,JZC,Altavista,Europe,Northern Europe,24636733,14503047.28,48.1417,5.4954,Europe,2026-01-27T01:39:09.944430+00:00
+Rio Rivania 418,Federación de Rio Rivania 418,JI,RCY,Villa Norte,Asia,Central Asia,175031110,12809594.45,32.5592,156.7231,Asia,2026-03-19T17:03:18.944440+00:00
+Rio Terranova 419,Estado de Rio Terranova 419,IP,OXI,Altavista,Oceania,Australia and New Zealand,192698700,2571486.2,-37.2865,141.1166,Oceania,2026-02-18T17:36:24.944449+00:00
+Nueva Altamira 420,República de Nueva Altamira 420,MW,FUK,Villa Norte,Americas,North America,116341772,16049676.73,16.2529,-162.0999,America,2026-02-10T13:26:07.944457+00:00
+Monte Nubaria 421,Federación de Monte Nubaria 421,FC,KVB,Santa Marina,Oceania,Melanesia,217488376,10610674.03,-11.1987,169.6086,Oceania,2026-01-13T18:17:08.944465+00:00
+Norte Altamira 422,Federación de Norte Altamira 422,GL,IJU,Puerto Azul,Africa,Western Africa,242535100,8417589.3,33.638,32.5882,Africa,2026-04-07T22:06:51.944473+00:00
+Bajo Rivania 423,República de Bajo Rivania 423,FO,OTM,Puerto Central,Africa,Middle Africa,167954255,9745177.48,-15.3601,39.3462,Africa,2025-12-21T21:53:50.944482+00:00
+Costa Bosqueland 424,República de Costa Bosqueland 424,KN,WQX,Ciudad del Sol,Europe,Southern Europe,239005394,10417787.86,39.011,57.2578,Europe,2026-04-13T06:31:30.944490+00:00
+Alto Marfilia 425,Reino de Alto Marfilia 425,VG,BOI,Ciudad Esperanza,Asia,Southern Asia,49284051,13175178.33,22.8551,61.7524,Asia,2026-02-11T18:31:42.944498+00:00
+Costa Verdevia 426,Estado de Costa Verdevia 426,YQ,BDD,Villa Norte,Americas,North America,21406360,6887240.2,54.3713,-100.4305,America,2026-03-19T23:31:08.944508+00:00
+Isla Estrella 427,República de Isla Estrella 427,SG,JHT,Puerto Central,Africa,Eastern Africa,114988156,4916937.74,3.4216,38.8353,Africa,2025-12-28T23:26:53.944518+00:00
+Isla Cordelia 428,República de Isla Cordelia 428,JQ,PVD,Santa Marina,Oceania,Polynesia,36289350,2316723.31,-15.3413,117.4798,Oceania,2025-12-23T02:17:07.944526+00:00
+Isla Brisalia 429,República de Isla Brisalia 429,JO,BUQ,Puerto Azul,Africa,Middle Africa,17571214,17372287.23,6.0589,44.8401,Africa,2026-02-03T09:04:15.944535+00:00
+Norte Verdevia 430,República de Norte Verdevia 430,SD,VRT,Ciudad Esperanza,Oceania,Polynesia,103498569,511278.49,-19.8554,129.3229,Oceania,2026-02-05T01:49:55.944543+00:00
+Nueva Novaterra 431,Federación de Nueva Novaterra 431,FZ,JIB,Capital Nova,Oceania,Micronesia,33445082,16713487.82,-25.3062,156.5094,Oceania,2026-03-20T15:19:07.944552+00:00
+San Verdevia 432,Reino de San Verdevia 432,ZB,NLC,Altavista,Africa,Southern Africa,153273305,16342297.57,20.0437,-15.8727,Africa,2026-01-31T01:53:48.944561+00:00
+Nueva Florencia 433,Reino de Nueva Florencia 433,OD,IWS,Villa Norte,Oceania,Micronesia,36564500,12395596.67,-8.0508,110.1669,Oceania,2026-02-24T10:27:50.944569+00:00
+Isla Bosqueland 434,Estado de Isla Bosqueland 434,BT,LAM,Ciudad Esperanza,Africa,Western Africa,24136465,839111.83,-28.5636,35.6713,Africa,2026-02-01T01:33:31.944577+00:00
+Gran Pacifica 435,Federación de Gran Pacifica 435,AQ,JDO,San Aurelio,Asia,Western Asia,47028345,17381483.85,17.8569,98.1076,Asia,2026-04-12T01:07:26.944585+00:00
+Sur Lunaria 436,Estado de Sur Lunaria 436,TU,QUS,San Aurelio,Africa,Southern Africa,58756926,16024285.47,-15.2517,39.5849,Africa,2026-01-26T19:18:37.944594+00:00
+San Libertad 437,Federación de San Libertad 437,JZ,LSP,Ciudad Esperanza,Oceania,Melanesia,165235672,14717626.45,-1.7653,115.516,Oceania,2026-03-29T02:44:21.944603+00:00
+Nueva Aurora 438,Estado de Nueva Aurora 438,UH,HZA,Altavista,Americas,North America,164261806,3372402.37,-18.6379,-64.8662,America,2026-03-19T10:26:02.944612+00:00
+Gran Brisalia 439,Federación de Gran Brisalia 439,JK,PRV,Puerto Central,Oceania,Melanesia,179053284,5057677.74,-35.9185,154.066,Oceania,2026-04-06T07:12:05.944620+00:00
+Norte Esperanza 440,Estado de Norte Esperanza 440,BH,DQO,Puerto Azul,Oceania,Polynesia,4563949,16436250.69,-1.6477,115.4772,Oceania,2026-03-18T10:08:36.944628+00:00
+Lago Terranova 441,República de Lago Terranova 441,KT,IQT,Santa Marina,Oceania,Polynesia,37045962,4479674.79,-38.9756,177.9242,Oceania,2026-03-07T14:35:17.944636+00:00
+Puerto Cedral 442,República de Puerto Cedral 442,BW,AJA,Altavista,Oceania,Micronesia,49106844,10975074.51,-38.4757,172.9584,Oceania,2026-03-25T09:05:38.944644+00:00
+Nueva Novaterra 443,Federación de Nueva Novaterra 443,XK,NTW,Ciudad Esperanza,Oceania,Micronesia,41926973,9376965.9,-35.0384,134.6589,Oceania,2026-02-01T18:08:15.944653+00:00
+Alto Rivania 444,Federación de Alto Rivania 444,QJ,EWX,Nueva Capital,Africa,Southern Africa,93554544,1043537.06,36.2166,0.9624,Africa,2025-12-28T19:21:57.944662+00:00
+San Cordelia 445,Estado de San Cordelia 445,SW,BKM,Santa Marina,Americas,Caribbean,239597613,14755233.62,15.172,-69.1681,America,2026-03-03T09:32:10.944671+00:00
+Costa Aurora 446,República de Costa Aurora 446,GY,TOE,Ciudad del Sol,Oceania,Polynesia,182132395,9042988.0,-23.9118,149.9038,Oceania,2026-03-14T15:13:51.944680+00:00
+Puerto Lunaria 447,República de Puerto Lunaria 447,MU,YGW,Río Blanco,Asia,Eastern Asia,209826594,10442055.0,1.9508,69.6504,Asia,2026-04-11T00:50:48.944689+00:00
+Isla Florencia 448,Estado de Isla Florencia 448,HP,STP,Santa Marina,Europe,Eastern Europe,131287067,5390132.2,54.3173,-15.7233,Europe,2026-03-23T05:53:36.944697+00:00
+Alto Andina 449,Estado de Alto Andina 449,XL,RCI,San Aurelio,Americas,Caribbean,176010643,5889770.16,52.7401,-79.9552,America,2026-01-18T10:39:39.944705+00:00
+Santa Centralia 450,Estado de Santa Centralia 450,QP,PDC,San Aurelio,Europe,Western Europe,70106185,8709054.29,55.1303,47.0537,Europe,2026-02-15T06:59:10.944716+00:00
+Rio Altamira 451,República de Rio Altamira 451,FV,ZUO,Río Blanco,Oceania,Polynesia,190177876,7888796.25,-27.2097,151.5451,Oceania,2026-03-02T22:15:26.944724+00:00
+Puerto Nubaria 452,Estado de Puerto Nubaria 452,IT,CBJ,Altavista,Oceania,Polynesia,7772002,12693425.13,-47.2381,170.4634,Oceania,2026-03-01T10:34:06.944733+00:00
+Isla Monteluz 453,Estado de Isla Monteluz 453,QD,BNQ,Río Blanco,Americas,Central America,105563594,15057970.45,40.4472,-98.5727,America,2026-02-14T22:07:41.944741+00:00
+Costa Brisalia 454,Federación de Costa Brisalia 454,WU,VVY,Ciudad del Sol,Oceania,Micronesia,187728284,6007681.1,-4.2955,137.6004,Oceania,2026-01-07T12:21:29.944749+00:00
+Monte Terranova 455,Federación de Monte Terranova 455,AO,LOS,Río Blanco,Africa,Southern Africa,163444495,7080887.95,-14.3103,-8.6175,Africa,2026-01-09T08:44:48.944757+00:00
+Isla Brisalia 456,Reino de Isla Brisalia 456,QP,BES,San Aurelio,Africa,Eastern Africa,186266632,7760986.4,8.8092,-6.7639,Africa,2026-01-02T17:34:33.944766+00:00
+Alto Cordelia 457,República de Alto Cordelia 457,LL,SSR,Capital Nova,Americas,Central America,176958036,14999360.9,44.1709,-162.4728,America,2026-03-04T09:29:22.944775+00:00
+Nueva Marfilia 458,Estado de Nueva Marfilia 458,WP,XEG,Altavista,Europe,Eastern Europe,202978224,13086669.88,39.2166,18.7762,Europe,2025-12-31T07:07:26.944783+00:00
+Bajo Aurora 459,Estado de Bajo Aurora 459,ZT,OKB,Ciudad del Sol,Africa,Eastern Africa,195766496,15585477.24,-12.0992,27.6573,Africa,2025-12-21T07:25:19.944792+00:00
+Alto Centralia 460,Estado de Alto Centralia 460,BU,CVJ,Monte Claro,Europe,Western Europe,147398792,14030147.79,38.6689,12.6234,Europe,2026-04-04T21:18:54.944800+00:00
+Rio Pacifica 461,Estado de Rio Pacifica 461,KN,BQL,Río Blanco,Oceania,Australia and New Zealand,22556356,7023234.82,-39.2092,157.3048,Oceania,2025-12-23T18:03:09.944808+00:00
+Lago Claridad 462,Reino de Lago Claridad 462,JB,UPT,Ciudad Esperanza,Asia,Eastern Asia,89133153,1066323.88,52.6389,42.753,Asia,2026-01-18T14:04:49.944816+00:00
+Valle Pacifica 463,Estado de Valle Pacifica 463,HB,TGD,Villa Norte,Asia,Western Asia,106465610,14305543.27,44.4766,36.9153,Asia,2026-02-19T06:13:38.944825+00:00
+Nueva Novaterra 464,Federación de Nueva Novaterra 464,NO,GKB,Santa Marina,Asia,Western Asia,189203640,6671773.72,45.5388,42.0197,Asia,2026-02-28T00:38:37.944833+00:00
+Lago Verdevia 465,Reino de Lago Verdevia 465,HX,MPY,Ciudad del Sol,Africa,Northern Africa,165140409,10672005.63,20.8215,17.2734,Africa,2026-02-06T16:54:05.944842+00:00
+Villa Aurora 466,Reino de Villa Aurora 466,LQ,YHE,Villa Norte,Oceania,Micronesia,86012750,13300591.21,-15.7211,153.7918,Oceania,2026-04-07T20:21:56.944850+00:00
+Lago Cedral 467,Estado de Lago Cedral 467,DW,ETP,Capital Nova,Africa,Western Africa,180180029,9686212.19,32.5629,23.4706,Africa,2026-04-12T20:19:23.944859+00:00
+Gran Venturia 468,Estado de Gran Venturia 468,DC,QOL,Ciudad del Sol,Africa,Northern Africa,205502078,2349693.06,5.4142,-4.1203,Africa,2026-02-28T04:35:12.944868+00:00
+Monte Venturia 469,Federación de Monte Venturia 469,SV,WGV,Villa Norte,Africa,Eastern Africa,26640523,15282870.16,5.8612,-5.0562,Africa,2026-01-24T10:36:28.944877+00:00
+Alto Libertad 470,Reino de Alto Libertad 470,US,ACL,Puerto Central,Oceania,Micronesia,115802120,15042683.29,-41.143,143.3814,Oceania,2025-12-27T00:37:08.944885+00:00
+Bajo Monteluz 471,República de Bajo Monteluz 471,RU,OBN,Santa Marina,Oceania,Micronesia,74599413,7893029.05,-16.8706,138.0234,Oceania,2026-03-17T03:44:15.944893+00:00
+Villa Aurora 472,República de Villa Aurora 472,RD,TKY,Monte Claro,Africa,Middle Africa,231426701,5802735.91,-0.5135,-3.3621,Africa,2026-03-20T09:09:13.944903+00:00
+Norte Rivania 473,República de Norte Rivania 473,EL,SIO,Nueva Capital,Americas,Central America,166054879,7494269.7,48.5759,-159.723,America,2026-03-08T14:23:38.944912+00:00
+Villa Andina 474,Reino de Villa Andina 474,HV,ZJV,Puerto Central,Europe,Southern Europe,137252747,53860.33,48.9975,0.4046,Europe,2026-03-10T09:46:49.944920+00:00
+Nueva Monteluz 475,Reino de Nueva Monteluz 475,SC,IMV,Monte Claro,Europe,Southern Europe,111235636,3750195.91,69.2799,33.0668,Europe,2026-03-14T23:07:04.944930+00:00
+Puerto Terranova 476,Federación de Puerto Terranova 476,KP,TIE,Ciudad del Sol,Asia,Eastern Asia,66081137,15026266.99,76.8075,33.6718,Asia,2026-03-02T16:12:38.944938+00:00
+Santa Monteluz 477,Federación de Santa Monteluz 477,IW,VIS,Altavista,Oceania,Micronesia,91733075,26374.14,-42.1612,131.5879,Oceania,2025-12-19T01:43:05.944947+00:00
+Valle Monteluz 478,República de Valle Monteluz 478,QT,HQU,Río Blanco,Oceania,Micronesia,35803600,1949073.65,-7.7784,178.1731,Oceania,2026-01-01T16:35:15.944956+00:00
+Norte Libertad 479,Federación de Norte Libertad 479,EP,IAI,Puerto Central,Africa,Northern Africa,50788519,4860972.67,-19.3187,50.413,Africa,2026-03-22T03:35:25.944964+00:00
+Valle Nubaria 480,Federación de Valle Nubaria 480,XK,PRX,Altavista,Asia,Central Asia,85585856,15977245.43,18.0229,26.3751,Asia,2026-01-07T00:32:26.944973+00:00
+San Terranova 481,Reino de San Terranova 481,MK,BUW,Monte Claro,Americas,South America,217137645,15708981.16,40.3601,-110.1119,America,2026-01-17T11:20:25.944981+00:00
+Sur Lunaria 482,Federación de Sur Lunaria 482,GN,OCQ,Altavista,Europe,Northern Europe,59586779,11058884.3,42.5463,-13.5458,Europe,2026-01-27T17:36:14.944990+00:00
+Villa Monteluz 483,Estado de Villa Monteluz 483,AG,DWH,Nueva Capital,Americas,South America,158236167,2561876.22,71.2101,-97.812,America,2026-02-17T00:10:13.944999+00:00
+San Cordelia 484,República de San Cordelia 484,ES,QRE,Monte Claro,Europe,Northern Europe,162448444,454996.12,59.6111,36.4293,Europe,2026-02-26T12:53:02.945007+00:00
+San Estrella 485,Estado de San Estrella 485,LG,BDP,Puerto Azul,Oceania,Australia and New Zealand,5140609,13515359.73,-24.7107,170.8779,Oceania,2025-12-20T12:13:59.945015+00:00
+Norte Venturia 486,República de Norte Venturia 486,JK,RKU,Monte Claro,Asia,Central Asia,96170499,11685291.6,13.5506,127.4935,Asia,2026-01-22T01:35:17.945023+00:00
+Alto Verdevia 487,Reino de Alto Verdevia 487,VI,UKZ,Ciudad Esperanza,Asia,Eastern Asia,207507492,382112.6,38.0384,136.8156,Asia,2026-01-11T21:30:17.945033+00:00
+Bajo Aurora 488,Estado de Bajo Aurora 488,FX,NOE,Río Blanco,Asia,Western Asia,5225089,3749521.87,12.5084,117.7936,Asia,2026-04-05T11:29:18.945041+00:00
+Sur Marfilia 489,Federación de Sur Marfilia 489,EI,JHW,San Aurelio,Oceania,Melanesia,77498814,12171902.88,-31.928,145.6557,Oceania,2026-04-13T06:02:39.945049+00:00
+Costa Cedral 490,Federación de Costa Cedral 490,SL,JJH,Río Blanco,Europe,Western Europe,44033283,4489531.39,36.764,49.7038,Europe,2026-01-09T07:06:15.945057+00:00
+Sur Esperanza 491,República de Sur Esperanza 491,BL,WNN,San Aurelio,Africa,Western Africa,112890406,13857006.88,29.2091,35.1496,Africa,2026-03-13T16:15:16.945065+00:00
+Rio Terranova 492,República de Rio Terranova 492,WV,CVK,Nueva Capital,Americas,South America,177898549,3410333.99,20.7042,-133.8168,America,2026-01-27T09:54:00.945073+00:00
+Gran Novaterra 493,Estado de Gran Novaterra 493,WG,JZQ,Altavista,Asia,Eastern Asia,51275688,6762886.99,23.6988,160.0933,Asia,2025-12-20T10:42:47.945082+00:00
+San Centralia 494,Estado de San Centralia 494,ZC,KPV,Puerto Central,Oceania,Melanesia,93643481,16256540.86,-44.8894,168.4357,Oceania,2026-02-02T20:17:51.945090+00:00
+Rio Libertad 495,Reino de Rio Libertad 495,DJ,NBP,Monte Claro,Africa,Eastern Africa,23608528,1800567.03,27.601,13.4342,Africa,2026-03-17T23:36:09.945099+00:00
+Costa Bosqueland 496,República de Costa Bosqueland 496,XO,JNH,Santa Marina,Africa,Northern Africa,741981,3874469.79,5.23,35.6181,Africa,2026-01-22T06:48:40.945107+00:00
+Costa Libertad 497,Estado de Costa Libertad 497,VE,YDW,Puerto Azul,Oceania,Australia and New Zealand,45824378,15225478.93,-9.7582,160.2324,Oceania,2026-03-22T13:49:03.945116+00:00
+Rio Venturia 498,Reino de Rio Venturia 498,ZK,AII,Villa Norte,Americas,Central America,58318732,4433322.1,-52.5849,-103.8003,America,2026-03-03T20:42:38.945125+00:00
+Villa Altamira 499,Estado de Villa Altamira 499,SX,QOB,Río Blanco,Americas,Central America,147489930,14724539.16,36.8269,-70.055,America,2026-03-04T06:34:04.945133+00:00
+Lago Libertad 500,Federación de Lago Libertad 500,AP,IMZ,Ciudad Esperanza,Europe,Northern Europe,61326989,3129290.25,61.2584,34.3705,Europe,2026-02-05T05:43:25.945141+00:00
+Bajo Terranova 501,Federación de Bajo Terranova 501,DX,VIS,Ciudad Esperanza,Africa,Northern Africa,199770835,10055650.58,-20.4223,19.7767,Africa,2025-12-21T03:48:03.945149+00:00
+Norte Esperanza 502,Estado de Norte Esperanza 502,KM,SDR,Puerto Azul,Europe,Southern Europe,148809618,5375988.95,63.766,-18.9596,Europe,2026-04-13T01:13:30.945157+00:00
+Sur Terranova 503,Reino de Sur Terranova 503,MZ,MNU,Nueva Capital,Asia,Eastern Asia,60894337,14389869.61,10.7705,139.9476,Asia,2026-03-01T01:15:37.945166+00:00
+Costa Pacifica 504,Estado de Costa Pacifica 504,VU,UDM,Santa Marina,Europe,Northern Europe,42072184,13817892.53,59.0149,29.7858,Europe,2026-04-04T21:46:33.945175+00:00
+Valle Nubaria 505,Estado de Valle Nubaria 505,XP,LTM,Puerto Central,Africa,Northern Africa,91906780,15246411.76,31.047,23.1933,Africa,2026-01-31T14:17:33.945183+00:00
+Norte Monteluz 506,Federación de Norte Monteluz 506,OL,ZFP,Capital Nova,Europe,Northern Europe,202577053,3235652.6,57.7677,-12.6588,Europe,2026-01-16T02:46:10.945191+00:00
+Gran Estrella 507,Federación de Gran Estrella 507,ZY,ZOO,Río Blanco,Americas,South America,18808950,7196990.33,-53.283,-81.3806,America,2025-12-18T01:45:18.945201+00:00
+Costa Andina 508,Estado de Costa Andina 508,IZ,WXM,Río Blanco,Asia,Western Asia,98620681,16238561.82,60.821,118.8218,Asia,2026-03-05T14:07:00.945209+00:00
+Gran Claridad 509,Reino de Gran Claridad 509,DQ,JKC,Altavista,Europe,Western Europe,211866272,3214119.38,66.9327,-11.0145,Europe,2026-01-29T22:21:17.945533+00:00
+Valle Solaria 510,Federación de Valle Solaria 510,QT,PRY,San Aurelio,Europe,Southern Europe,121911508,9053604.95,40.3422,-6.6474,Europe,2026-04-04T05:39:38.945568+00:00
+Villa Aurora 511,República de Villa Aurora 511,UU,JAY,Río Blanco,Oceania,Melanesia,245727278,13075563.94,-46.6213,115.1733,Oceania,2026-02-26T18:07:12.945579+00:00
+Bajo Libertad 512,Federación de Bajo Libertad 512,LH,AWO,Villa Norte,Africa,Eastern Africa,191866890,9398956.28,-15.5882,2.1352,Africa,2026-03-16T10:44:01.945589+00:00
+San Brisalia 513,República de San Brisalia 513,FG,UWG,Nueva Capital,Europe,Eastern Europe,25975685,11866328.62,44.1295,-7.2217,Europe,2026-01-02T06:32:42.945599+00:00
+Valle Centralia 514,Reino de Valle Centralia 514,OA,JWZ,Capital Nova,Asia,Western Asia,28946650,14991551.57,50.4132,26.3757,Asia,2026-03-22T06:12:53.945611+00:00
+Puerto Venturia 515,Estado de Puerto Venturia 515,AV,DCB,San Aurelio,Asia,Central Asia,82020499,15860673.74,13.8446,155.9714,Asia,2026-02-01T11:26:15.945619+00:00
+Villa Solaria 516,República de Villa Solaria 516,ZG,AIE,Ciudad del Sol,Europe,Eastern Europe,144424264,3399065.27,63.0646,41.8179,Europe,2026-03-18T18:56:29.945628+00:00
+Villa Aurora 517,Reino de Villa Aurora 517,TA,RSO,Puerto Azul,Europe,Western Europe,238103219,16133288.31,39.2626,28.8149,Europe,2026-02-09T13:14:56.945637+00:00
+Bajo Aurora 518,Federación de Bajo Aurora 518,UI,XYE,Ciudad Esperanza,Europe,Southern Europe,61707781,7489997.64,35.0557,-4.4811,Europe,2026-03-18T03:51:25.945645+00:00
+Valle Rivania 519,Federación de Valle Rivania 519,EO,VGW,San Aurelio,Americas,North America,219361074,2985342.16,-9.2686,-129.125,America,2026-03-27T16:58:59.945654+00:00
+Santa Lunaria 520,República de Santa Lunaria 520,SI,ODF,Puerto Central,Asia,Western Asia,134381269,5790543.67,40.9338,84.1682,Asia,2026-01-26T11:03:38.945662+00:00
+Lago Brisalia 521,Reino de Lago Brisalia 521,IB,HBB,Ciudad del Sol,Asia,Southern Asia,44138927,6844570.34,76.4026,63.1759,Asia,2026-03-29T06:17:09.945671+00:00
+Bajo Novaterra 522,Estado de Bajo Novaterra 522,YU,MST,Altavista,Oceania,Micronesia,78178423,2777152.17,-31.431,151.6942,Oceania,2025-12-31T10:07:44.945681+00:00
+Nueva Brisalia 523,Estado de Nueva Brisalia 523,MN,NWE,San Aurelio,Americas,Central America,191670737,9903565.55,-24.0159,-121.9717,America,2026-04-06T16:18:15.945690+00:00
+Monte Andina 524,Reino de Monte Andina 524,TG,YEI,Ciudad del Sol,Europe,Eastern Europe,85530860,4405210.13,51.5147,14.5189,Europe,2026-01-30T06:08:55.945698+00:00
+Villa Brisalia 525,República de Villa Brisalia 525,MW,QUI,San Aurelio,Africa,Eastern Africa,136694641,818013.59,-27.9879,-15.0578,Africa,2025-12-30T19:55:16.945707+00:00
+Rio Centralia 526,Reino de Rio Centralia 526,VO,SNS,San Aurelio,Africa,Southern Africa,30088256,4971645.53,25.3075,16.2214,Africa,2026-02-06T04:56:23.945715+00:00
+Sur Terranova 527,Reino de Sur Terranova 527,ET,HKH,Puerto Central,Asia,Central Asia,186688880,1387086.07,6.6107,107.5942,Asia,2026-02-24T14:41:27.945725+00:00
+Costa Brisalia 528,Federación de Costa Brisalia 528,VT,OBK,Santa Marina,Oceania,Micronesia,47047462,7685092.6,-43.2991,118.385,Oceania,2026-01-05T23:42:13.945734+00:00
+Sur Claridad 529,Federación de Sur Claridad 529,CB,USK,Ciudad Esperanza,Oceania,Australia and New Zealand,227200994,11793577.73,-38.8772,117.9683,Oceania,2026-04-07T01:43:05.945742+00:00
+Isla Solaria 530,Federación de Isla Solaria 530,KH,MRP,Puerto Central,Europe,Western Europe,149609184,8778213.27,42.9179,55.107,Europe,2025-12-20T17:26:50.945750+00:00
+Lago Aurora 531,República de Lago Aurora 531,QY,DKN,Capital Nova,Africa,Eastern Africa,60469978,16304723.75,19.1036,27.3968,Africa,2026-04-12T21:16:33.945759+00:00
+San Libertad 532,República de San Libertad 532,LL,AXI,Altavista,Africa,Middle Africa,124502874,5012864.37,-29.9827,7.5535,Africa,2025-12-25T12:39:34.945767+00:00
+Norte Solaria 533,Estado de Norte Solaria 533,XB,YAQ,Ciudad Esperanza,Oceania,Australia and New Zealand,163031377,15749445.06,-22.0905,147.2589,Oceania,2025-12-20T04:48:16.945775+00:00
+Bajo Florencia 534,Federación de Bajo Florencia 534,YB,BLR,Ciudad del Sol,Oceania,Micronesia,150616914,1264340.87,-12.3001,168.5596,Oceania,2026-04-02T06:38:26.945783+00:00
+Santa Bosqueland 535,República de Santa Bosqueland 535,OX,JWH,Altavista,Asia,Eastern Asia,90245987,12157665.24,47.3171,158.6265,Asia,2026-01-27T20:20:39.945791+00:00
+Santa Cordelia 536,Reino de Santa Cordelia 536,BD,APP,Monte Claro,Oceania,Melanesia,202776602,13760247.75,-15.0813,133.9846,Oceania,2026-01-07T12:21:07.945800+00:00
+Monte Estrella 537,Federación de Monte Estrella 537,UN,GPW,Santa Marina,Oceania,Australia and New Zealand,132243075,12639075.44,-39.3937,121.7108,Oceania,2026-03-14T09:21:32.945809+00:00
+Costa Marfilia 538,República de Costa Marfilia 538,NI,LXI,San Aurelio,Americas,North America,142113999,16810680.74,-37.6221,-162.1046,America,2025-12-26T23:24:24.945817+00:00
+Monte Nubaria 539,Estado de Monte Nubaria 539,ID,ZVO,Nueva Capital,Africa,Southern Africa,106182696,16171596.44,-12.6705,38.8174,Africa,2026-01-04T23:15:38.945826+00:00
+Alto Cedral 540,Reino de Alto Cedral 540,NY,YFK,Ciudad Esperanza,Africa,Southern Africa,47146432,14728650.82,25.4543,39.0113,Africa,2025-12-20T06:01:16.945834+00:00
+Puerto Marfilia 541,Reino de Puerto Marfilia 541,LV,ZJE,Capital Nova,Europe,Eastern Europe,176314822,15628075.6,44.1981,36.425,Europe,2026-02-13T11:18:08.945842+00:00
+Santa Altamira 542,Estado de Santa Altamira 542,QZ,IMQ,Altavista,Europe,Southern Europe,117203433,15871305.52,41.4014,-2.9362,Europe,2026-03-06T15:25:40.945851+00:00
+Santa Cordelia 543,República de Santa Cordelia 543,HL,YKM,Nueva Capital,Asia,Southeast Asia,76832161,983703.49,56.8966,57.9345,Asia,2026-02-27T11:31:13.945859+00:00
+Isla Rivania 544,Federación de Isla Rivania 544,RC,SJY,Villa Norte,Oceania,Melanesia,161310449,2336112.3,-35.6272,115.7872,Oceania,2026-02-02T11:44:42.945869+00:00
+San Pacifica 545,Federación de San Pacifica 545,PX,SON,Santa Marina,Oceania,Australia and New Zealand,147484916,4321871.43,-16.9878,125.7751,Oceania,2026-04-13T06:53:20.945878+00:00
+Bajo Altamira 546,Reino de Bajo Altamira 546,SW,AJY,Villa Norte,Africa,Southern Africa,207300433,8596669.87,31.1583,37.4451,Africa,2025-12-25T16:44:01.945886+00:00
+Alto Pacifica 547,Federación de Alto Pacifica 547,XE,AQH,Villa Norte,Africa,Eastern Africa,236831921,10636381.22,24.5343,32.1625,Africa,2026-02-02T03:25:10.945895+00:00
+Costa Verdevia 548,República de Costa Verdevia 548,AD,TIP,Santa Marina,Africa,Southern Africa,151518599,2503265.15,34.9359,2.521,Africa,2026-01-09T13:57:46.945904+00:00
+Alto Brisalia 549,Federación de Alto Brisalia 549,DL,BVQ,Río Blanco,Asia,Western Asia,80563808,13040702.23,12.2907,139.2494,Asia,2026-03-19T00:29:57.945913+00:00
+Sur Andina 550,Estado de Sur Andina 550,IF,NHA,Villa Norte,Africa,Eastern Africa,198008615,8501137.49,-29.9292,37.8712,Africa,2026-01-17T20:43:24.945922+00:00
+Nueva Brisalia 551,Reino de Nueva Brisalia 551,UW,KWM,Nueva Capital,Americas,South America,54011960,13331287.11,-41.2135,-78.2034,America,2026-04-14T12:56:28.945930+00:00
+Costa Solaria 552,República de Costa Solaria 552,DY,FTK,Villa Norte,Oceania,Micronesia,60347037,16174076.17,-16.394,169.7233,Oceania,2026-02-27T02:27:58.945938+00:00
+Norte Esperanza 553,Reino de Norte Esperanza 553,CL,UPO,Capital Nova,Europe,Western Europe,21216436,8851081.65,68.9681,23.9019,Europe,2026-01-31T00:15:11.945948+00:00
+Villa Rivania 554,Reino de Villa Rivania 554,IT,QOC,Altavista,Europe,Southern Europe,34198890,10418877.22,39.2002,16.2034,Europe,2026-03-21T04:14:41.945956+00:00
+Lago Solaria 555,Reino de Lago Solaria 555,KX,OPY,Puerto Central,Africa,Eastern Africa,140137786,7311009.46,32.274,43.789,Africa,2026-03-27T16:01:33.945964+00:00
+Gran Andina 556,Federación de Gran Andina 556,RG,VNB,Nueva Capital,Asia,Southeast Asia,191562294,13023894.52,54.7322,25.684,Asia,2025-12-18T11:41:27.945973+00:00
+Puerto Cordelia 557,República de Puerto Cordelia 557,GV,DVW,Ciudad del Sol,Asia,Western Asia,223642774,14973945.64,56.6895,142.9347,Asia,2026-03-01T03:16:45.945983+00:00
+Santa Marfilia 558,Federación de Santa Marfilia 558,DL,UCM,Ciudad del Sol,Asia,Central Asia,126292670,9498827.85,40.7205,119.3255,Asia,2026-03-12T02:35:14.945992+00:00
+Santa Altamira 559,Federación de Santa Altamira 559,FY,ZJW,Puerto Central,Europe,Southern Europe,222802809,13010975.28,40.6793,-9.9425,Europe,2026-01-30T23:19:40.946000+00:00
+Villa Solaria 560,Reino de Villa Solaria 560,BN,DCR,Puerto Azul,Oceania,Micronesia,150544280,2697314.75,-18.5233,137.6266,Oceania,2026-04-02T07:13:28.946008+00:00
+San Solaria 561,Reino de San Solaria 561,MQ,DNQ,Santa Marina,Oceania,Australia and New Zealand,64327278,2285732.67,-0.0665,153.1127,Oceania,2026-01-13T04:49:31.946017+00:00
+Alto Brisalia 562,República de Alto Brisalia 562,UU,ZOP,Monte Claro,Africa,Southern Africa,217990814,9889540.5,-13.8461,42.6413,Africa,2026-01-03T04:47:09.946025+00:00
+Villa Rivania 563,Reino de Villa Rivania 563,CC,JFL,Nueva Capital,Asia,Eastern Asia,120381027,593722.12,2.016,74.4452,Asia,2026-04-14T21:47:24.946033+00:00
+Norte Nubaria 564,Reino de Norte Nubaria 564,ZF,OVQ,Capital Nova,Africa,Middle Africa,189677881,12126833.14,-28.8216,-1.1132,Africa,2025-12-31T18:32:27.946041+00:00
+San Novaterra 565,Federación de San Novaterra 565,XS,HPN,Altavista,Europe,Southern Europe,222627973,170926.54,68.9961,6.5111,Europe,2026-02-15T03:45:30.946050+00:00
+Rio Claridad 566,República de Rio Claridad 566,CI,PLH,Puerto Azul,Africa,Northern Africa,78120667,13111627.72,-10.5126,41.8527,Africa,2026-03-26T07:06:53.946058+00:00
+Nueva Verdevia 567,República de Nueva Verdevia 567,BO,IFE,Puerto Central,Africa,Middle Africa,213173167,1688334.0,11.3034,44.5031,Africa,2026-01-05T20:44:20.946067+00:00
+Rio Verdevia 568,República de Rio Verdevia 568,DG,HYP,Puerto Central,Americas,Caribbean,233485216,11017910.81,-21.4488,-123.0885,America,2026-03-15T07:00:04.946076+00:00
+Isla Andina 569,Reino de Isla Andina 569,OM,TAY,Santa Marina,Americas,Caribbean,108657572,10660301.59,22.9949,-91.2188,America,2026-01-08T09:57:30.946084+00:00
+Monte Monteluz 570,Reino de Monte Monteluz 570,OG,ECE,San Aurelio,Americas,North America,180842112,8549723.05,14.5604,-143.7735,America,2026-03-19T03:29:53.946093+00:00
+Gran Aurora 571,Federación de Gran Aurora 571,KN,GWO,Ciudad del Sol,Oceania,Melanesia,241699322,13980844.06,-11.0,140.7059,Oceania,2026-03-03T14:35:40.946101+00:00
+Villa Lunaria 572,República de Villa Lunaria 572,GF,XYM,Capital Nova,Oceania,Melanesia,88431152,4417505.27,-1.7647,147.6217,Oceania,2026-02-10T13:00:13.946109+00:00
+Monte Brisalia 573,Federación de Monte Brisalia 573,OX,MWY,Capital Nova,Africa,Northern Africa,81615744,11765905.82,-10.353,-12.7722,Africa,2026-02-26T08:48:13.946117+00:00
+Puerto Aurora 574,Reino de Puerto Aurora 574,VW,OPB,Nueva Capital,Asia,Southeast Asia,218543389,7259221.96,30.9379,49.3432,Asia,2026-01-20T08:11:22.946125+00:00
+Bajo Claridad 575,República de Bajo Claridad 575,WQ,FJR,Río Blanco,Oceania,Australia and New Zealand,161473578,6620579.45,-2.5867,110.5145,Oceania,2026-03-20T22:34:43.946134+00:00
+Valle Rivania 576,Federación de Valle Rivania 576,ZF,YLU,Ciudad del Sol,Asia,Western Asia,192592700,9544181.22,67.7709,70.5945,Asia,2026-02-23T09:05:55.946142+00:00
+Rio Rivania 577,Federación de Rio Rivania 577,KA,OYC,San Aurelio,Africa,Eastern Africa,172779740,15839846.35,36.3371,19.8364,Africa,2025-12-24T22:18:24.946152+00:00
+Gran Lunaria 578,Federación de Gran Lunaria 578,VQ,TOQ,San Aurelio,Americas,South America,177764849,12507679.76,-35.6311,-42.7592,America,2026-03-29T13:43:53.946161+00:00
+Valle Terranova 579,Federación de Valle Terranova 579,JI,IFK,Ciudad del Sol,Africa,Eastern Africa,108826548,3585223.76,-2.9656,21.0669,Africa,2025-12-31T07:04:55.946169+00:00
+Nueva Aurora 580,Reino de Nueva Aurora 580,WM,IEJ,Monte Claro,Oceania,Micronesia,719385,11718410.97,-11.499,122.169,Oceania,2026-02-28T19:46:30.946177+00:00
+Norte Florencia 581,República de Norte Florencia 581,BL,MLD,San Aurelio,Europe,Western Europe,72655010,12882858.67,53.604,10.0972,Europe,2026-04-04T14:48:44.946186+00:00
+Rio Bosqueland 582,Estado de Rio Bosqueland 582,WP,IGE,Puerto Azul,Asia,Western Asia,23746965,14571621.06,53.9995,66.1488,Asia,2026-02-01T12:13:19.946218+00:00
+Bajo Florencia 583,Estado de Bajo Florencia 583,IP,MXP,Nueva Capital,Americas,South America,215057783,5837147.04,-21.6132,-167.8453,America,2026-01-15T05:16:32.946230+00:00
+Rio Cedral 584,Federación de Rio Cedral 584,AZ,RSI,Ciudad Esperanza,Africa,Southern Africa,69564189,2315075.12,-8.6404,32.4104,Africa,2026-02-18T07:04:13.946238+00:00
+Costa Terranova 585,Estado de Costa Terranova 585,GM,AYD,Puerto Azul,Oceania,Melanesia,148651182,4129921.23,-39.8113,159.1031,Oceania,2026-03-21T23:11:12.946247+00:00
+Gran Rivania 586,Reino de Gran Rivania 586,CY,PEK,Río Blanco,Asia,Southern Asia,134838619,10048125.42,33.8095,156.3058,Asia,2026-03-25T13:44:49.946256+00:00
+Bajo Centralia 587,República de Bajo Centralia 587,CH,ERB,Altavista,Europe,Eastern Europe,83001993,7157870.95,39.073,-13.7406,Europe,2026-02-13T05:27:00.946265+00:00
+Alto Bosqueland 588,Reino de Alto Bosqueland 588,JJ,XPX,Puerto Central,Europe,Northern Europe,153882480,11319499.18,40.3138,45.5544,Europe,2026-03-15T21:58:23.946319+00:00
+Nueva Terranova 589,Reino de Nueva Terranova 589,OO,EFA,Río Blanco,Americas,Central America,194211723,120763.91,-14.9768,-51.7545,America,2026-03-31T08:30:46.946329+00:00
+Lago Bosqueland 590,Reino de Lago Bosqueland 590,FL,ZSI,Villa Norte,Asia,Southern Asia,102076762,8132223.8,-6.2787,108.4956,Asia,2026-03-02T19:30:11.946338+00:00
+Costa Claridad 591,Estado de Costa Claridad 591,ZF,BBL,Río Blanco,Oceania,Melanesia,36597586,9083087.46,-27.0863,155.593,Oceania,2026-02-01T16:09:52.946347+00:00
+Nueva Marfilia 592,Reino de Nueva Marfilia 592,RR,IOD,Monte Claro,Europe,Northern Europe,167602326,4601122.13,68.8038,46.0813,Europe,2026-02-01T06:14:42.946355+00:00
+Bajo Florencia 593,Federación de Bajo Florencia 593,PW,EFB,Villa Norte,Africa,Western Africa,31437390,8228751.83,18.907,11.2764,Africa,2026-02-15T23:45:33.946363+00:00
+Costa Terranova 594,Reino de Costa Terranova 594,QW,WRP,Ciudad Esperanza,Africa,Western Africa,58858220,14418370.92,-18.4498,11.6721,Africa,2026-01-11T07:37:31.946372+00:00
+Costa Venturia 595,Reino de Costa Venturia 595,DM,WAH,Puerto Azul,Asia,Western Asia,20478373,2327377.66,57.9573,90.235,Asia,2026-04-04T02:21:47.946380+00:00
+Monte Libertad 596,Estado de Monte Libertad 596,JT,UYL,Santa Marina,Africa,Eastern Africa,25431387,8357878.15,18.293,-6.3921,Africa,2026-02-13T18:20:34.946390+00:00
+Puerto Cordelia 597,República de Puerto Cordelia 597,FZ,KJA,Ciudad Esperanza,Asia,Eastern Asia,101049088,12853529.44,41.1055,92.4454,Asia,2026-01-30T11:51:13.946400+00:00
+Gran Florencia 598,Reino de Gran Florencia 598,YK,OHQ,Puerto Central,Americas,Central America,204215970,15043318.59,-4.08,-138.1082,America,2026-01-05T05:33:00.946409+00:00
+Costa Esperanza 599,Estado de Costa Esperanza 599,UH,LAP,Nueva Capital,Europe,Northern Europe,193053598,4140758.73,35.8214,28.7289,Europe,2026-04-11T15:47:07.946417+00:00
+San Florencia 600,Federación de San Florencia 600,ZO,YTR,Monte Claro,Europe,Eastern Europe,18308995,7162014.11,53.2924,-21.2611,Europe,2025-12-31T01:07:44.946425+00:00
+Nueva Terranova 601,Federación de Nueva Terranova 601,OH,QCO,Santa Marina,Oceania,Australia and New Zealand,133831633,8278188.88,-2.8658,118.5273,Oceania,2025-12-29T18:29:36.946434+00:00
+Sur Nubaria 602,República de Sur Nubaria 602,EI,QBX,Capital Nova,Oceania,Australia and New Zealand,140065673,251053.34,-9.3903,155.7369,Oceania,2025-12-22T02:22:37.946442+00:00
+Sur Rivania 603,Estado de Sur Rivania 603,TB,RSV,Nueva Capital,Oceania,Polynesia,1991768,2603661.41,-43.2606,121.1319,Oceania,2026-01-02T13:53:08.946450+00:00
+Monte Nubaria 604,Federación de Monte Nubaria 604,HC,QFT,Altavista,Oceania,Australia and New Zealand,32746964,10033893.9,-19.0319,161.2883,Oceania,2026-03-15T11:54:47.946458+00:00
+Bajo Estrella 605,Federación de Bajo Estrella 605,PX,USP,Altavista,Europe,Western Europe,109818722,3041005.1,68.0741,-18.1689,Europe,2026-03-26T03:23:56.946467+00:00
+Santa Rivania 606,Estado de Santa Rivania 606,RV,JEM,Nueva Capital,Europe,Eastern Europe,149359460,17341920.22,60.1542,8.853,Europe,2026-01-26T11:28:35.946476+00:00
+Santa Monteluz 607,Reino de Santa Monteluz 607,QT,VKV,San Aurelio,Europe,Southern Europe,183002706,10120744.59,38.7122,53.6411,Europe,2026-03-20T22:44:13.946485+00:00
+Gran Centralia 608,Reino de Gran Centralia 608,PP,OPZ,Santa Marina,Asia,Central Asia,175198795,17325822.78,16.4036,157.0183,Asia,2026-01-22T02:56:57.946493+00:00
+San Verdevia 609,Estado de San Verdevia 609,VP,JSX,Puerto Azul,Asia,Western Asia,132186865,14366104.97,-6.894,137.3997,Asia,2026-03-01T21:27:37.946502+00:00
+Isla Cordelia 610,República de Isla Cordelia 610,SK,PNO,Ciudad Esperanza,Americas,South America,150252631,3922892.81,39.4843,-35.6308,America,2026-01-13T06:40:57.946511+00:00
+Alto Andina 611,Federación de Alto Andina 611,YA,VTT,Ciudad Esperanza,Europe,Western Europe,204512633,16846632.35,58.4899,46.1211,Europe,2026-04-13T23:25:08.946519+00:00
+Costa Bosqueland 612,Federación de Costa Bosqueland 612,LI,DLZ,Santa Marina,Europe,Western Europe,140882226,5353474.08,54.6006,9.8161,Europe,2026-03-04T13:18:57.946527+00:00
+Santa Altamira 613,República de Santa Altamira 613,YF,EQA,San Aurelio,Oceania,Melanesia,238543361,15172445.28,-36.197,127.4084,Oceania,2026-02-15T04:20:45.946536+00:00
+Santa Estrella 614,República de Santa Estrella 614,KK,THY,Altavista,Europe,Eastern Europe,135550295,839451.02,70.4009,36.4479,Europe,2025-12-16T21:15:22.946544+00:00
+Puerto Nubaria 615,Estado de Puerto Nubaria 615,DB,HBP,Puerto Central,Africa,Southern Africa,46871562,16690056.93,1.0197,-15.8571,Africa,2026-01-18T15:11:15.946553+00:00
+Alto Estrella 616,Federación de Alto Estrella 616,MH,PZX,Nueva Capital,Asia,Eastern Asia,127420036,13509990.88,71.7917,173.9471,Asia,2026-04-09T09:50:23.946560+00:00
+Alto Esperanza 617,Federación de Alto Esperanza 617,VP,YSU,Puerto Azul,Oceania,Polynesia,237994155,9607105.91,-11.6968,143.5821,Oceania,2026-01-02T12:58:21.946570+00:00
+Villa Novaterra 618,Reino de Villa Novaterra 618,RT,LZV,Monte Claro,Americas,South America,32146427,7623122.92,34.4818,-70.2885,America,2026-01-20T02:03:53.946578+00:00
+Nueva Pacifica 619,Estado de Nueva Pacifica 619,OP,RSY,Ciudad Esperanza,Europe,Eastern Europe,30837019,3518615.37,47.6296,41.2543,Europe,2026-02-10T02:43:33.946586+00:00
+Alto Libertad 620,República de Alto Libertad 620,PD,AVO,Altavista,Americas,North America,95212570,11272224.4,-31.9925,-151.1792,America,2026-03-04T19:41:45.946594+00:00
+Alto Nubaria 621,República de Alto Nubaria 621,ER,EAN,Puerto Central,Oceania,Polynesia,17214718,15619697.63,-38.9916,175.3532,Oceania,2026-04-15T07:59:21.946602+00:00
+Bajo Verdevia 622,República de Bajo Verdevia 622,CS,SOV,Ciudad Esperanza,Europe,Eastern Europe,48024758,4980184.04,70.2001,34.1877,Europe,2026-01-15T11:10:34.946611+00:00
+Bajo Centralia 623,Reino de Bajo Centralia 623,JX,XPI,Villa Norte,Oceania,Polynesia,14321651,8307982.39,-13.462,167.929,Oceania,2026-02-23T08:04:29.946620+00:00
+Gran Esperanza 624,Estado de Gran Esperanza 624,IP,WHO,Santa Marina,Europe,Southern Europe,7204337,3853402.96,48.7639,30.3728,Europe,2026-03-08T15:51:55.946628+00:00
+Gran Lunaria 625,Estado de Gran Lunaria 625,RX,GBJ,Ciudad del Sol,Americas,Caribbean,112009144,8314873.72,43.8596,-111.4834,America,2026-01-02T00:08:02.946636+00:00
+Rio Cedral 626,Reino de Rio Cedral 626,DH,LTA,Monte Claro,Oceania,Australia and New Zealand,14616885,2855652.0,-38.4221,123.6373,Oceania,2026-03-30T16:30:35.946644+00:00
+Puerto Pacifica 627,Reino de Puerto Pacifica 627,NX,NUU,Villa Norte,Asia,Western Asia,111726010,12119465.3,41.7144,169.5055,Asia,2026-03-03T09:19:36.946654+00:00
+Monte Venturia 628,Federación de Monte Venturia 628,RQ,TEI,Monte Claro,Europe,Eastern Europe,236626459,2518171.31,69.3415,38.6046,Europe,2025-12-24T14:19:56.946662+00:00
+Valle Brisalia 629,Federación de Valle Brisalia 629,QO,UUI,Puerto Central,Africa,Middle Africa,165411549,14984257.38,27.4638,-3.012,Africa,2026-02-26T15:04:41.946670+00:00
+Monte Altamira 630,República de Monte Altamira 630,LB,DQV,Santa Marina,Oceania,Australia and New Zealand,27586978,10322465.71,-11.4078,143.8844,Oceania,2026-02-26T19:13:14.946678+00:00
+Lago Florencia 631,Estado de Lago Florencia 631,VT,JOI,Puerto Central,Asia,Eastern Asia,167181926,1869371.46,28.1158,62.2624,Asia,2026-02-10T07:06:58.946686+00:00
+Rio Nubaria 632,Federación de Rio Nubaria 632,MN,JLD,Ciudad del Sol,Americas,South America,222966762,5873968.85,-35.1627,-131.6326,America,2025-12-22T04:49:10.946694+00:00
+Norte Marfilia 633,Reino de Norte Marfilia 633,BA,FPR,Altavista,Americas,Central America,171944731,13657149.82,44.0374,-53.3427,America,2025-12-25T21:12:02.946703+00:00
+Isla Andina 634,Estado de Isla Andina 634,OA,ELG,San Aurelio,Europe,Western Europe,183018201,10868594.05,70.2038,-18.3827,Europe,2026-02-01T14:17:27.946711+00:00
+Santa Novaterra 635,Estado de Santa Novaterra 635,ZL,LJH,Nueva Capital,Africa,Northern Africa,122259913,16530592.93,-10.7482,27.0349,Africa,2026-03-05T01:44:47.946719+00:00
+Isla Andina 636,Reino de Isla Andina 636,HZ,HWO,Ciudad del Sol,Europe,Northern Europe,15315924,2764204.33,61.2877,-11.8649,Europe,2026-01-20T22:44:38.946727+00:00
+San Venturia 637,República de San Venturia 637,DI,HTB,Monte Claro,Europe,Eastern Europe,111480049,7503202.2,49.2086,53.286,Europe,2026-03-25T06:02:10.946736+00:00
+Costa Venturia 638,Estado de Costa Venturia 638,OD,YQG,Villa Norte,Oceania,Polynesia,174940517,16429082.07,-9.9811,150.514,Oceania,2026-02-22T19:00:36.946745+00:00
+Nueva Cordelia 639,Estado de Nueva Cordelia 639,EN,OUS,Río Blanco,Africa,Southern Africa,105156448,5319396.07,-21.0384,38.9972,Africa,2025-12-25T12:26:19.946754+00:00
+Villa Nubaria 640,Reino de Villa Nubaria 640,ZO,PXK,Puerto Central,Africa,Northern Africa,25624797,7252766.44,-15.1333,-13.7916,Africa,2026-02-17T06:17:43.946762+00:00
+Monte Altamira 641,Estado de Monte Altamira 641,QX,OXT,Ciudad del Sol,Africa,Eastern Africa,236583154,12625849.78,-28.2461,21.5889,Africa,2026-02-07T11:45:46.946771+00:00
+Valle Novaterra 642,República de Valle Novaterra 642,VR,ULS,San Aurelio,Americas,Central America,53171209,1678144.78,69.8561,-49.9138,America,2026-03-01T09:37:39.946780+00:00
+Norte Lunaria 643,Estado de Norte Lunaria 643,EO,JYU,Villa Norte,Europe,Northern Europe,160959819,9694560.95,69.7513,47.0408,Europe,2025-12-25T14:10:44.946788+00:00
+Alto Marfilia 644,Federación de Alto Marfilia 644,AQ,VDY,Monte Claro,Americas,North America,8941960,14837763.76,-45.4654,-57.1106,America,2026-04-02T07:35:07.946796+00:00
+San Venturia 645,Reino de San Venturia 645,CW,NTI,Altavista,Asia,Eastern Asia,171630851,9537109.21,-9.9115,52.0564,Asia,2026-03-29T10:40:46.946805+00:00
+Santa Florencia 646,Reino de Santa Florencia 646,LH,EFK,Santa Marina,Oceania,Melanesia,218729948,10601925.09,-40.0817,121.7325,Oceania,2026-01-10T14:52:31.946815+00:00
+Lago Estrella 647,Reino de Lago Estrella 647,TL,QAY,San Aurelio,Oceania,Melanesia,17368743,13638646.48,-30.9481,149.8816,Oceania,2026-03-22T08:20:24.946824+00:00
+Norte Bosqueland 648,Estado de Norte Bosqueland 648,RI,WNL,Altavista,Asia,Eastern Asia,214509641,15878973.37,50.5243,109.5778,Asia,2025-12-16T17:15:48.946832+00:00
+Valle Marfilia 649,Reino de Valle Marfilia 649,CE,IAK,Puerto Central,Oceania,Polynesia,150581612,9516898.0,-25.3535,133.8564,Oceania,2026-03-29T08:52:05.946840+00:00
+San Nubaria 650,República de San Nubaria 650,GQ,QHD,Capital Nova,Asia,Eastern Asia,183883138,10055263.51,57.5843,39.051,Asia,2026-01-13T10:35:10.946848+00:00
+San Solaria 651,Estado de San Solaria 651,ZH,XNO,Río Blanco,Europe,Northern Europe,203986613,12525649.06,41.2254,55.1943,Europe,2025-12-28T17:23:47.946857+00:00
+Sur Brisalia 652,República de Sur Brisalia 652,BL,MSQ,San Aurelio,Oceania,Melanesia,49298252,17398351.54,-10.7097,142.2047,Oceania,2025-12-23T18:08:44.946865+00:00
+Puerto Brisalia 653,República de Puerto Brisalia 653,TC,DUA,Monte Claro,Americas,Caribbean,180347300,105865.3,65.9067,-30.7717,America,2026-04-02T00:59:36.946873+00:00
+San Brisalia 654,Reino de San Brisalia 654,QK,HRV,Ciudad Esperanza,Europe,Eastern Europe,74286446,10256002.3,69.0877,37.333,Europe,2026-02-15T08:29:49.946882+00:00
+Monte Pacifica 655,Reino de Monte Pacifica 655,PW,KBV,Santa Marina,Europe,Western Europe,9806187,14940012.91,42.5392,30.3341,Europe,2026-03-10T01:04:55.946890+00:00
+Rio Monteluz 656,República de Rio Monteluz 656,YV,LOD,Monte Claro,Europe,Northern Europe,4149675,6880595.34,69.1819,50.4401,Europe,2026-03-21T09:36:35.946898+00:00
+Alto Venturia 657,República de Alto Venturia 657,UW,NZO,Nueva Capital,Africa,Southern Africa,196975134,4652279.38,1.3432,34.8558,Africa,2025-12-22T00:42:00.946907+00:00
+Rio Marfilia 658,Estado de Rio Marfilia 658,NY,DLY,Puerto Azul,Americas,South America,81034363,15832993.75,-11.6078,-108.5836,America,2026-01-07T19:09:01.946916+00:00
+Isla Solaria 659,República de Isla Solaria 659,AI,KRJ,Río Blanco,Europe,Southern Europe,78386726,2546774.4,69.0924,38.3552,Europe,2026-03-10T09:42:59.946924+00:00
+Villa Nubaria 660,Federación de Villa Nubaria 660,KL,TNS,Monte Claro,Asia,Southeast Asia,228412170,3942669.84,7.7605,88.7403,Asia,2026-01-15T09:58:12.946932+00:00
+Gran Andina 661,Reino de Gran Andina 661,KQ,AGS,Altavista,Asia,Southeast Asia,69095676,4700864.5,59.5289,92.1707,Asia,2026-02-22T17:36:22.946940+00:00
+Nueva Brisalia 662,Reino de Nueva Brisalia 662,PI,WJC,Ciudad Esperanza,Americas,Caribbean,177514186,3585716.06,1.9637,-86.501,America,2026-03-08T19:39:24.946948+00:00
+Villa Novaterra 663,Reino de Villa Novaterra 663,BA,KRZ,Villa Norte,Asia,Central Asia,153014920,11316590.27,-0.852,61.3268,Asia,2026-01-23T11:32:19.946956+00:00
+Isla Claridad 664,República de Isla Claridad 664,KQ,WTT,Ciudad del Sol,Americas,Caribbean,180495618,7042847.91,30.8194,-89.4525,America,2025-12-28T23:00:51.946964+00:00
+Isla Marfilia 665,República de Isla Marfilia 665,UL,ULW,Capital Nova,Europe,Western Europe,110164601,7610001.11,60.6364,33.291,Europe,2026-02-27T12:46:21.946972+00:00
+Lago Rivania 666,República de Lago Rivania 666,QD,SKJ,Villa Norte,Oceania,Melanesia,110015975,4693266.93,-5.2716,133.2728,Oceania,2026-03-17T01:03:27.946980+00:00
+Santa Altamira 667,República de Santa Altamira 667,RV,SSF,Río Blanco,Europe,Western Europe,164167843,13281064.05,46.3014,47.3894,Europe,2026-02-15T22:42:22.946993+00:00
+Costa Altamira 668,Reino de Costa Altamira 668,MB,PRH,Altavista,Americas,North America,55905894,5589935.86,-36.0113,-93.6018,America,2026-03-12T23:01:49.947002+00:00
+Bajo Solaria 669,República de Bajo Solaria 669,AI,JNG,Villa Norte,Oceania,Melanesia,242538292,6955871.55,-4.506,154.4197,Oceania,2026-01-22T21:24:28.947010+00:00
+San Rivania 670,Estado de San Rivania 670,ZW,RJJ,Puerto Central,Europe,Western Europe,130883756,10491631.17,60.1854,13.4467,Europe,2026-02-28T06:52:54.947018+00:00
+Gran Lunaria 671,Reino de Gran Lunaria 671,AK,GVB,Río Blanco,Africa,Northern Africa,38687836,3718406.8,15.8381,15.32,Africa,2026-01-03T08:07:52.947026+00:00
+Costa Libertad 672,Reino de Costa Libertad 672,MC,ABG,Santa Marina,Oceania,Micronesia,103950106,5818103.85,-2.0672,131.4301,Oceania,2026-03-10T20:36:09.947034+00:00
+Monte Libertad 673,Reino de Monte Libertad 673,YZ,CBX,Altavista,Europe,Eastern Europe,208981261,17456089.9,50.8808,42.1638,Europe,2026-01-08T09:40:23.947043+00:00
+Lago Andina 674,Reino de Lago Andina 674,EK,RTM,Villa Norte,Europe,Western Europe,133920491,17305458.67,36.2568,25.4408,Europe,2026-01-24T01:22:53.947052+00:00
+Nueva Rivania 675,Reino de Nueva Rivania 675,AU,KQA,Monte Claro,Africa,Middle Africa,144724577,11699323.14,-3.8181,12.1022,Africa,2026-02-10T12:44:13.947060+00:00
+Gran Terranova 676,República de Gran Terranova 676,KG,ZVW,Villa Norte,Europe,Southern Europe,84195343,7537766.44,55.0836,7.3359,Europe,2026-03-29T02:43:15.947068+00:00
+Rio Brisalia 677,Estado de Rio Brisalia 677,LP,BHL,Santa Marina,Africa,Eastern Africa,21516282,13366023.21,-7.8018,47.2776,Africa,2025-12-23T22:15:03.947077+00:00
+Bajo Cordelia 678,Reino de Bajo Cordelia 678,IX,JIH,Ciudad Esperanza,Africa,Middle Africa,9016207,5180195.77,7.094,45.5937,Africa,2025-12-26T18:50:08.947087+00:00
+Bajo Rivania 679,Reino de Bajo Rivania 679,LV,VSE,Santa Marina,Asia,Southern Asia,213040642,2081362.64,25.2392,37.9671,Asia,2026-04-03T08:55:02.947095+00:00
+Valle Rivania 680,Reino de Valle Rivania 680,EP,OKV,Altavista,Asia,Central Asia,184407148,9570840.29,69.2408,50.5588,Asia,2026-01-16T22:41:09.947105+00:00
+Lago Venturia 681,República de Lago Venturia 681,AC,MFA,Monte Claro,Europe,Southern Europe,169904583,12919100.1,65.9979,34.848,Europe,2026-03-09T19:03:22.947113+00:00
+Valle Claridad 682,Estado de Valle Claridad 682,TO,LRO,Nueva Capital,Asia,Western Asia,239868527,6260094.17,47.9049,99.6479,Asia,2026-02-24T11:54:58.947121+00:00
+Norte Rivania 683,Federación de Norte Rivania 683,PM,FQJ,Ciudad Esperanza,Europe,Western Europe,182314884,9462055.24,49.6934,39.7894,Europe,2026-03-18T15:23:06.947129+00:00
+Nueva Libertad 684,República de Nueva Libertad 684,DF,RZV,Altavista,Americas,Central America,151222928,4695060.65,49.9222,-121.5346,America,2026-03-03T23:19:53.947138+00:00
+Puerto Monteluz 685,Federación de Puerto Monteluz 685,YQ,FNW,San Aurelio,Americas,North America,199881549,16517588.79,67.8254,-83.8244,America,2026-02-11T03:46:16.947147+00:00
+San Cordelia 686,Estado de San Cordelia 686,UY,ECP,Ciudad del Sol,Europe,Eastern Europe,145090640,1985712.87,43.527,49.0196,Europe,2026-03-24T16:38:23.947156+00:00
+San Andina 687,Reino de San Andina 687,KD,PUZ,Capital Nova,Asia,Southern Asia,27704631,4475321.57,4.3055,160.3381,Asia,2026-02-17T06:18:15.947165+00:00
+Norte Centralia 688,Federación de Norte Centralia 688,LB,DEK,Ciudad Esperanza,Asia,Southeast Asia,217074478,7154290.06,56.508,153.6738,Asia,2026-02-04T15:14:22.947173+00:00
+Alto Verdevia 689,República de Alto Verdevia 689,XH,MBL,San Aurelio,Oceania,Polynesia,176612987,12900863.43,-28.398,145.0542,Oceania,2026-01-06T09:17:43.947181+00:00
+Bajo Libertad 690,República de Bajo Libertad 690,PR,IWJ,Ciudad Esperanza,Americas,Central America,167944580,4739287.05,-53.9152,-152.9755,America,2026-03-23T04:00:13.947204+00:00
+Valle Nubaria 691,Reino de Valle Nubaria 691,RD,IRE,Nueva Capital,Africa,Eastern Africa,73835307,4856254.47,-6.8731,26.1941,Africa,2026-03-22T16:55:40.947217+00:00
+Valle Cordelia 692,República de Valle Cordelia 692,XC,EWK,San Aurelio,Americas,North America,208335736,7922748.65,17.7191,-111.7059,America,2026-01-16T06:53:29.947225+00:00
+Rio Monteluz 693,República de Rio Monteluz 693,XK,WCG,Altavista,Americas,North America,220375802,2865850.32,-22.152,-77.7656,America,2026-02-28T12:19:53.947234+00:00
+Sur Claridad 694,República de Sur Claridad 694,UD,ESZ,Santa Marina,Asia,Southeast Asia,4059320,8864253.73,9.6218,104.9048,Asia,2026-01-28T08:00:56.947242+00:00
+Alto Estrella 695,República de Alto Estrella 695,BC,RGF,Río Blanco,Europe,Western Europe,237752657,16668862.29,41.4178,20.1458,Europe,2026-03-09T09:54:55.947251+00:00
+Sur Terranova 696,Estado de Sur Terranova 696,HY,FFR,Río Blanco,Oceania,Polynesia,23595408,8102928.93,-17.9182,121.6567,Oceania,2026-01-10T01:19:11.947259+00:00
+Nueva Cedral 697,Reino de Nueva Cedral 697,TJ,ISH,Monte Claro,Europe,Western Europe,37217928,8015729.23,62.8043,16.0242,Europe,2026-04-15T11:23:39.947269+00:00
+Gran Florencia 698,Federación de Gran Florencia 698,KP,DSE,Santa Marina,Asia,Southern Asia,157097635,1689726.86,57.0777,81.318,Asia,2025-12-20T13:29:12.947277+00:00
+Costa Marfilia 699,Estado de Costa Marfilia 699,XE,KHX,Capital Nova,Africa,Northern Africa,81803225,15616361.43,-11.8769,-9.8615,Africa,2026-03-13T02:54:50.947286+00:00
+Norte Novaterra 700,Reino de Norte Novaterra 700,XW,HAN,Monte Claro,Americas,North America,36307664,14649594.8,-15.7732,-53.818,America,2026-04-04T05:26:11.947294+00:00
+Alto Esperanza 701,República de Alto Esperanza 701,IH,TJS,Villa Norte,Europe,Southern Europe,60623565,3117370.63,63.5185,-15.4676,Europe,2026-04-12T13:15:12.947302+00:00
+Puerto Libertad 702,Estado de Puerto Libertad 702,DQ,ZVP,Altavista,Oceania,Melanesia,124688060,5142748.3,-11.9867,144.5584,Oceania,2026-03-12T16:01:03.947310+00:00
+Isla Monteluz 703,República de Isla Monteluz 703,NC,CEK,Altavista,Americas,Central America,6741223,8195344.28,-33.1031,-69.8328,America,2026-02-16T14:49:58.947319+00:00
+Valle Pacifica 704,Reino de Valle Pacifica 704,BL,SIL,Puerto Azul,Americas,Central America,164314406,10968906.36,1.6377,-90.7097,America,2025-12-31T18:49:30.947327+00:00
+Monte Centralia 705,Federación de Monte Centralia 705,IS,NZT,Puerto Azul,Africa,Eastern Africa,113418669,15819700.61,23.521,22.2118,Africa,2026-04-15T18:55:22.947336+00:00
+Isla Nubaria 706,Estado de Isla Nubaria 706,PF,DYQ,Nueva Capital,Africa,Northern Africa,133156548,785469.7,-11.3764,22.0402,Africa,2026-02-05T14:21:19.947345+00:00
+Sur Andina 707,República de Sur Andina 707,SV,LBO,Santa Marina,Europe,Western Europe,238501666,2977732.74,41.346,39.7717,Europe,2026-02-27T19:23:08.947354+00:00
+Puerto Claridad 708,Estado de Puerto Claridad 708,CG,BKV,Puerto Central,Americas,North America,227802245,2884015.8,12.2477,-159.4622,America,2026-01-22T05:52:37.947362+00:00
+Villa Terranova 709,Federación de Villa Terranova 709,CL,XPL,Río Blanco,Americas,Caribbean,34621857,12892460.28,-21.043,-93.2199,America,2026-01-12T11:57:31.947371+00:00
+Valle Terranova 710,República de Valle Terranova 710,LB,JHN,Puerto Central,Africa,Western Africa,93561725,12837521.19,3.2764,29.6887,Africa,2026-03-19T00:46:02.947379+00:00
+Nueva Lunaria 711,Reino de Nueva Lunaria 711,VG,KPU,Puerto Azul,Asia,Western Asia,129077836,8771103.75,5.5982,117.2446,Asia,2026-03-07T11:59:53.947387+00:00
+Bajo Lunaria 712,Federación de Bajo Lunaria 712,DU,OMB,Puerto Central,Asia,Eastern Asia,170537027,13368704.56,-9.6288,62.5168,Asia,2026-03-16T16:12:55.947395+00:00
+Monte Esperanza 713,República de Monte Esperanza 713,ZM,MHL,Puerto Central,Oceania,Australia and New Zealand,27908984,8469000.15,-3.1029,110.558,Oceania,2026-02-22T07:04:17.947404+00:00
+Monte Andina 714,República de Monte Andina 714,GH,QXW,Puerto Azul,Oceania,Polynesia,33233196,7717643.58,-9.2867,132.9885,Oceania,2025-12-27T21:47:46.947412+00:00
+Monte Terranova 715,República de Monte Terranova 715,XZ,HOC,Puerto Azul,Americas,North America,164687138,16307988.37,35.3664,-75.2998,America,2026-01-09T03:43:41.947421+00:00
+Villa Altamira 716,Estado de Villa Altamira 716,XT,YJS,Puerto Azul,Europe,Southern Europe,27545077,7624859.95,41.1129,-21.7568,Europe,2026-02-27T04:30:08.947430+00:00
+Bajo Pacifica 717,Reino de Bajo Pacifica 717,JP,IYD,Villa Norte,Africa,Middle Africa,174952806,423010.69,-33.773,16.4073,Africa,2025-12-31T10:24:16.947442+00:00
+Santa Altamira 718,República de Santa Altamira 718,UB,PVR,Nueva Capital,Africa,Middle Africa,154186096,14536850.34,6.1958,13.9357,Africa,2026-03-21T15:28:33.947450+00:00
+Costa Esperanza 719,República de Costa Esperanza 719,OW,BGQ,Puerto Azul,Africa,Eastern Africa,136335539,10233111.77,22.014,36.4039,Africa,2026-01-27T23:32:22.947458+00:00
+Rio Brisalia 720,Federación de Rio Brisalia 720,RL,UKS,Capital Nova,Africa,Eastern Africa,235437135,14295044.28,-24.4451,9.8783,Africa,2026-03-03T01:58:50.947466+00:00
+Puerto Novaterra 721,Reino de Puerto Novaterra 721,GR,CNR,Nueva Capital,Oceania,Australia and New Zealand,148112455,9625906.49,-41.3131,155.9788,Oceania,2026-04-03T15:31:55.947474+00:00
+Valle Aurora 722,Reino de Valle Aurora 722,DG,NZJ,Altavista,Oceania,Polynesia,194840959,3634486.3,-13.4398,124.6872,Oceania,2025-12-25T15:48:39.947482+00:00
+Villa Bosqueland 723,Estado de Villa Bosqueland 723,NC,SUW,Río Blanco,Asia,Southeast Asia,133981482,92720.64,7.4415,120.2217,Asia,2026-02-22T08:23:39.947491+00:00
+Nueva Solaria 724,Estado de Nueva Solaria 724,KQ,QWV,Santa Marina,Europe,Southern Europe,248382743,9201166.43,66.1047,14.272,Europe,2026-03-16T18:19:54.947500+00:00
+Villa Pacifica 725,Federación de Villa Pacifica 725,CA,GJD,Altavista,Oceania,Polynesia,176382515,7718062.62,-1.4374,132.4996,Oceania,2026-02-09T17:50:43.947508+00:00
+San Venturia 726,Reino de San Venturia 726,EI,RWR,Capital Nova,Asia,Southern Asia,166253802,1751231.9,13.9236,43.6949,Asia,2026-03-24T23:28:14.947517+00:00
+Valle Brisalia 727,Federación de Valle Brisalia 727,CB,EFZ,San Aurelio,Americas,Central America,183881200,12318181.46,-19.701,-37.225,America,2026-01-11T05:59:57.947526+00:00
+Gran Novaterra 728,Federación de Gran Novaterra 728,YX,XZQ,Nueva Capital,Asia,Southern Asia,58823790,7041725.75,58.8856,95.2625,Asia,2026-03-05T04:12:23.947535+00:00
+Santa Estrella 729,Federación de Santa Estrella 729,UE,QVL,Altavista,Americas,South America,3993397,3174950.59,-21.321,-148.8256,America,2026-04-14T16:19:46.947543+00:00
+Valle Centralia 730,Reino de Valle Centralia 730,IV,ETH,Ciudad Esperanza,Americas,Central America,164437907,4749246.0,-28.1677,-142.8908,America,2026-01-07T16:04:42.947551+00:00
+Isla Pacifica 731,República de Isla Pacifica 731,RZ,GPF,Monte Claro,Africa,Southern Africa,150099661,17087160.65,26.6768,27.5152,Africa,2026-04-01T22:34:11.947559+00:00
+Costa Cordelia 732,Federación de Costa Cordelia 732,PD,PZG,Ciudad Esperanza,Asia,Eastern Asia,174320468,4724322.54,41.2393,90.4089,Asia,2026-02-10T00:04:21.947568+00:00
+Bajo Claridad 733,Federación de Bajo Claridad 733,IH,EZF,Nueva Capital,Asia,Central Asia,185996789,9497153.31,73.2904,58.9704,Asia,2025-12-22T09:04:44.947575+00:00
+Isla Aurora 734,Federación de Isla Aurora 734,CC,YMF,Villa Norte,Americas,Caribbean,213236780,5755250.12,19.7943,-32.2157,America,2026-02-18T05:16:26.947584+00:00
+Valle Lunaria 735,República de Valle Lunaria 735,TF,KPD,Puerto Central,Americas,Caribbean,168380403,7437219.31,-11.9633,-97.1907,America,2026-01-23T00:31:28.947592+00:00
+Isla Marfilia 736,Federación de Isla Marfilia 736,YX,RKF,Ciudad del Sol,Europe,Eastern Europe,207950325,358501.0,50.2506,16.1764,Europe,2025-12-24T06:45:49.947600+00:00
+Puerto Andina 737,Estado de Puerto Andina 737,TQ,OMY,Nueva Capital,Europe,Western Europe,22296509,1014037.26,36.7564,26.7713,Europe,2026-03-12T23:36:27.947611+00:00
+Puerto Terranova 738,Federación de Puerto Terranova 738,PB,EAB,Monte Claro,Asia,Eastern Asia,47546798,14739536.78,-1.8809,87.7757,Asia,2026-03-13T00:18:31.947619+00:00
+San Esperanza 739,Federación de San Esperanza 739,SF,PAE,San Aurelio,Americas,South America,101105979,14519234.16,51.452,-50.9687,America,2026-02-22T18:13:34.947627+00:00
+Sur Bosqueland 740,Reino de Sur Bosqueland 740,WF,KZT,Capital Nova,Americas,North America,230601047,9624753.28,-36.9599,-79.5215,America,2026-01-02T06:39:53.947635+00:00
+Isla Novaterra 741,Federación de Isla Novaterra 741,OD,NXV,San Aurelio,Asia,Eastern Asia,238183629,7882731.44,13.8206,39.5653,Asia,2026-02-22T07:57:37.947643+00:00
+Rio Solaria 742,Reino de Rio Solaria 742,JW,ZWB,Villa Norte,Asia,Southeast Asia,142950115,565257.71,-3.5744,69.0523,Asia,2026-02-26T09:46:52.947651+00:00
+Valle Marfilia 743,Reino de Valle Marfilia 743,TK,PCR,Puerto Central,Oceania,Melanesia,5241348,128234.19,-13.9418,132.7443,Oceania,2026-01-25T21:59:01.947660+00:00
+Monte Novaterra 744,Reino de Monte Novaterra 744,JK,CPA,Ciudad del Sol,Asia,Southern Asia,152088160,12237212.33,12.7892,166.5044,Asia,2026-01-10T21:58:22.947668+00:00
+Rio Rivania 745,Reino de Rio Rivania 745,CX,DEA,Ciudad del Sol,Americas,Central America,125560864,17310157.13,55.538,-87.5227,America,2026-03-29T19:47:13.947676+00:00
+Villa Monteluz 746,Estado de Villa Monteluz 746,OX,WRA,Santa Marina,Africa,Northern Africa,141984841,8584652.55,0.7781,41.9715,Africa,2025-12-29T13:33:48.947837+00:00
+Villa Solaria 747,República de Villa Solaria 747,VO,LPC,Monte Claro,Americas,Central America,106421370,1526258.79,17.1754,-34.3314,America,2026-03-13T20:05:37.947850+00:00
+Santa Nubaria 748,República de Santa Nubaria 748,OR,FPF,Monte Claro,Americas,South America,209468632,4583645.42,-5.5383,-119.7115,America,2026-03-19T13:28:56.947859+00:00
+Valle Cordelia 749,Estado de Valle Cordelia 749,TE,XIP,Altavista,Europe,Southern Europe,100935395,17457842.86,48.5686,-18.1309,Europe,2026-01-31T22:02:03.947869+00:00
+Costa Pacifica 750,Federación de Costa Pacifica 750,PY,CRU,Capital Nova,Africa,Eastern Africa,191157384,1787928.58,-10.9418,24.2307,Africa,2026-01-24T00:06:33.947879+00:00
+Lago Terranova 751,República de Lago Terranova 751,CD,IQW,Villa Norte,Europe,Southern Europe,109338772,9479763.97,66.4924,37.5288,Europe,2026-04-08T04:04:27.947887+00:00
+Rio Marfilia 752,Reino de Rio Marfilia 752,SE,ZWG,Santa Marina,Europe,Northern Europe,152166007,11887240.85,47.8038,52.0981,Europe,2026-02-19T00:57:16.947896+00:00
+Norte Libertad 753,Reino de Norte Libertad 753,QK,FYW,Santa Marina,Americas,North America,82381614,16173577.34,6.5656,-70.5257,America,2026-01-29T06:13:33.947904+00:00
+Gran Rivania 754,Estado de Gran Rivania 754,YB,FMJ,Capital Nova,Americas,North America,162774477,5053124.86,12.8802,-32.7169,America,2026-02-23T08:47:53.947913+00:00
+Norte Claridad 755,Federación de Norte Claridad 755,CG,ZQE,Capital Nova,Africa,Eastern Africa,120813241,1429540.58,-1.7384,7.6553,Africa,2026-01-12T04:51:17.947921+00:00
+Villa Aurora 756,Reino de Villa Aurora 756,UX,DVR,Puerto Central,Asia,Eastern Asia,127809438,2390194.65,58.99,76.3092,Asia,2025-12-22T13:58:26.947929+00:00
+Sur Altamira 757,República de Sur Altamira 757,FU,IBV,Santa Marina,Asia,Southern Asia,189639889,8090428.81,76.7858,144.6711,Asia,2026-02-09T03:54:30.947938+00:00
+Rio Terranova 758,República de Rio Terranova 758,DC,NDP,Villa Norte,Asia,Southeast Asia,221894308,2201832.08,47.8823,39.7616,Asia,2026-04-07T06:01:50.947946+00:00
+Isla Altamira 759,Reino de Isla Altamira 759,KK,TWP,Ciudad del Sol,Asia,Eastern Asia,3744482,170043.13,-9.8992,143.3606,Asia,2026-04-05T14:33:28.947955+00:00
+Costa Novaterra 760,Federación de Costa Novaterra 760,IT,JBJ,Altavista,Asia,Western Asia,125733537,10920818.13,43.2071,47.7075,Asia,2025-12-31T21:26:15.947963+00:00
+San Libertad 761,Federación de San Libertad 761,PK,PXN,Altavista,Americas,Central America,63076927,3340187.94,-20.0716,-85.201,America,2026-02-16T23:25:45.947971+00:00
+San Andina 762,República de San Andina 762,IG,LSE,Ciudad del Sol,Oceania,Polynesia,37087298,12920222.8,-0.5273,118.2194,Oceania,2026-02-19T01:20:09.947980+00:00
+Isla Estrella 763,República de Isla Estrella 763,HZ,DWF,Ciudad del Sol,Oceania,Melanesia,71186862,7238921.42,-32.0121,172.4562,Oceania,2026-03-24T05:10:47.947988+00:00
+Gran Nubaria 764,Estado de Gran Nubaria 764,SU,YSN,Nueva Capital,Asia,Southeast Asia,243561036,6582686.67,54.3323,70.7283,Asia,2026-01-24T14:47:01.947996+00:00
+Alto Marfilia 765,Federación de Alto Marfilia 765,BH,DFH,Santa Marina,Oceania,Micronesia,144279482,1472207.01,-23.955,151.764,Oceania,2026-01-05T15:34:48.948004+00:00
+Nueva Brisalia 766,República de Nueva Brisalia 766,EM,XSI,Río Blanco,Africa,Eastern Africa,247425140,13815200.56,-27.8636,27.8906,Africa,2026-03-08T16:51:40.948014+00:00
+Alto Pacifica 767,Reino de Alto Pacifica 767,IX,SKY,Capital Nova,Europe,Eastern Europe,166102658,14084360.29,58.7062,-3.1501,Europe,2026-01-03T14:13:49.948025+00:00
+Rio Libertad 768,República de Rio Libertad 768,FT,JFD,Río Blanco,Asia,Southern Asia,14827407,5526112.97,41.292,166.4058,Asia,2026-02-07T19:04:11.948033+00:00
+Puerto Monteluz 769,Federación de Puerto Monteluz 769,XP,JSJ,Capital Nova,Africa,Middle Africa,170548693,28910.69,23.8384,50.3753,Africa,2026-01-24T06:35:29.948043+00:00
+Isla Lunaria 770,Estado de Isla Lunaria 770,MD,MAO,Villa Norte,Americas,Caribbean,51660444,3215144.79,-29.393,-69.6842,America,2025-12-16T18:17:24.948051+00:00
+Valle Verdevia 771,Reino de Valle Verdevia 771,KU,UHC,Villa Norte,Africa,Western Africa,117857211,7595724.83,15.2204,25.0127,Africa,2026-01-03T20:58:44.948059+00:00
+Costa Centralia 772,Estado de Costa Centralia 772,AA,ZAT,Altavista,Oceania,Micronesia,145705528,7514817.97,-13.6259,164.0429,Oceania,2026-01-25T12:39:12.948067+00:00
+Santa Nubaria 773,Reino de Santa Nubaria 773,VY,HLC,Santa Marina,Africa,Southern Africa,72617053,4770887.92,18.7653,46.9218,Africa,2026-02-22T00:22:42.948076+00:00
+Santa Libertad 774,Estado de Santa Libertad 774,LX,TRN,Santa Marina,Oceania,Micronesia,108312083,16941543.36,-47.3504,130.7675,Oceania,2026-01-07T22:38:38.948084+00:00
+Valle Cordelia 775,Federación de Valle Cordelia 775,FB,OZV,Ciudad del Sol,Europe,Northern Europe,91368763,6590909.67,58.7418,-19.4571,Europe,2026-03-20T05:14:46.948092+00:00
+Santa Florencia 776,República de Santa Florencia 776,WX,QMU,Nueva Capital,Europe,Northern Europe,153899840,10629479.61,61.8632,27.7066,Europe,2026-03-25T00:35:12.948101+00:00
+Isla Andina 777,Reino de Isla Andina 777,OJ,RCM,Río Blanco,Oceania,Micronesia,108288647,6667166.19,-36.402,175.0526,Oceania,2026-03-09T06:36:54.948110+00:00
+Valle Florencia 778,Federación de Valle Florencia 778,LL,AXL,Nueva Capital,Americas,Caribbean,74600262,4712932.21,-9.2313,-58.7824,America,2026-01-04T06:11:25.948118+00:00
+Gran Brisalia 779,Reino de Gran Brisalia 779,GA,UQN,Puerto Azul,Asia,Southeast Asia,56307087,1552137.19,73.0603,157.2063,Asia,2026-02-12T22:02:58.948126+00:00
+Costa Pacifica 780,Federación de Costa Pacifica 780,NZ,DZE,Ciudad Esperanza,Oceania,Micronesia,46669462,1150035.24,-5.2089,115.4711,Oceania,2026-04-06T19:07:48.948134+00:00
+San Lunaria 781,República de San Lunaria 781,BK,IEJ,Río Blanco,Asia,Southeast Asia,149252386,15046764.53,43.6795,30.1755,Asia,2026-01-11T17:43:44.948144+00:00
+Valle Rivania 782,Reino de Valle Rivania 782,NC,MDH,San Aurelio,Africa,Eastern Africa,230795726,6425891.26,34.357,19.9854,Africa,2026-02-11T08:14:04.948152+00:00
+Valle Brisalia 783,Federación de Valle Brisalia 783,OS,XML,Puerto Central,Europe,Southern Europe,147725110,5632338.0,52.3217,-6.2528,Europe,2026-02-19T18:26:12.948161+00:00
+Alto Andina 784,Federación de Alto Andina 784,YJ,FSN,Puerto Azul,Asia,Eastern Asia,96997634,2383778.62,32.727,100.6571,Asia,2026-02-04T22:15:52.948169+00:00
+San Cedral 785,Federación de San Cedral 785,WV,FUS,Capital Nova,Africa,Western Africa,5264826,13184390.01,-34.8825,45.7741,Africa,2026-03-25T06:33:49.948177+00:00
+Lago Centralia 786,Estado de Lago Centralia 786,FF,PRK,Villa Norte,Europe,Northern Europe,184030924,16135996.38,48.7227,20.2387,Europe,2026-01-09T03:35:09.948186+00:00
+Isla Pacifica 787,Reino de Isla Pacifica 787,HP,KYA,Villa Norte,Africa,Western Africa,204734752,1750492.76,10.9799,40.6055,Africa,2026-03-31T06:22:01.948218+00:00
+Nueva Venturia 788,Federación de Nueva Venturia 788,LV,TKZ,Ciudad Esperanza,Asia,Western Asia,21925225,14491411.85,19.9057,150.0697,Asia,2026-01-30T19:52:29.948229+00:00
+Isla Brisalia 789,República de Isla Brisalia 789,II,MKJ,Ciudad del Sol,Americas,Caribbean,130319746,17289940.31,-5.6039,-110.5286,America,2025-12-25T04:29:53.948238+00:00
+Isla Claridad 790,Reino de Isla Claridad 790,RR,MCB,Ciudad del Sol,Europe,Western Europe,54293060,9160316.85,53.9958,11.3417,Europe,2026-04-12T23:29:34.948246+00:00
+Villa Aurora 791,República de Villa Aurora 791,FG,BXN,Río Blanco,Americas,North America,122165095,13580288.67,-31.5812,-133.7629,America,2026-03-26T10:48:17.948255+00:00
+Valle Claridad 792,República de Valle Claridad 792,JN,HVF,Ciudad del Sol,Americas,Central America,93718484,12279112.18,-27.6354,-142.0448,America,2026-02-20T06:57:35.948263+00:00
+Costa Solaria 793,Federación de Costa Solaria 793,XE,SDX,Río Blanco,Europe,Western Europe,176246443,14879611.1,66.4146,-0.0538,Europe,2026-04-13T06:09:11.948271+00:00
+Lago Cedral 794,Reino de Lago Cedral 794,DX,TBH,Puerto Azul,Africa,Middle Africa,97137199,3647323.79,36.7433,-10.846,Africa,2026-01-10T10:29:23.948279+00:00
+Rio Verdevia 795,República de Rio Verdevia 795,SU,URH,Altavista,Africa,Western Africa,114723085,7327898.08,5.0612,35.1384,Africa,2026-03-21T16:42:12.948288+00:00
+Bajo Nubaria 796,Federación de Bajo Nubaria 796,HA,CGS,Villa Norte,Americas,South America,134700636,9405352.23,22.2362,-51.493,America,2026-02-06T04:09:11.948296+00:00
+Villa Florencia 797,Reino de Villa Florencia 797,ZC,VAC,Ciudad Esperanza,Asia,Central Asia,235115356,1312108.58,78.8447,168.6294,Asia,2026-02-01T17:29:08.948305+00:00
+Valle Pacifica 798,Estado de Valle Pacifica 798,AI,SDN,Ciudad del Sol,Americas,North America,29124840,4495787.44,-35.8527,-54.8607,America,2026-02-20T01:59:08.948314+00:00
+Nueva Aurora 799,Estado de Nueva Aurora 799,ZW,DID,Santa Marina,Europe,Southern Europe,248053071,12580296.35,48.1495,16.9571,Europe,2026-04-16T16:02:22.948324+00:00
+Monte Rivania 800,Estado de Monte Rivania 800,PP,KJZ,Ciudad del Sol,Asia,Southern Asia,214536637,5648330.7,75.1114,149.5439,Asia,2025-12-31T18:55:09.948333+00:00
+Costa Nubaria 801,Reino de Costa Nubaria 801,FK,KKR,Ciudad Esperanza,Africa,Northern Africa,214479027,11390220.5,-5.5517,10.2127,Africa,2026-01-04T18:28:23.948341+00:00
+Bajo Terranova 802,Reino de Bajo Terranova 802,EZ,ZPM,Altavista,Oceania,Australia and New Zealand,237591405,12914221.66,-35.7629,174.8992,Oceania,2026-02-11T00:35:05.948349+00:00
+San Lunaria 803,Reino de San Lunaria 803,IY,UKB,Villa Norte,Africa,Western Africa,40543865,1085598.02,-20.5073,-6.6079,Africa,2026-03-26T12:33:37.948358+00:00
+Sur Cedral 804,República de Sur Cedral 804,BG,NPS,Altavista,Oceania,Australia and New Zealand,229962614,13314706.23,-46.9069,164.2437,Oceania,2025-12-31T15:39:56.948366+00:00
+Norte Brisalia 805,Estado de Norte Brisalia 805,NJ,RDW,Monte Claro,Asia,Central Asia,91997482,16048284.74,-5.102,171.3751,Asia,2026-01-24T03:44:20.948375+00:00
+Puerto Centralia 806,República de Puerto Centralia 806,VH,FBN,Altavista,Oceania,Polynesia,46108117,17193039.81,-11.6906,162.7561,Oceania,2026-01-03T23:42:10.948384+00:00
+Bajo Libertad 807,Reino de Bajo Libertad 807,HP,DTW,Capital Nova,Europe,Eastern Europe,17592221,9404303.89,38.5549,23.064,Europe,2026-01-08T23:23:34.948393+00:00
+Isla Pacifica 808,Federación de Isla Pacifica 808,SY,ARL,Villa Norte,Americas,North America,156245398,10920260.19,-34.2354,-167.3739,America,2025-12-20T13:05:56.948402+00:00
+Isla Claridad 809,República de Isla Claridad 809,OL,KPN,Ciudad del Sol,Asia,Southeast Asia,222578425,11727179.19,42.2782,146.9942,Asia,2026-03-30T22:59:16.948410+00:00
+Norte Verdevia 810,Reino de Norte Verdevia 810,HK,DNY,Ciudad Esperanza,Oceania,Polynesia,15194722,17145501.63,-35.2777,124.959,Oceania,2025-12-22T12:32:14.948419+00:00
+Nueva Nubaria 811,Federación de Nueva Nubaria 811,SR,TAT,Río Blanco,Americas,Caribbean,177962305,771241.19,57.0894,-37.6023,America,2026-03-11T00:54:47.948427+00:00
+Costa Esperanza 812,Reino de Costa Esperanza 812,BZ,NMS,Capital Nova,Americas,South America,75437112,1479066.68,-37.2772,-120.6249,America,2026-02-14T03:11:42.948436+00:00
+Gran Terranova 813,República de Gran Terranova 813,NX,NGI,San Aurelio,Europe,Southern Europe,71858214,2029272.94,51.1729,20.0006,Europe,2026-03-09T23:23:48.948444+00:00
+Isla Nubaria 814,Reino de Isla Nubaria 814,CF,CLN,Altavista,Oceania,Australia and New Zealand,245938764,6402691.87,-42.6165,141.3844,Oceania,2026-02-16T17:56:01.948453+00:00
+San Solaria 815,República de San Solaria 815,SI,NPK,San Aurelio,Africa,Middle Africa,84357855,3406366.66,12.1214,39.1621,Africa,2026-02-18T18:44:29.948461+00:00
+Nueva Pacifica 816,Estado de Nueva Pacifica 816,KB,UQW,San Aurelio,Americas,South America,205706186,16826583.51,39.2053,-168.3272,America,2026-02-12T08:42:08.948469+00:00
+Villa Lunaria 817,República de Villa Lunaria 817,JR,LCB,Río Blanco,Asia,Western Asia,210611031,2133055.23,10.3197,110.5193,Asia,2026-01-14T02:39:08.948479+00:00
+Sur Aurora 818,Federación de Sur Aurora 818,UH,KTZ,Nueva Capital,Asia,Western Asia,121263206,7396879.54,-9.4673,104.185,Asia,2026-02-21T20:03:02.948487+00:00
+Villa Libertad 819,Estado de Villa Libertad 819,LJ,GMU,Nueva Capital,Europe,Western Europe,231917500,9620342.95,36.4775,20.3248,Europe,2026-03-24T04:34:55.948497+00:00
+Gran Pacifica 820,Estado de Gran Pacifica 820,UQ,TGG,Puerto Central,Africa,Middle Africa,211600752,2284537.67,3.046,48.8187,Africa,2026-02-17T13:30:42.948506+00:00
+Sur Aurora 821,Reino de Sur Aurora 821,AE,VTU,Ciudad Esperanza,Americas,North America,95564413,6290579.8,-34.7206,-161.4472,America,2026-03-23T00:49:57.948514+00:00
+Rio Brisalia 822,Estado de Rio Brisalia 822,AM,GTB,Puerto Azul,Africa,Western Africa,230762713,6481098.22,7.9006,33.4214,Africa,2026-01-03T19:17:41.948522+00:00
+Alto Rivania 823,Reino de Alto Rivania 823,MA,WIC,Nueva Capital,Americas,Central America,203924590,5196934.88,25.8378,-88.5232,America,2026-04-12T05:57:39.948530+00:00
+Costa Esperanza 824,Estado de Costa Esperanza 824,HX,DBA,Río Blanco,Asia,Central Asia,227099969,1749512.14,51.6885,36.3748,Asia,2026-03-19T08:56:38.948566+00:00
+Puerto Novaterra 825,Federación de Puerto Novaterra 825,HC,VOF,Ciudad Esperanza,Asia,Western Asia,59520998,13346198.36,24.2021,28.297,Asia,2026-04-10T21:42:05.948582+00:00
+Valle Rivania 826,Reino de Valle Rivania 826,UG,BYT,San Aurelio,Europe,Northern Europe,139968597,10579386.21,70.5934,-16.885,Europe,2026-03-12T04:38:48.948592+00:00
+Sur Bosqueland 827,Reino de Sur Bosqueland 827,PW,QHV,Puerto Central,Africa,Northern Africa,241054959,14205453.54,15.4547,-11.4739,Africa,2026-03-06T21:05:38.948601+00:00
+Bajo Cedral 828,Reino de Bajo Cedral 828,MZ,OGL,Monte Claro,Americas,North America,219814622,7665297.11,-30.9471,-76.372,America,2026-03-21T11:35:45.948610+00:00
+Costa Brisalia 829,Federación de Costa Brisalia 829,MQ,NLS,Puerto Central,Asia,Eastern Asia,192007567,4049250.01,50.4925,162.5192,Asia,2026-01-21T11:31:39.948619+00:00
+Bajo Estrella 830,Reino de Bajo Estrella 830,BE,ZIM,Puerto Azul,Americas,North America,10898622,2096446.8,4.8469,-58.0039,America,2026-03-23T03:17:56.948627+00:00
+Nueva Aurora 831,Reino de Nueva Aurora 831,SC,CFP,Villa Norte,Americas,Central America,63023309,16187932.56,-31.5789,-116.7985,America,2026-03-26T20:21:45.948635+00:00
+Bajo Solaria 832,Federación de Bajo Solaria 832,IV,GKD,Monte Claro,Americas,South America,90643958,13853454.59,-28.3565,-86.2314,America,2026-01-21T16:10:53.948645+00:00
+Rio Verdevia 833,Reino de Rio Verdevia 833,QS,AOB,Puerto Central,Oceania,Australia and New Zealand,150943888,12994314.37,-0.3915,159.4538,Oceania,2026-04-14T23:50:33.948653+00:00
+Norte Pacifica 834,República de Norte Pacifica 834,YE,TUL,Monte Claro,Americas,South America,192816484,14084361.51,0.5043,-40.199,America,2026-02-02T16:29:07.948662+00:00
+Costa Solaria 835,Reino de Costa Solaria 835,OE,TCI,Altavista,Oceania,Melanesia,16118274,15488218.82,-10.8233,170.8339,Oceania,2026-03-16T11:56:55.948671+00:00
+Monte Florencia 836,Federación de Monte Florencia 836,NB,LDL,Altavista,Asia,Southern Asia,51040776,9375030.72,77.4917,40.3973,Asia,2026-02-15T06:57:12.948679+00:00
+Costa Altamira 837,Federación de Costa Altamira 837,PQ,UAA,Ciudad Esperanza,Asia,Southeast Asia,115348922,206507.21,49.5234,126.2461,Asia,2026-01-17T23:50:05.948690+00:00
+Puerto Esperanza 838,Federación de Puerto Esperanza 838,BM,HVC,San Aurelio,Asia,Eastern Asia,224662119,466053.9,78.0181,107.1654,Asia,2026-01-18T14:08:54.948698+00:00
+Sur Libertad 839,Federación de Sur Libertad 839,WR,ZVD,Monte Claro,Americas,South America,29812709,7493574.3,53.1834,-126.8251,America,2026-01-28T20:52:26.948706+00:00
+Gran Centralia 840,República de Gran Centralia 840,GW,VFR,Ciudad Esperanza,Americas,North America,195213913,11867793.15,58.5373,-42.3737,America,2026-03-02T17:24:27.948714+00:00
+Isla Rivania 841,Reino de Isla Rivania 841,AD,ZRE,Ciudad del Sol,Africa,Middle Africa,90588921,8161522.21,10.6138,-13.6936,Africa,2026-01-12T06:02:39.948722+00:00
+Isla Florencia 842,República de Isla Florencia 842,IA,HBS,Santa Marina,Oceania,Melanesia,97874385,5381115.64,-21.0846,155.0938,Oceania,2026-01-05T19:55:08.948731+00:00
+Monte Estrella 843,Estado de Monte Estrella 843,PG,QOV,Río Blanco,Africa,Western Africa,110478138,5462404.55,23.2474,20.0287,Africa,2026-03-06T20:57:02.948739+00:00
+Norte Libertad 844,Reino de Norte Libertad 844,CW,EIT,Altavista,Asia,Central Asia,155495614,8941883.33,72.5997,34.464,Asia,2026-03-07T06:17:30.948748+00:00
+Sur Novaterra 845,República de Sur Novaterra 845,AI,VSV,Ciudad del Sol,Asia,Western Asia,199619954,8008098.84,40.6174,179.9317,Asia,2026-01-03T08:37:32.948757+00:00
+Sur Marfilia 846,Federación de Sur Marfilia 846,AM,BLM,Río Blanco,Africa,Southern Africa,158122963,7374047.83,13.1449,17.3205,Africa,2026-03-20T17:16:32.948764+00:00
+Gran Aurora 847,Federación de Gran Aurora 847,VX,GAB,San Aurelio,Asia,Central Asia,206116810,8909885.94,20.2985,81.5353,Asia,2025-12-29T15:25:39.948775+00:00
+Alto Verdevia 848,República de Alto Verdevia 848,TP,OZV,Nueva Capital,Africa,Eastern Africa,24669414,14710577.49,-30.0627,26.3189,Africa,2026-04-02T07:02:57.948783+00:00
+Puerto Solaria 849,República de Puerto Solaria 849,GH,PDS,Ciudad del Sol,Asia,Southern Asia,204687351,17184188.76,76.2231,97.8026,Asia,2025-12-24T15:18:00.948791+00:00
+Sur Aurora 850,Federación de Sur Aurora 850,YG,QAY,Monte Claro,Asia,Southeast Asia,170490308,3949678.8,-5.093,112.5915,Asia,2025-12-20T04:45:42.948801+00:00
+Norte Cordelia 851,Reino de Norte Cordelia 851,VS,ROV,Capital Nova,Americas,North America,4204096,3826482.83,-12.1424,-69.5112,America,2026-03-25T00:54:43.948809+00:00
+Norte Centralia 852,Estado de Norte Centralia 852,WJ,DPX,Altavista,Asia,Western Asia,244338326,14370797.73,79.9778,132.0673,Asia,2025-12-29T13:36:09.948817+00:00
+Norte Verdevia 853,Estado de Norte Verdevia 853,RB,SBC,Río Blanco,Asia,Central Asia,192850917,13781710.14,30.4315,45.8513,Asia,2026-01-20T13:03:49.948825+00:00
+Gran Cedral 854,Reino de Gran Cedral 854,VW,DQP,Monte Claro,Asia,Central Asia,92524450,321999.75,67.5888,129.7001,Asia,2026-03-22T01:46:23.948836+00:00
+Costa Venturia 855,Reino de Costa Venturia 855,BV,YQH,Monte Claro,Oceania,Australia and New Zealand,5264571,16125256.25,-31.7097,133.1705,Oceania,2026-01-06T05:49:12.948845+00:00
+Isla Venturia 856,República de Isla Venturia 856,SK,HSB,Río Blanco,Europe,Southern Europe,165174822,4083585.23,54.6301,-2.733,Europe,2026-02-03T16:00:10.948853+00:00
+Santa Terranova 857,Estado de Santa Terranova 857,NP,JIN,Santa Marina,Asia,Southern Asia,75245877,942024.27,-0.1444,128.5937,Asia,2026-03-14T19:35:51.948863+00:00
+Bajo Solaria 858,Estado de Bajo Solaria 858,PE,VCR,Villa Norte,Americas,North America,50840514,11412660.39,68.087,-139.757,America,2025-12-27T11:04:03.948871+00:00
+Bajo Solaria 859,Reino de Bajo Solaria 859,CW,HLL,Puerto Central,Europe,Southern Europe,176948399,8951119.17,57.5046,7.2691,Europe,2026-01-23T04:31:01.948879+00:00
+Nueva Florencia 860,Estado de Nueva Florencia 860,PX,YBZ,Altavista,Asia,Southern Asia,89926244,3396212.18,78.3053,163.6616,Asia,2026-01-23T09:11:07.948887+00:00
+Alto Estrella 861,República de Alto Estrella 861,FJ,PLR,Puerto Central,Asia,Southern Asia,79030009,16447967.26,28.2177,132.1436,Asia,2026-03-14T17:58:04.948895+00:00
+Norte Venturia 862,República de Norte Venturia 862,QW,EPW,Ciudad Esperanza,Africa,Northern Africa,32401595,9987841.81,2.5355,12.092,Africa,2026-03-19T16:34:42.948904+00:00
+Isla Venturia 863,República de Isla Venturia 863,QO,RLD,Santa Marina,Europe,Southern Europe,158550556,14770545.71,64.5259,49.3217,Europe,2026-03-16T02:25:39.948912+00:00
+Alto Brisalia 864,Reino de Alto Brisalia 864,LK,VPM,Ciudad Esperanza,Africa,Southern Africa,59499646,5539106.78,29.9889,23.5232,Africa,2026-03-11T04:06:19.948921+00:00
+Lago Monteluz 865,Federación de Lago Monteluz 865,YH,ERC,Ciudad Esperanza,Africa,Northern Africa,55146578,12898929.97,-5.0505,-1.7504,Africa,2025-12-19T03:43:39.948930+00:00
+Norte Andina 866,República de Norte Andina 866,OC,LOX,Ciudad Esperanza,Asia,Central Asia,39509683,13387317.08,22.8149,86.9588,Asia,2026-02-26T06:11:23.948938+00:00
+Norte Monteluz 867,Federación de Norte Monteluz 867,LI,JMX,Puerto Azul,Africa,Southern Africa,120147686,11655546.8,-11.8029,3.9894,Africa,2026-01-31T17:51:00.948948+00:00
+Isla Terranova 868,Federación de Isla Terranova 868,UN,YEJ,Puerto Azul,Americas,North America,27812773,15733366.01,-35.8341,-61.5908,America,2026-01-09T22:41:08.948956+00:00
+Villa Esperanza 869,Federación de Villa Esperanza 869,WL,HEF,Puerto Azul,Africa,Western Africa,85306532,7389799.72,-2.1125,8.0164,Africa,2026-04-08T19:06:39.948964+00:00
+Valle Nubaria 870,Federación de Valle Nubaria 870,NJ,COO,Altavista,Asia,Western Asia,28938537,6072982.07,2.4809,47.4765,Asia,2026-04-05T20:49:46.948973+00:00
+Lago Estrella 871,República de Lago Estrella 871,GQ,WEB,Villa Norte,Americas,North America,248921134,12890682.35,-27.8672,-87.5317,America,2026-03-14T19:08:08.948981+00:00
+Villa Andina 872,Federación de Villa Andina 872,AK,QFT,Puerto Central,Oceania,Melanesia,220168429,3892433.26,-45.1168,114.5113,Oceania,2026-03-11T20:27:42.948989+00:00
+Bajo Pacifica 873,Estado de Bajo Pacifica 873,ED,SFY,Capital Nova,Oceania,Micronesia,47166402,4634417.35,-27.5238,121.1728,Oceania,2026-01-29T21:23:01.948997+00:00
+Villa Bosqueland 874,Federación de Villa Bosqueland 874,OH,ZFD,San Aurelio,Americas,South America,84020998,11782005.39,65.7001,-113.0316,America,2026-04-11T15:37:24.949005+00:00
+San Pacifica 875,Reino de San Pacifica 875,PW,UCH,Puerto Azul,Asia,Eastern Asia,107718254,5197217.07,64.202,150.7231,Asia,2026-02-17T04:15:31.949013+00:00
+Gran Bosqueland 876,Reino de Gran Bosqueland 876,AL,GZJ,Villa Norte,Oceania,Polynesia,78506771,5117110.39,-25.4435,147.1733,Oceania,2026-04-02T13:25:51.949022+00:00
+Costa Verdevia 877,Estado de Costa Verdevia 877,VC,XAD,Ciudad Esperanza,Africa,Southern Africa,177468,12205041.32,12.9547,22.9218,Africa,2025-12-23T19:39:30.949032+00:00
+Santa Terranova 878,República de Santa Terranova 878,MF,DBQ,Puerto Central,Asia,Western Asia,240080857,8096867.45,54.8247,53.8687,Asia,2026-01-25T23:58:15.949040+00:00
+Lago Pacifica 879,Estado de Lago Pacifica 879,EW,EZD,Altavista,Africa,Eastern Africa,135519332,7907935.32,16.6839,21.7811,Africa,2026-04-08T22:41:19.949048+00:00
+San Marfilia 880,Estado de San Marfilia 880,XG,PGL,Capital Nova,Europe,Southern Europe,31637366,14324599.55,60.9206,11.0354,Europe,2026-02-25T16:14:35.949056+00:00
+Santa Florencia 881,Federación de Santa Florencia 881,WX,MKM,Altavista,Asia,Southeast Asia,43763818,2166797.93,54.6606,137.8221,Asia,2026-01-29T03:31:32.949064+00:00
+Gran Cedral 882,República de Gran Cedral 882,YJ,CAK,Capital Nova,Oceania,Australia and New Zealand,64564338,2433530.17,-28.4359,123.7878,Oceania,2025-12-20T07:06:13.949073+00:00
+Costa Novaterra 883,Reino de Costa Novaterra 883,NM,UMF,Villa Norte,Asia,Western Asia,9475542,2573328.32,23.0561,173.8642,Asia,2026-03-26T13:57:29.949081+00:00
+Isla Altamira 884,Estado de Isla Altamira 884,MH,OIP,Altavista,Africa,Southern Africa,193168113,4126702.83,-32.1523,28.9542,Africa,2025-12-17T10:28:44.949089+00:00
+Lago Pacifica 885,República de Lago Pacifica 885,PS,YYL,Monte Claro,Europe,Eastern Europe,161152471,15374082.47,51.8451,51.5145,Europe,2026-03-10T14:37:54.949097+00:00
+Lago Claridad 886,Federación de Lago Claridad 886,KZ,EIQ,Capital Nova,Europe,Northern Europe,219027456,10538669.8,35.0062,-15.6906,Europe,2026-01-07T10:58:33.949105+00:00
+Lago Bosqueland 887,Estado de Lago Bosqueland 887,FQ,KZU,Ciudad del Sol,Africa,Middle Africa,3111750,13738299.63,-2.3749,11.3196,Africa,2025-12-18T00:34:16.949115+00:00
+Santa Aurora 888,República de Santa Aurora 888,BV,GTY,Capital Nova,Asia,Western Asia,165718023,6532324.1,0.1289,153.1661,Asia,2026-03-23T15:36:21.949124+00:00
+Isla Venturia 889,Federación de Isla Venturia 889,FU,AGD,Capital Nova,Asia,Central Asia,96959098,8310462.47,8.33,52.1244,Asia,2025-12-21T10:43:01.949133+00:00
+Nueva Lunaria 890,Estado de Nueva Lunaria 890,AN,PZN,Puerto Central,Oceania,Micronesia,26431165,6477752.21,-8.8903,158.0854,Oceania,2026-02-12T03:41:09.949141+00:00
+Monte Libertad 891,República de Monte Libertad 891,PU,OZV,Puerto Azul,Europe,Western Europe,90412328,15296070.87,53.3775,55.7821,Europe,2026-04-03T05:56:41.949149+00:00
+Isla Centralia 892,Estado de Isla Centralia 892,WB,BHM,Villa Norte,Americas,Central America,165094000,6735695.58,0.4252,-119.3989,America,2026-02-24T21:36:54.949157+00:00
+Puerto Claridad 893,República de Puerto Claridad 893,GR,QQM,Puerto Azul,Asia,Eastern Asia,67913516,16041293.1,40.6653,134.3064,Asia,2026-01-31T11:27:21.949167+00:00
+Norte Andina 894,República de Norte Andina 894,WX,SZR,Puerto Azul,Europe,Northern Europe,212427590,16512944.15,64.4192,1.0252,Europe,2026-02-08T08:27:32.949175+00:00
+Villa Andina 895,República de Villa Andina 895,JO,XGE,Nueva Capital,Americas,Caribbean,148140381,12153209.64,-15.3078,-69.9656,America,2026-01-24T09:02:28.949183+00:00
+Costa Novaterra 896,Reino de Costa Novaterra 896,AJ,UBG,Monte Claro,Europe,Northern Europe,13053101,2175217.72,44.812,-19.7354,Europe,2026-03-15T09:04:32.949205+00:00
+Monte Verdevia 897,Federación de Monte Verdevia 897,FM,MSU,Ciudad Esperanza,Africa,Middle Africa,155728327,9442042.38,36.1831,10.2258,Africa,2026-03-27T16:19:58.949219+00:00
+Isla Florencia 898,Reino de Isla Florencia 898,YH,IOC,Villa Norte,Europe,Southern Europe,242886702,15559044.42,46.7442,36.6734,Europe,2026-01-15T18:48:36.949230+00:00
+Norte Venturia 899,Federación de Norte Venturia 899,HN,FIY,Puerto Central,Africa,Western Africa,106387170,964913.53,12.8789,25.1687,Africa,2026-03-21T16:53:48.949239+00:00
+Nueva Esperanza 900,Reino de Nueva Esperanza 900,AR,XTS,Santa Marina,Asia,Southeast Asia,105703660,5253887.54,62.9063,138.1246,Asia,2026-03-05T18:24:12.949247+00:00
+Bajo Florencia 901,Estado de Bajo Florencia 901,ZG,UNI,Ciudad Esperanza,Africa,Eastern Africa,83039826,15605005.49,10.4739,15.8963,Africa,2026-03-31T00:02:30.949256+00:00
+Gran Centralia 902,República de Gran Centralia 902,RZ,FYY,San Aurelio,Americas,Caribbean,42337772,12926884.79,-10.4976,-32.7603,America,2026-03-27T19:51:35.949265+00:00
+Villa Bosqueland 903,Reino de Villa Bosqueland 903,CK,XOR,Villa Norte,Asia,Eastern Asia,74451073,16775133.07,2.4571,154.365,Asia,2026-01-28T14:55:39.949273+00:00
+Isla Terranova 904,Federación de Isla Terranova 904,TP,VNX,San Aurelio,Americas,Central America,189606431,11685177.5,-6.8049,-32.1225,America,2026-01-12T01:26:09.949281+00:00
+Norte Andina 905,Reino de Norte Andina 905,KL,OFJ,Río Blanco,Africa,Eastern Africa,219086228,7450281.49,35.9137,29.5576,Africa,2026-04-01T05:14:50.949290+00:00
+Costa Cedral 906,Estado de Costa Cedral 906,TM,BZN,Río Blanco,Americas,Caribbean,28733528,642154.15,55.5028,-109.9923,America,2026-03-30T17:29:39.949298+00:00
+Puerto Aurora 907,Federación de Puerto Aurora 907,EW,IOI,Nueva Capital,Africa,Middle Africa,19969589,9374736.93,5.267,-2.7534,Africa,2026-02-08T03:23:19.949307+00:00
+Costa Solaria 908,Estado de Costa Solaria 908,SQ,ESZ,Puerto Central,Africa,Northern Africa,108017968,17361888.46,-13.5461,3.3089,Africa,2026-03-06T00:50:49.949318+00:00
+San Aurora 909,Federación de San Aurora 909,MU,SNZ,San Aurelio,Americas,Central America,27871161,10602943.24,-12.3274,-119.4368,America,2026-01-25T02:37:46.949326+00:00
+Rio Terranova 910,Estado de Rio Terranova 910,AY,HXT,Monte Claro,Americas,North America,14269198,1201094.08,8.5241,-167.5821,America,2026-01-25T00:24:13.949334+00:00
+Costa Brisalia 911,Estado de Costa Brisalia 911,QI,YMU,Río Blanco,Oceania,Australia and New Zealand,164769112,6681547.95,-30.2877,119.367,Oceania,2026-03-14T18:58:32.949343+00:00
+Puerto Novaterra 912,Reino de Puerto Novaterra 912,YH,LLX,San Aurelio,Asia,Eastern Asia,119541114,375740.98,23.038,36.7155,Asia,2026-01-02T11:40:55.949351+00:00
+Gran Marfilia 913,Reino de Gran Marfilia 913,OD,NZP,Villa Norte,Asia,Southern Asia,164665359,5075830.98,24.1763,74.531,Asia,2026-01-25T13:32:22.949359+00:00
+Costa Aurora 914,Reino de Costa Aurora 914,ZZ,YYA,Monte Claro,Oceania,Polynesia,2096203,14201789.68,-43.3037,170.4927,Oceania,2026-01-24T00:35:35.949367+00:00
+San Cordelia 915,Reino de San Cordelia 915,EP,SAZ,Río Blanco,Europe,Western Europe,193178535,6173888.89,52.0334,2.2371,Europe,2026-03-14T00:26:07.949375+00:00
+San Andina 916,Reino de San Andina 916,YM,ARA,Monte Claro,Africa,Eastern Africa,244164254,16008597.35,-18.9814,13.4548,Africa,2026-02-06T21:32:33.949383+00:00
+Sur Verdevia 917,República de Sur Verdevia 917,IQ,AWJ,Villa Norte,Asia,Southern Asia,173420260,7763117.71,42.8984,148.2055,Asia,2025-12-25T11:36:19.949393+00:00
+Nueva Esperanza 918,Federación de Nueva Esperanza 918,MN,KHE,Santa Marina,Asia,Southeast Asia,225809793,13422721.42,-5.1415,40.5991,Asia,2026-01-30T04:19:23.949401+00:00
+Sur Andina 919,Federación de Sur Andina 919,GW,LRG,Villa Norte,Americas,North America,202588926,90090.96,29.8479,-53.5985,America,2026-03-24T10:55:13.949409+00:00
+Valle Monteluz 920,Federación de Valle Monteluz 920,DB,RYH,Nueva Capital,Africa,Western Africa,175242568,724175.59,-16.5719,-0.8214,Africa,2026-01-26T06:46:02.949417+00:00
+Costa Aurora 921,República de Costa Aurora 921,IH,YNL,Capital Nova,Americas,South America,202604642,15642685.45,-5.2597,-106.5917,America,2026-03-31T05:50:20.949425+00:00
+Gran Lunaria 922,Estado de Gran Lunaria 922,DQ,VTI,Río Blanco,Americas,North America,121290132,13812645.2,-5.1459,-153.8209,America,2026-02-25T03:06:21.949434+00:00
+Bajo Claridad 923,Reino de Bajo Claridad 923,ZZ,AFW,Puerto Central,Americas,North America,201262205,11097112.41,48.9587,-88.7293,America,2025-12-27T19:14:14.949443+00:00
+Monte Terranova 924,Estado de Monte Terranova 924,IC,JNE,Santa Marina,Oceania,Australia and New Zealand,58315428,8458825.17,-33.513,138.9665,Oceania,2026-01-09T11:19:27.949451+00:00
+Rio Brisalia 925,Reino de Rio Brisalia 925,YW,DGH,Ciudad del Sol,Oceania,Australia and New Zealand,191466837,1628362.97,-24.095,111.0985,Oceania,2026-02-15T04:58:07.949459+00:00
+Isla Rivania 926,Reino de Isla Rivania 926,KO,KSX,Monte Claro,Europe,Eastern Europe,152778160,3389849.09,50.6595,45.8281,Europe,2026-03-10T10:54:00.949467+00:00
+Rio Aurora 927,Estado de Rio Aurora 927,XQ,IMP,Capital Nova,Americas,South America,29771344,3135026.91,6.6619,-48.0239,America,2026-03-26T05:52:15.949476+00:00
+Monte Verdevia 928,Reino de Monte Verdevia 928,HN,MNW,Puerto Azul,Africa,Middle Africa,232682656,13337510.01,17.2154,-4.0781,Africa,2026-01-17T14:53:14.949486+00:00
+Sur Esperanza 929,República de Sur Esperanza 929,NM,WXG,Ciudad Esperanza,Africa,Northern Africa,28285276,14136767.35,17.3686,22.1946,Africa,2026-04-03T18:58:17.949494+00:00
+San Monteluz 930,Estado de San Monteluz 930,ZI,XSW,Nueva Capital,Europe,Southern Europe,175967245,15385622.75,50.4244,31.1183,Europe,2026-01-26T06:45:18.949502+00:00
+Sur Florencia 931,Reino de Sur Florencia 931,FP,IMY,San Aurelio,Europe,Northern Europe,235753298,11411945.44,49.8057,2.5223,Europe,2026-03-02T13:56:52.949510+00:00
+Bajo Venturia 932,Federación de Bajo Venturia 932,IQ,UBX,Nueva Capital,Europe,Western Europe,245472094,9809992.26,66.6428,37.5719,Europe,2026-01-24T06:46:40.949531+00:00
+Rio Novaterra 933,Estado de Rio Novaterra 933,PA,CNB,Ciudad Esperanza,Americas,North America,2237358,11226409.6,-47.57,-146.2781,America,2026-01-31T20:21:41.949542+00:00
+Alto Marfilia 934,Reino de Alto Marfilia 934,TM,PMM,Nueva Capital,Europe,Eastern Europe,66832097,10773125.75,47.63,-15.7893,Europe,2026-01-24T09:22:02.949551+00:00
+Costa Claridad 935,República de Costa Claridad 935,OX,BQP,Capital Nova,Americas,Central America,33882413,770987.5,-41.6905,-112.1539,America,2026-03-14T17:47:44.949559+00:00
+Sur Centralia 936,República de Sur Centralia 936,RR,YZH,Ciudad del Sol,Europe,Western Europe,43410843,8598095.01,48.6043,34.4075,Europe,2026-03-04T21:33:09.949569+00:00
+Lago Monteluz 937,República de Lago Monteluz 937,FM,NYH,Río Blanco,Oceania,Melanesia,171334573,3366064.76,-31.0497,162.5499,Oceania,2025-12-18T09:42:30.949579+00:00
+Valle Nubaria 938,Estado de Valle Nubaria 938,BZ,UYK,Río Blanco,Oceania,Melanesia,151623407,1832099.52,-34.616,147.8891,Oceania,2025-12-30T03:44:37.949588+00:00
+Nueva Brisalia 939,Federación de Nueva Brisalia 939,HS,ROK,Monte Claro,Africa,Eastern Africa,248831398,768686.49,28.973,4.3362,Africa,2026-02-26T03:37:48.949601+00:00
+Lago Venturia 940,Federación de Lago Venturia 940,ID,OQK,Río Blanco,Americas,North America,95405918,933599.99,-35.5236,-142.2983,America,2026-02-20T15:43:03.949609+00:00
+Nueva Claridad 941,República de Nueva Claridad 941,GN,XJJ,Puerto Azul,Americas,Caribbean,71223805,8826951.78,28.679,-49.2022,America,2026-04-11T19:29:34.949617+00:00
+Rio Verdevia 942,República de Rio Verdevia 942,HX,HRP,Nueva Capital,Europe,Eastern Europe,138026477,17269183.36,55.8254,41.4268,Europe,2026-02-07T22:11:24.949625+00:00
+Monte Nubaria 943,República de Monte Nubaria 943,VY,ZAJ,Nueva Capital,Africa,Eastern Africa,44724202,1680516.76,24.2501,19.1465,Africa,2026-01-14T20:31:54.949634+00:00
+Lago Brisalia 944,República de Lago Brisalia 944,BG,PWZ,Villa Norte,Oceania,Australia and New Zealand,129099289,16651901.01,-4.5099,130.1658,Oceania,2026-03-06T13:56:00.949642+00:00
+Lago Esperanza 945,República de Lago Esperanza 945,SG,TIZ,Ciudad del Sol,Americas,North America,82414058,12646964.77,59.2656,-163.6522,America,2026-01-16T18:47:35.949650+00:00
+Villa Libertad 946,República de Villa Libertad 946,OZ,FMO,Río Blanco,Europe,Eastern Europe,152760368,16099627.62,54.0947,37.4572,Europe,2026-02-14T23:41:21.949658+00:00
+Valle Estrella 947,Federación de Valle Estrella 947,DO,KJR,Villa Norte,Asia,Central Asia,531514,7242056.6,77.2717,26.6832,Asia,2026-04-03T01:04:40.949668+00:00
+Costa Pacifica 948,Reino de Costa Pacifica 948,GK,UAM,San Aurelio,Americas,South America,25645106,4234222.39,-2.1797,-96.7603,America,2026-01-31T04:30:36.949797+00:00
+Rio Marfilia 949,Federación de Rio Marfilia 949,EO,ZVM,Nueva Capital,Europe,Western Europe,202829010,14750479.42,64.6872,11.4889,Europe,2026-03-08T02:33:56.949812+00:00
+Isla Centralia 950,Federación de Isla Centralia 950,TC,PSB,Ciudad Esperanza,Africa,Middle Africa,90120863,12505711.3,-15.615,18.0278,Africa,2026-02-20T02:03:30.949822+00:00
+San Centralia 951,República de San Centralia 951,PF,AZX,Río Blanco,Oceania,Australia and New Zealand,46622407,4129374.7,-3.4252,125.6353,Oceania,2026-03-01T23:47:10.949831+00:00
+Santa Bosqueland 952,República de Santa Bosqueland 952,KV,XIZ,Santa Marina,Asia,Eastern Asia,214862974,3519872.39,56.4687,119.3109,Asia,2026-01-20T13:34:40.949839+00:00
+San Marfilia 953,Reino de San Marfilia 953,IF,OXS,Puerto Azul,Europe,Eastern Europe,203812438,15140113.01,38.2539,21.6774,Europe,2026-01-07T21:38:23.949848+00:00
+Bajo Altamira 954,Estado de Bajo Altamira 954,FQ,XXB,Ciudad del Sol,Africa,Western Africa,198492515,2759813.33,-12.8205,16.4531,Africa,2026-02-04T08:28:11.949856+00:00
+Gran Centralia 955,Reino de Gran Centralia 955,BU,FUC,Capital Nova,Africa,Eastern Africa,90861481,6016870.37,-3.9486,49.9438,Africa,2026-03-30T14:22:42.949864+00:00
+San Cordelia 956,Estado de San Cordelia 956,ZX,WWZ,Puerto Azul,Oceania,Polynesia,46487753,5417421.25,-41.7727,120.7935,Oceania,2026-01-09T08:24:12.949873+00:00
+Valle Esperanza 957,Estado de Valle Esperanza 957,ZJ,AQL,Villa Norte,Europe,Eastern Europe,213922925,210007.79,62.4807,23.9059,Europe,2025-12-20T21:04:08.949884+00:00
+Norte Rivania 958,República de Norte Rivania 958,PO,VBO,Ciudad del Sol,Asia,Southeast Asia,96924555,6896756.97,-0.03,83.6729,Asia,2026-01-16T00:14:41.949893+00:00
+Puerto Aurora 959,Estado de Puerto Aurora 959,NP,TFS,Santa Marina,Europe,Eastern Europe,2677427,3207406.04,62.5143,38.6551,Europe,2026-03-19T10:35:25.949901+00:00
+Norte Solaria 960,Reino de Norte Solaria 960,YD,SGU,Altavista,Oceania,Australia and New Zealand,105108052,14582370.97,-8.9299,120.9465,Oceania,2026-03-26T09:26:23.949910+00:00
+Nueva Terranova 961,Federación de Nueva Terranova 961,GO,FNG,Monte Claro,Oceania,Melanesia,81590976,12363451.24,-5.3327,129.2051,Oceania,2026-01-21T12:41:20.949919+00:00
+Villa Rivania 962,Reino de Villa Rivania 962,KJ,PJI,Santa Marina,Oceania,Micronesia,9215353,963556.51,-35.4201,177.4135,Oceania,2025-12-25T06:41:57.949927+00:00
+Sur Rivania 963,Federación de Sur Rivania 963,TX,VLI,Monte Claro,Europe,Western Europe,84432275,3573119.09,63.4026,52.8909,Europe,2026-02-08T12:44:27.949935+00:00
+San Marfilia 964,República de San Marfilia 964,QN,MVS,Altavista,Asia,Central Asia,110328641,13240261.42,40.3339,179.8128,Asia,2026-02-18T04:00:26.949944+00:00
+Lago Altamira 965,Federación de Lago Altamira 965,EL,RNS,Nueva Capital,Oceania,Polynesia,157304847,15264351.78,-14.8132,175.9557,Oceania,2026-02-09T10:21:18.949952+00:00
+Villa Pacifica 966,Federación de Villa Pacifica 966,DS,FLV,Puerto Azul,Asia,Western Asia,187819968,2861242.83,40.9494,100.8618,Asia,2026-02-12T17:37:44.949961+00:00
+Alto Bosqueland 967,Reino de Alto Bosqueland 967,PG,VQS,Río Blanco,Oceania,Melanesia,95484909,7201010.82,-48.2077,147.6231,Oceania,2026-02-12T07:08:55.949970+00:00
+Valle Altamira 968,República de Valle Altamira 968,WW,LKY,Nueva Capital,Asia,Eastern Asia,24173437,6774935.35,1.3007,128.7196,Asia,2026-01-18T15:18:19.949981+00:00
+Nueva Solaria 969,República de Nueva Solaria 969,EZ,VZW,Ciudad del Sol,Americas,Central America,248723637,8953543.35,-23.6246,-93.8699,America,2026-02-16T01:08:35.949993+00:00
+Sur Cordelia 970,República de Sur Cordelia 970,UM,MCV,Monte Claro,Europe,Western Europe,130114549,11706041.23,43.3539,-11.8661,Europe,2026-02-05T05:57:50.950002+00:00
+Lago Rivania 971,Reino de Lago Rivania 971,GG,BYG,Puerto Central,Africa,Northern Africa,57136425,10514895.69,4.8055,30.2778,Africa,2025-12-24T13:25:03.950012+00:00
+Villa Terranova 972,Reino de Villa Terranova 972,UV,IBS,Puerto Azul,Oceania,Micronesia,198207642,12830051.79,-4.2022,151.1048,Oceania,2026-02-06T21:56:12.950021+00:00
+Lago Monteluz 973,Estado de Lago Monteluz 973,IE,NEP,Monte Claro,Europe,Eastern Europe,193428118,3405463.32,43.7,6.577,Europe,2026-03-04T02:05:19.950034+00:00
+Monte Claridad 974,Federación de Monte Claridad 974,AH,GYX,Santa Marina,Americas,South America,126327117,2815101.44,-12.5517,-110.9677,America,2026-04-14T12:19:25.950048+00:00
+Costa Aurora 975,Reino de Costa Aurora 975,NE,SSN,Puerto Azul,Asia,Southern Asia,62132251,2451765.7,8.4235,107.7866,Asia,2026-04-09T10:44:14.950062+00:00
+Alto Terranova 976,República de Alto Terranova 976,KM,BQF,Altavista,Europe,Northern Europe,47913426,3050498.97,61.9147,-23.4434,Europe,2026-01-10T22:52:16.950071+00:00
+Isla Cedral 977,República de Isla Cedral 977,YK,HZN,Río Blanco,Americas,South America,127305102,16231107.14,-25.4554,-164.1744,America,2026-03-19T19:53:09.950082+00:00
+Bajo Libertad 978,República de Bajo Libertad 978,RQ,TDG,Monte Claro,Europe,Southern Europe,69239126,5990490.21,60.4009,38.1239,Europe,2025-12-19T14:37:32.950091+00:00
+Costa Florencia 979,Reino de Costa Florencia 979,KL,DDV,Villa Norte,Africa,Eastern Africa,18874412,6010380.15,34.642,31.3517,Africa,2026-03-28T02:58:55.950100+00:00
+Villa Florencia 980,Estado de Villa Florencia 980,VI,CYK,Santa Marina,Oceania,Australia and New Zealand,174050898,959509.46,-38.7808,149.7587,Oceania,2026-02-18T16:59:47.950108+00:00
+Santa Rivania 981,Reino de Santa Rivania 981,PK,OQW,Ciudad Esperanza,Americas,South America,153441219,2492376.08,47.0453,-37.9106,America,2026-03-29T05:49:54.950117+00:00
+Rio Novaterra 982,Federación de Rio Novaterra 982,PE,QBD,Nueva Capital,Americas,South America,63757585,8438205.82,-48.2775,-97.0745,America,2026-02-15T16:40:22.950126+00:00
+Gran Estrella 983,Estado de Gran Estrella 983,OW,KEQ,Ciudad Esperanza,Africa,Eastern Africa,17917329,7842427.07,-3.41,-9.9373,Africa,2026-04-11T11:35:25.950134+00:00
+Monte Cordelia 984,Federación de Monte Cordelia 984,NW,GGD,Puerto Central,Africa,Southern Africa,172323909,7107733.54,15.6808,27.1914,Africa,2026-04-01T11:35:49.950143+00:00
+San Centralia 985,Federación de San Centralia 985,LW,ZON,Santa Marina,Americas,Caribbean,214580837,1217512.67,54.7345,-130.2513,America,2026-03-25T22:52:11.950151+00:00
+Valle Cedral 986,Federación de Valle Cedral 986,VX,YFJ,Puerto Central,Africa,Southern Africa,14145507,7658800.75,-15.1564,-10.8936,Africa,2026-04-16T05:33:34.950160+00:00
+Bajo Terranova 987,Estado de Bajo Terranova 987,ZI,ZAA,Puerto Central,Africa,Middle Africa,25837235,7994025.85,15.4321,22.2917,Africa,2026-01-08T00:32:01.950169+00:00
+Puerto Andina 988,República de Puerto Andina 988,PA,QJN,San Aurelio,Oceania,Melanesia,161128421,10610637.92,-25.2041,157.8213,Oceania,2026-01-05T16:45:50.950177+00:00
+San Marfilia 989,República de San Marfilia 989,JL,SOX,San Aurelio,Oceania,Australia and New Zealand,219646749,8244124.85,-6.6813,164.5925,Oceania,2026-04-13T10:14:22.950185+00:00
+Alto Lunaria 990,Reino de Alto Lunaria 990,RP,XUA,Ciudad del Sol,Asia,Southeast Asia,108474515,16359999.6,65.6938,165.2282,Asia,2026-02-08T13:29:54.950214+00:00
+Bajo Cordelia 991,República de Bajo Cordelia 991,RM,ZRI,Río Blanco,Oceania,Polynesia,29916918,7831361.22,-24.0508,163.5078,Oceania,2025-12-28T11:42:29.950226+00:00
+Nueva Terranova 992,Federación de Nueva Terranova 992,UY,IJJ,Nueva Capital,Americas,Central America,118669238,10683428.3,-49.4601,-121.9818,America,2026-03-09T00:39:23.950236+00:00
+Monte Centralia 993,República de Monte Centralia 993,VL,YQJ,Capital Nova,Americas,Central America,109268973,957001.11,-10.676,-119.0921,America,2026-02-15T22:09:17.950246+00:00
+Valle Novaterra 994,Federación de Valle Novaterra 994,UC,FRX,Puerto Azul,Asia,Eastern Asia,105803297,4455028.82,-1.5806,69.1096,Asia,2026-01-07T12:10:29.950256+00:00
+Puerto Nubaria 995,República de Puerto Nubaria 995,PA,DIS,Río Blanco,Africa,Northern Africa,144956996,13567152.66,33.7775,23.849,Africa,2026-01-21T10:38:42.950266+00:00
+Puerto Aurora 996,Estado de Puerto Aurora 996,VG,ZUW,Capital Nova,Americas,South America,237410410,14441857.02,-50.9974,-129.1278,America,2026-03-22T18:30:01.950275+00:00
+Rio Andina 997,República de Rio Andina 997,DW,EKZ,Ciudad del Sol,Asia,Western Asia,66992672,7951241.58,59.1387,29.3677,Asia,2026-01-05T18:51:43.950285+00:00
+Monte Venturia 998,Estado de Monte Venturia 998,WG,FUG,Monte Claro,Oceania,Micronesia,5807084,4160349.0,-20.5129,167.6982,Oceania,2026-03-10T00:43:24.950298+00:00
+Valle Pacifica 999,Reino de Valle Pacifica 999,JW,DSF,Ciudad Esperanza,Asia,Eastern Asia,88088337,13347752.58,12.6565,104.5441,Asia,2026-02-16T12:04:08.950319+00:00
+Monte Rivania 1000,Federación de Monte Rivania 1000,MW,PJG,Monte Claro,Americas,North America,14659943,17161689.93,26.9857,-91.471,America,2026-01-26T18:15:03.950333+00:00

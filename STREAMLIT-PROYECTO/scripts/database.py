@@ -13,16 +13,16 @@ load_dotenv()
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Obtener la URL de conexión desde .env
+# Obtener la URL desde .env
 DATABASE_URL = os.getenv("DATABASE_URL")
 
 # Validar que exista
 if not DATABASE_URL:
     raise ValueError("❌ DATABASE_URL no está configurada en el archivo .env")
 
-logger.info("Conectando a la base de datos atlas...")
+logger.info("Conectando a la base de datos...")
 
-# Crear engine de conexión
+# Crear engine
 engine = create_engine(
     DATABASE_URL,
     echo=False
@@ -38,7 +38,7 @@ SessionLocal = sessionmaker(
     bind=engine
 )
 
-# Metadata para inspeccionar la base de datos
+# Metadata
 metadata = MetaData()
 
 try:
@@ -68,7 +68,6 @@ def test_connection():
             connection.execute(text("SELECT 1"))
             logger.info("✅ Conexión a PostgreSQL exitosa")
             return True
-
     except Exception as e:
         logger.error(f"❌ Error conectando a PostgreSQL: {e}")
         return False
@@ -81,6 +80,5 @@ def create_all_tables():
     try:
         Base.metadata.create_all(bind=engine)
         logger.info("✅ Tablas creadas exitosamente")
-
     except Exception as e:
         logger.error(f"❌ Error creando tablas: {e}")
